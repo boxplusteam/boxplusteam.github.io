@@ -3,66 +3,188 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Descargar BOX PLUS</title>
+    <title>BOX PLUS - Descarga APK</title>
     <style>
-        /* Estilos básicos para centrar el contenido y hacer el botón atractivo */
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
+        * {
             margin: 0;
-            background-color: #f4f4f4;
-            flex-direction: column;
-            text-align: center;
+            padding: 0;
+            box-sizing: border-box;
         }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
         .container {
+            text-align: center;
+            padding: 20px;
+            max-width: 400px;
+            width: 100%;
+        }
+
+        .logo-container {
+            margin-bottom: 40px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .logo {
+            width: 120px;
+            height: 120px;
             background: white;
-            padding: 30px 50px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 24px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
         }
+
+        .logo::before {
+            content: '';
+            position: absolute;
+            width: 60px;
+            height: 60px;
+            background: #667eea;
+            border-radius: 12px;
+            transform: rotate(45deg);
+        }
+
+        .logo::after {
+            content: '';
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background: white;
+            border-radius: 6px;
+        }
+
         h1 {
-            color: #333;
-            margin-bottom: 20px;
+            color: white;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            letter-spacing: -1px;
         }
+
+        .subtitle {
+            color: rgba(255,255,255,0.8);
+            font-size: 1.1rem;
+            margin-bottom: 50px;
+            font-weight: 300;
+        }
+
         .download-btn {
             display: inline-block;
-            padding: 15px 30px;
-            font-size: 18px;
-            font-weight: bold;
-            color: white;
-            background-color: #28a745; /* Color verde llamativo */
-            border: none;
-            border-radius: 5px;
-            text-decoration: none; /* Quita el subrayado del enlace */
-            transition: background-color 0.3s ease, transform 0.1s ease;
-            cursor: pointer;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            padding: 18px 40px;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            animation: pulse 2s infinite;
         }
+
         .download-btn:hover {
-            background-color: #218838; /* Un verde más oscuro al pasar el ratón */
+            transform: translateY(-2px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
         }
+
         .download-btn:active {
-            transform: scale(0.98); /* Pequeño efecto de "presionar" */
+            transform: translateY(0);
         }
-        p {
-            margin-top: 20px;
-            color: #666;
+
+        .android-badge {
+            margin-top: 30px;
+            color: rgba(255,255,255,0.6);
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .android-icon {
+            width: 20px;
+            height: 20px;
+            background: rgba(255,255,255,0.6);
+            border-radius: 4px;
+            position: relative;
+        }
+
+        .android-icon::before {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            right: 2px;
+            bottom: 2px;
+            background: #667eea;
+            border-radius: 2px;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
+            50% { box-shadow: 0 10px 40px rgba(0,0,0,0.3); }
+            100% { box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
+        }
+
+        @media (max-height: 600px) {
+            .container {
+                transform: scale(0.9);
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .logo {
+                width: 100px;
+                height: 100px;
+            }
+            
+            .subtitle {
+                font-size: 1rem;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>📦 Descargar BOX PLUS APK</h1>
-        <a 
-            href="https://www.mediafire.com/file/643jsbrit78k847/BOX-PLUS.apk/file" 
-            class="download-btn" 
-            download="BOX-PLUS.apk"
-        >
-            Haz clic para Descargar
+        <div class="logo-container">
+            <div class="logo"></div>
+        </div>
+        
+        <h1>BOX PLUS</h1>
+        <p class="subtitle">Aplicación Android</p>
+        
+        <a href="https://www.mediafire.com/file/643jsbrit78k847/BOX-PLUS.apk/file" 
+           class="download-btn" 
+           download="BOX-PLUS.apk">
+            Descargar APK
         </a>
-        <p>El archivo se llama **BOX-PLUS.apk** y se descargará automáticamente.</p>
+        
+        <div class="android-badge">
+            <div class="android-icon"></div>
+            Solo para Android
+        </div>
     </div>
 </body>
 </html>
+
