@@ -43,45 +43,22 @@
             justify-content: center;
             box-shadow: 0 20px 40px rgba(0,0,0,0.1);
             position: relative;
-            overflow: hidden;
-        }
-
-        .logo::before {
-            content: '';
-            position: absolute;
-            width: 60px;
-            height: 60px;
-            background: #667eea;
-            border-radius: 12px;
-            transform: rotate(45deg);
-        }
-
-        .logo::after {
-            content: '';
-            position: absolute;
-            width: 30px;
-            height: 30px;
-            background: white;
-            border-radius: 6px;
         }
 
         h1 {
             color: white;
             font-size: 2.5rem;
-            font-weight: 700;
             margin-bottom: 10px;
-            letter-spacing: -1px;
         }
 
         .subtitle {
             color: rgba(255,255,255,0.8);
             font-size: 1.1rem;
-            margin-bottom: 50px;
-            font-weight: 300;
+            margin-bottom: 40px;
         }
 
         .download-btn {
-            display: inline-block;
+            display: block;
             background: white;
             color: #667eea;
             text-decoration: none;
@@ -89,102 +66,60 @@
             border-radius: 50px;
             font-size: 1.1rem;
             font-weight: 600;
+            margin-bottom: 15px;
             box-shadow: 0 10px 30px rgba(0,0,0,0.2);
             transition: all 0.3s ease;
-            animation: pulse 2s infinite;
         }
 
         .download-btn:hover {
             transform: translateY(-2px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
         }
 
-        .download-btn:active {
-            transform: translateY(0);
+        .tv-btn {
+            background: #2d3748;
+            color: #ffffff;
         }
 
         .android-badge {
             margin-top: 30px;
-            color: rgba(255,255,255,0.6);
+            color: rgba(255,255,255,0.7);
             font-size: 0.9rem;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-        }
-
-        .android-icon {
-            width: 20px;
-            height: 20px;
-            background: rgba(255,255,255,0.6);
-            border-radius: 4px;
-            position: relative;
-        }
-
-        .android-icon::before {
-            content: '';
-            position: absolute;
-            top: 2px;
-            left: 2px;
-            right: 2px;
-            bottom: 2px;
-            background: #667eea;
-            border-radius: 2px;
         }
 
         @keyframes float {
             0%, 100% { transform: translateY(0); }
             50% { transform: translateY(-10px); }
         }
-
-        @keyframes pulse {
-            0% { box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
-            50% { box-shadow: 0 10px 40px rgba(0,0,0,0.3); }
-            100% { box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
-        }
-
-        @media (max-height: 600px) {
-            .container {
-                transform: scale(0.9);
-            }
-        }
-
-        @media (max-width: 480px) {
-            h1 {
-                font-size: 2rem;
-            }
-            
-            .logo {
-                width: 100px;
-                height: 100px;
-            }
-            
-            .subtitle {
-                font-size: 1rem;
-            }
-        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="logo-container">
-            <div class="logo"></div>
-        </div>
-        
-        <h1>BOX PLUS</h1>
-        <p class="subtitle">Aplicación Android</p>
-        
-        <a href="https://www.mediafire.com/file/643jsbrit78k847/BOX-PLUS.apk/file" 
-           class="download-btn" 
-           download="BOX-PLUS.apk">
-            Descargar APK
-        </a>
-        
-        <div class="android-badge">
-            <div class="android-icon"></div>
-            Solo para Android
-        </div>
+
+<div class="container">
+    <div class="logo-container">
+        <div class="logo"></div>
     </div>
+
+    <h1>BOX PLUS</h1>
+    <p class="subtitle">Aplicación Android</p>
+
+    <!-- Botón Android -->
+    <a href="https://www.mediafire.com/file/643jsbrit78k847/BOX-PLUS.apk/file"
+       class="download-btn"
+       download>
+        📱 Descargar APK Android
+    </a>
+
+    <!-- Botón Android TV -->
+    <a href="https://www.mediafire.com/file/vam3773plohpor0/BOXPLUSTV.apk/file"
+       class="download-btn tv-btn"
+       download>
+        📺 Descargar APK para TV
+    </a>
+
+    <div class="android-badge">
+        Compatible con Android y Android TV
+    </div>
+</div>
+
 </body>
 </html>
-
