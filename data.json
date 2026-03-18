@@ -1,25 +1,70 @@
 [
-  {
-  "title": "Zorro",
-  "original_title": "Zorro (Serie TV)",
-  "year": 2024,
-  "genre": ["Acción", "Aventura", "Western"],
-  "studio": "Secuoya Studios / Amazon MGM Studios",
-  "coverImage": "https://m.media-amazon.com/images/M/MV5BMjYwMGNlYTMtMTQ2Yy00ZjRkLTlhMTktYjE2ZDFmNzBlMmFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-  "description": "Diego de la Vega regresa a California para vengar el asesinato de su padre. Tras ser elegido por el espíritu del Zorro, adopta la identidad del legendario héroe enmascarado. En una California convulsa del siglo XIX, deberá enfrentarse a la corrupción, a intereses extranjeros y a la búsqueda de justicia, mientras descubre los secretos que rodean su propio legado.",
+{
+  "title": "Cobra Kai",
+  "original_title": "Cobra Kai",
+  "year": 2018,
+  "genre": ["Acción", "Comedia", "Drama", "Artes Marciales"],
+  "studio": "Sony Pictures Television / Netflix",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWTkQiiO0etqTfcvYPqokCliJ4iBNAiCqMvSeArZvgA&s",
+  "description": "34 años después de los eventos del torneo de karate All Valley de 1984, Johnny Lawrence busca redención abriendo nuevamente el dojo Cobra Kai. Esto reaviva su rivalidad con un ahora exitoso Daniel LaRusso, quien lucha por mantener el equilibrio en su vida sin la guía de su mentor, el Sr. Miyagi.",
   "episodes": [
-    { "episode": 1, "title": "Episodio 1", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E01.mp4" },
-    { "episode": 2, "title": "Episodio 2", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E02.mp4" },
-    { "episode": 3, "title": "Episodio 3", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E03.mp4" },
-    { "episode": 4, "title": "Episodio 4", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E04.mp4" },
-    { "episode": 5, "title": "Episodio 5", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E05.mp4" },
-    { "episode": 6, "title": "Episodio 6", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E06.mp4" },
-    { "episode": 7, "title": "Episodio 7", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E07.mp4" },
-    { "episode": 8, "title": "Episodio 8", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E08.mp4" },
-    { "episode": 9, "title": "Episodio 9", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E09.mp4" },
-    { "episode": 10, "title": "Episodio 10", "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Zorro/Amazon.Prime.Video_.Zorro.2024.S01.E10.mp4" }
+    {
+      "season": 1,
+      "episode": 1,
+      "title": "As de los degenerados",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E01.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "title": "Golpea primero",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E02.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "title": "Esqueleto",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E03.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "title": "Cobra Kai nunca muere",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E04.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "title": "Contrapunto",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E05.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "title": "Quiebre",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E06.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "title": "All Valley",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E07.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "title": "Muda la piel",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E08.-.BY.SANDRO.STORE.mp4"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "title": "Diferente pero igual",
+      "video_url": "https://sandroflix.sandrostoreps3.workers.dev/content/series/Cobra.kai/Cobra.Kai.S01E09.-.BY.SANDRO.STORE.mp4"
+    }
   ]
 },
+  
   
   {
     "title": "Death Note",
