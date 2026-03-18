@@ -1,5 +1,42 @@
 [
   {
+    "title": "Death Note",
+    "description": "Light Yagami es un estudiante brillante que encuentra un cuaderno sobrenatural que tiene el poder de matar a cualquier persona cuyo nombre sea escrito en él. Light decide limpiar el mundo de criminales, pero pronto se ve perseguido por un misterioso detective conocido como L.",
+    "year": 2006,
+    "studio": "Warner Bros. Japan",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjCGZjv7ngT-h-oX2fctM2qsaHxqzOnBQHDn1Vlr1ZQ&s=10",
+    "genre": ["Suspenso", "Fantasía", "Crimen"],
+    "video_url": "https://archive.org/download/pelicula-01-castellano-death-note/Pelicula%2001%20%28Castellano%29%20-%20Death%20Note.ia.mp4"
+  },
+  {
+    "title": "Death Note: El Último Nombre",
+    "description": "En esta segunda entrega, el duelo intelectual entre Light y L llega a su clímax. Con la aparición de una segunda Death Note y nuevos personajes como Misa Amane, Light intenta eliminar a L para convertirse en el dios del nuevo mundo.",
+    "year": 2006,
+    "studio": "Warner Bros. Japan",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyaBpUv-FA18BWZRxE2uD_X9iUd_z77TgVqLhvCCgDA&s=10",
+    "genre": ["Suspenso", "Fantasía", "Drama"],
+    "video_url": "https://archive.org/download/pelicula-01-castellano-death-note/Pelicula%2002%20%28Castellano%29%20-%20Death%20Note%20-%20El%20Ultimo%20Nombre.ia.mp4"
+  },
+  {
+    "title": "Death Note: L Change the World",
+    "description": "Spin-off centrado en el legendario detective L. Antes de que su tiempo se agote, L debe resolver un último caso: detener a un grupo terrorista que planea erradicar a la humanidad con un virus mortal.",
+    "year": 2008,
+    "studio": "Warner Bros. Japan",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZorJlqj9ethiZI4H-t4ZileIpEGY_yYYhP_5JcmEubw&s=10",
+    "genre": ["Acción", "Misterio", "Suspenso"],
+    "video_url": "https://archive.org/download/pelicula-01-castellano-death-note/Pelicula%2003%20%28Subtitulado%29%20%20Death%20Note%20-%20L%20Cambia%20el%20Mundo.ia.mp4"
+  },
+  {
+    "title": "Death Note: Iluminando un nuevo mundo",
+    "description": "Diez años después de la muerte de Light y L, seis cuadernos de muerte caen a la Tierra. El mundo se sumerge en el caos mientras tres facciones luchan por el control de los cuadernos en una guerra tecnológica y estratégica.",
+    "year": 2016,
+    "studio": "Warner Bros. Japan",
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvO_55KAJJdt7t32cxmY3p68IEh9Jx9I4QTCnt14aBA&s=10",
+    "genre": ["Acción", "Fantasía", "Crimen"],
+    "video_url": "https://archive.org/download/pelicula-01-castellano-death-note/Pelicula%2004%20%28Castellano%29%20-%20Death%20Note%20-%20iluminando%20un%20nuevo%20mundo.ia.mp4"
+  }
+
+  {
     "title": "Five Nights at Freddy’s 2",
     "description": "Secuela de la adaptación cinematográfica del popular videojuego de terror. La supervivencia nocturna continúa.",
     "year": 2025,
