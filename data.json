@@ -1,6 +1,18 @@
 [
 
-  
+  {
+    "title": "Pokémon: Los Orígenes",
+    "description": "Esta miniserie sigue la historia original de los videojuegos Pokémon Rojo y Pokémon Azul. Red, un joven entrenador de Pueblo Paleta, emprende su viaje para completar la Pokédex y derrotar a su rival Blue, reviviendo los momentos más icónicos de la primera generación, incluyendo el enfrentamiento con el Team Rocket y la búsqueda de los Pokémon legendarios.",
+    "year": 2013,
+    "studio": "The Pokémon Company / OLM",
+    "coverImage": "https://m.media-amazon.com/images/I/61pfbX6FTbL._AC_UF894,1000_QL80_.jpg",
+    "genre": [
+      "Anime",
+      "Aventura",
+      "Acción"
+    ],
+    "video_url": "https://archive.org/download/pokemon-los-origenes-espanol-poke-tvlatino-f/Pok%C3%A9mon_Los_or%C3%ADgenes_Espa%C3%B1ol_-_PokeTVLatino_f_.ia.mp4"
+  },
   
   {
     "title": "Death Note",
