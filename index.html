@@ -3,123 +3,385 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BOX PLUS - Descarga APK</title>
+    <title>Vortex Stream | Tu Cine Privado</title>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;500;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
+        :root {
+            --bg-base: #050505;
+            --bg-surface: #121212;
+            --bg-surface-hover: #1a1a1a;
+            --text-main: #ffffff;
+            --text-muted: #888888;
+            --win-color: #E50914; /* Rojo Netflix */
+            --and-color: #F47521; /* Naranja Crunchyroll */
+        }
+
         * {
+            box-sizing: border-box;
             margin: 0;
             padding: 0;
-            box-sizing: border-box;
+            font-family: 'Manrope', sans-serif;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
+            background-color: var(--bg-base);
+            color: var(--text-main);
+            overflow-x: hidden;
+            line-height: 1.6;
+        }
+
+        /* --- NAVEGACIÓN --- */
+        nav {
+            padding: 20px 5%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            width: 100%;
+            top: 0;
+            z-index: 100;
+        }
+
+        /* --- HERO SECTION --- */
+        .hero {
+            min-height: 65vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 100px 20px 40px;
+            background: radial-gradient(circle at 50% 0%, rgba(30,30,30,1) 0%, var(--bg-base) 70%);
+        }
+
+        .hero h1 {
+            font-size: clamp(3rem, 8vw, 5.5rem);
+            font-weight: 800;
+            letter-spacing: -2px;
+            line-height: 1.1;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, #fff 0%, #aaa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .hero p {
+            color: var(--text-muted);
+            font-size: clamp(1rem, 2vw, 1.2rem);
+            max-width: 600px;
+            margin-bottom: 0;
+        }
+
+        /* --- DOWNLOAD GRID --- */
+        .downloads {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            max-width: 1000px;
+            margin: -40px auto 60px;
+            padding: 0 20px;
+            position: relative;
+            z-index: 10;
+        }
+
+        .card {
+            background-color: var(--bg-surface);
+            border: 1px solid rgba(255,255,255,0.05);
+            border-radius: 24px;
+            padding: 50px 40px;
+            text-align: center;
+            transition: transform 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .card img {
+            height: 70px;
+            margin-bottom: 25px;
+            border-radius: 12px;
+        }
+
+        .card h2 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            font-weight: 800;
+        }
+
+        .card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-bottom: 35px;
+            flex-grow: 1;
+        }
+
+        /* Variantes de Tarjetas */
+        .card.win:hover {
+            transform: translateY(-10px);
+            background-color: var(--bg-surface-hover);
+            border-color: rgba(229, 9, 20, 0.3);
+            box-shadow: 0 20px 40px rgba(229, 9, 20, 0.05);
+        }
+
+        .card.and:hover {
+            transform: translateY(-10px);
+            background-color: var(--bg-surface-hover);
+            border-color: rgba(244, 117, 33, 0.3);
+            box-shadow: 0 20px 40px rgba(244, 117, 33, 0.05);
+        }
+
+        /* Botones Profesionales */
+        .btn {
             display: flex;
             align-items: center;
             justify-content: center;
-            overflow: hidden;
-        }
-
-        .container {
-            text-align: center;
-            padding: 20px;
-            max-width: 400px;
+            gap: 10px;
             width: 100%;
+            padding: 18px 30px;
+            border-radius: 16px;
+            font-weight: 800;
+            font-size: 1rem;
+            text-decoration: none;
+            transition: all 0.2s ease;
         }
 
-        .logo-container {
-            margin-bottom: 40px;
-            animation: float 3s ease-in-out infinite;
+        .btn i { font-size: 1.2rem; }
+
+        .btn.win-btn {
+            background-color: var(--win-color);
+            color: white;
+        }
+        .btn.win-btn:hover { background-color: #c40812; transform: scale(1.02); }
+
+        .btn.and-btn {
+            background-color: var(--and-color);
+            color: white;
+        }
+        .btn.and-btn:hover { background-color: #d96216; transform: scale(1.02); }
+
+        /* --- SECCIÓN DE CONTENIDO (SCROLL) --- */
+        .content-section {
+            max-width: 1400px;
+            margin: 0 auto 80px;
+            padding: 0 5%;
         }
 
-        .logo {
-            width: 120px;
-            height: 120px;
-            background: white;
-            border-radius: 24px;
-            display: inline-flex;
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .section-header h3 {
+            font-size: 1.5rem;
+            font-weight: 800;
+        }
+
+        .dot-win { width: 12px; height: 12px; background-color: var(--win-color); border-radius: 50%; }
+        .dot-and { width: 12px; height: 12px; background-color: var(--and-color); border-radius: 50%; }
+
+        /* Contenedor Scroll Oculto pero Funcional */
+        .slider {
+            display: flex;
+            gap: 20px;
+            overflow-x: auto;
+            padding-bottom: 20px;
+            scroll-snap-type: x mandatory;
+            /* Ocultar scrollbar */
+            -ms-overflow-style: none;
+            scrollbar-width: none; 
+        }
+        .slider::-webkit-scrollbar { display: none; }
+
+        .slide-item {
+            scroll-snap-align: start;
+            flex: 0 0 auto;
+            width: 180px;
+            height: 260px;
+            border-radius: 16px;
+            background-color: var(--bg-surface);
+            overflow: hidden;
+            position: relative;
+            transition: opacity 0.3s ease;
+        }
+
+        .slide-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .slide-item.tv {
+            background-color: #111;
+            display: flex;
             align-items: center;
             justify-content: center;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
-            position: relative;
+            padding: 20px;
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        .slide-item.tv img { object-fit: contain; }
+
+        .loader {
+            width: 100%;
+            text-align: center;
+            padding: 40px;
+            color: var(--text-muted);
+            font-weight: 500;
         }
 
-        h1 {
-            color: white;
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-        }
-
-        .subtitle {
-            color: rgba(255,255,255,0.8);
-            font-size: 1.1rem;
-            margin-bottom: 40px;
-        }
-
-        .download-btn {
-            display: block;
-            background: white;
-            color: #667eea;
-            text-decoration: none;
-            padding: 18px 40px;
-            border-radius: 50px;
-            font-size: 1.1rem;
-            font-weight: 600;
-            margin-bottom: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-            transition: all 0.3s ease;
-        }
-
-        .download-btn:hover {
-            transform: translateY(-2px);
-        }
-
-        .tv-btn {
-            background: #2d3748;
-            color: #ffffff;
-        }
-
-        .android-badge {
-            margin-top: 30px;
-            color: rgba(255,255,255,0.7);
+        /* --- FOOTER --- */
+        footer {
+            border-top: 1px solid rgba(255,255,255,0.05);
+            padding: 40px 5%;
+            text-align: center;
+            color: var(--text-muted);
             font-size: 0.9rem;
         }
+        footer a { color: var(--text-muted); text-decoration: none; margin: 0 10px; }
+        footer a:hover { color: white; }
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
+        @media (max-width: 768px) {
+            .downloads { margin-top: 20px; }
+            .card { padding: 40px 20px; }
         }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <div class="logo-container">
-        <div class="logo"></div>
-    </div>
+    <nav>
+        </nav>
 
-    <h1>BOX PLUS</h1>
-    <p class="subtitle">Aplicación Android</p>
+    <header class="hero">
+        <h1>VORTEX STREAM</h1>
+        <p>Todo tu contenido en un solo lugar. Descarga la aplicación diseñada específicamente para tu ecosistema y disfruta sin interrupciones.</p>
+    </header>
 
-    <!-- Botón Android -->
-    <a href="https://www.mediafire.com/file/643jsbrit78k847/BOX-PLUS.apk/file"
-       class="download-btn"
-       download>
-        📱 Descargar APK Android
-    </a>
+    <section class="downloads">
+        <div class="card win">
+            <img src="vortexred.png" alt="Logo Windows">
+            <h2>Windows</h2>
+            <p>Rendimiento nativo y calidad 4K. La experiencia definitiva para tu ordenador de sobremesa o portátil.</p>
+            <a href="https://www.mediafire.com/file/16ypgd17hsvmh73/Setup.exe/file" target="_blank" class="btn win-btn">
+                <i class="fa-brands fa-windows"></i> Descargar para PC
+            </a>
+        </div>
 
-    <!-- Botón Android TV -->
-    <a href="https://www.mediafire.com/file/vam3773plohpor0/BOXPLUSTV.apk/file"
-       class="download-btn tv-btn"
-       download>
-        📺 Descargar APK para TV
-    </a>
+        <div class="card and">
+            <img src="vortexori.webp" alt="Logo Android">
+            <h2>Android & TV</h2>
+            <p>Optimizado para pantallas táctiles y Smart TVs. Lleva tus series favoritas siempre en tu bolsillo.</p>
+            <a href="https://play.google.com/store/apps/details?id=box.plus3&pcampaignid=web_share" target="_blank" class="btn and-btn">
+                <i class="fa-brands fa-google-play"></i> Disponible en Google Play
+            </a>
+        </div>
+    </section>
 
-    <div class="android-badge">
-        Compatible con Android y Android TV
-    </div>
-</div>
+    <section class="content-section">
+        <div class="section-header">
+            <div class="dot-win"></div>
+            <h3>Agregados Recientemente</h3>
+        </div>
+        <div class="slider" id="vod-slider">
+            <div class="loader">Sincronizando catálogo...</div>
+        </div>
 
+        <div class="section-header" style="margin-top: 40px;">
+            <div class="dot-and"></div>
+            <h3>Televisión en Directo</h3>
+        </div>
+        <div class="slider" id="tv-slider">
+            <div class="loader">Buscando señales...</div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 Vortex Stream. Todos los derechos reservados.</p>
+        <p style="margin-top: 10px;">
+            <a href="#">Términos de Servicio</a> | 
+            <a href="#">Política de Privacidad</a> | 
+            <a href="#">Contacto</a>
+        </p>
+    </footer>
+
+    <script>
+        // Función auxiliar
+        function createPreviewItem(imageUrl, isTv = false) {
+            const div = document.createElement('div');
+            div.className = `slide-item ${isTv ? 'tv' : ''}`;
+            
+            const img = document.createElement('img');
+            img.src = imageUrl;
+            img.loading = "lazy";
+            
+            img.onerror = function() {
+                this.onerror = null;
+                this.src = isTv 
+                    ? 'https://via.placeholder.com/180x260/222222/ffffff?text=TV' 
+                    : 'https://via.placeholder.com/180x260/222222/ffffff?text=Vortex';
+            };
+            
+            div.appendChild(img);
+            return div;
+        }
+
+        // 1. Cargar JSON (Películas/Series)
+        async function fetchBoxPlusData() {
+            const container = document.getElementById('vod-slider');
+            try {
+                const res = await fetch('https://raw.githubusercontent.com/boxplusteam/boxplusteam.github.io/refs/heads/main/data.json');
+                if (!res.ok) throw new Error('Error en red');
+                const data = await res.json();
+                
+                container.innerHTML = '';
+                // Mezclar y tomar 15
+                const shuffled = data.sort(() => 0.5 - Math.random()).slice(0, 15);
+                
+                shuffled.forEach(item => {
+                    if(item.coverImage) {
+                        container.appendChild(createPreviewItem(item.coverImage, false));
+                    }
+                });
+            } catch (error) {
+                console.error("Error VOD:", error);
+                container.innerHTML = '<div class="loader">Catálogo en mantenimiento temporal.</div>';
+            }
+        }
+
+        // 2. Cargar M3U (Televisión)
+        async function fetchTvData() {
+            const container = document.getElementById('tv-slider');
+            try {
+                const res = await fetch('https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_ES.m3u');
+                if (!res.ok) throw new Error('Error en red');
+                const text = await res.text();
+                
+                container.innerHTML = '';
+                const lines = text.split('\n');
+                let added = 0;
+
+                for (let line of lines) {
+                    if (added >= 15) break;
+                    if (line.includes('tvg-logo="')) {
+                        const match = line.match(/tvg-logo="([^"]+)"/);
+                        if (match && match[1]) {
+                            container.appendChild(createPreviewItem(match[1], true));
+                            added++;
+                        }
+                    }
+                }
+            } catch (error) {
+                console.error("Error TV:", error);
+                container.innerHTML = '<div class="loader">Canales en mantenimiento temporal.</div>';
+            }
+        }
+
+        // Ejecutar al cargar el documento
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchBoxPlusData();
+            fetchTvData();
+        });
+    </script>
 </body>
 </html>
