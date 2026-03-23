@@ -1,6 +1,158 @@
 [
 
   {
+  "title": "Dragon Ball Daima",
+  "original_title": "Dragon Ball Daima",
+  "year": 2024,
+  "genre": ["Acción", "Aventura", "Anime", "Fantasía"],
+  "studio": "Toei Animation",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BYWNjY2MxOTAtYWVjMS00YzJjLTk1ZTYtZGE0ZDA5MmQwNDUzXkEyXkFqcGc@._V1_.jpg",
+  "description": "Goku y sus amigos son convertidos en niños debido a un misterioso complot y viajan al Reino Demoníaco para descubrir la verdad y enfrentarse a nuevos enemigos.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Conspiración",
+      "description": "Un gran castillo en un mundo misterioso. Dos Majins sospechosos miran un monitor...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/r3SDXWQxc5PqZ5yvcwerJq2DgEe.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Glorio",
+      "description": "Goku y sus amigos ahora son pequeños debido al plan de Gomah...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Daima",
+      "description": "Goku, Supremo Kaio y Glorio se dirigen al Reino Demoníaco...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/j4E7fEAPaVlM9u4P90I2Q3BtogF.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "Cotorra",
+      "description": "Tras verse obligados a recorrer el Tercer mundo demoníaco a pie...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/cig3XdGMpGWUQkajoGSQU9Fry1W.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "Panzy",
+      "description": "El Majin enmascarado que apareció frente a Goku...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/oxkBT8aiQWEEQhLHUIqYCpcU7dP.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Rayo",
+      "description": "Tras enfrentarse a la gendarmería...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/sqrlnH3tLl3JMUJHlCAUUQ8lVt5.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "Collar",
+      "description": "Goku y compañía continúan su aventura...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/pRXR1zSSIbiDKpBNulx7lZCtT3t.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Tamagami",
+      "description": "¡Comienza la pelea contra un Tamagami!",
+      "coverImage": "https://image.tmdb.org/t/p/w300/3KbtT3bWqcQieS71dLBtpxeZLL2.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "Ladrones",
+      "description": "Los rumores sobre las hazañas de Goku han corrido...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/2d3UZpI07m03dL68tlKzjFTyiwb.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_09.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Océano",
+      "description": "Goku y compañía llegan al místico Segundo mundo demoníaco...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/pF73h1gpZX0x887ph38IfDsQRkc.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_10.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "Leyenda",
+      "description": "Goku, Vegeta y los demás llegan a un planeta familiar...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/mj7AqhBGWB1b7zfdUVA46R6wHX2.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_11.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "Verdadera fuerza",
+      "description": "La batalla entre Vegeta y el Tamagami está reñida...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/5T5ipgDLvQbyFQZy7zsOFtuu2U6.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_12.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "Sorpresa",
+      "description": "Goku y sus compañeros se dirigen hacia donde está Gomah...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/40GXfVsXABfU3q8kONqIh5tfyO6.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_13.mkv"
+    },
+    {
+      "episode": 14,
+      "title": "Tabú",
+      "description": "Para frenar el avance de Goku, Gomah comete un tabú...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/8yiYCV4sKI7DKipRAXScjn0TPiW.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_14.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "Tercer Ojo",
+      "description": "El Tercer Ojo del Mal proporciona un poder absoluto...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/vDZ4dJ59cw2Nltf2Dci1DXCfE4j.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_15.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Degesu",
+      "description": "Goku y sus compañeros llegan al palacio de Gomah...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/zR2cUCEX14BoilmnByOL0GVq3Fs.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_16.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "Gomah",
+      "description": "Goku y sus amigos se enfrentan a Arinsu...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/vSGMCrxd788k585aLxiTDiFaUs9.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_17.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "El despertar",
+      "description": "El Rey Gomah entra en el campo de batalla...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/PeyYcVcYOADRyf9HUtaGnL3gxh.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_18.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "Traición",
+      "description": "La pelea continúa sin demasiada tregua...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/imJl2fb8m65L4u7UWsaHkYMt1HY.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_19.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "Al máximo",
+      "description": "Goku sobrepasa sus límites en la batalla final...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/yBqVWtuK9ZdD2dJPPemFfDXdws7.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dragon_ball_daima/s_01_e_20.mkv"
+    }
+  ]
+},
+
+  {
   "title": "La Casa de Papel",
   "original_title": "La Casa de Papel",
   "year": 2017,
