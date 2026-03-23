@@ -1,6 +1,21 @@
 [
 
   {
+    "title": "El Rey León",
+    "description": "Simba, un joven príncipe león, es expulsado de su hogar tras la muerte de su padre, el rey Mufasa. Con la ayuda de sus amigos Timón y Pumba, Simba deberá encontrar el valor para regresar, enfrentarse a su tío Scar y reclamar su lugar legítimo en el Trono de la Roca.",
+    "year": 1994,
+    "studio": "Walt Disney Pictures",
+    "coverImage": "https://play-lh.googleusercontent.com/yqMqHTkHzM9QLZIEAmeSu7bM_NEb-CtAixsCWVkiwcQtUvHbDks_lDO9NBu0Red9VFCqOA",
+    "genre": [
+      "Animación",
+      "Aventura",
+      "Drama",
+      "Musical"
+    ],
+    "video_url": "https://archive.org/download/ver-el-rey-leon-online-gratis-cuevana-3/Ver_El_rey_le%C3%B3n_Online_Gratis_-_Cuevana_3.mp4"
+  },
+
+  {
   "title": "Alex Rider",
   "original_title": "Alex Rider",
   "year": 2020,
@@ -5539,19 +5554,7 @@
     { "episode": 108, "title": "La ovación que resuena en el valle", "video_url": "https://archive.org/download/candy.candy_202109/Capitulo%20108%20.%20La%20ovaci%C3%B3n%20que%20resuena%20en%20el%20valle.mp4" }
   ]
 },
-  {
-    "title": "Robots",
-    "description": "Rodney Hojalata es un joven e inventivo robot que sueña con hacer del mundo un lugar mejor. Para lograrlo, viaja a Ciudad Robot con la esperanza de conocer a su ídolo, el Gran Soldador, mientras se enfrenta a un malvado corporativo que quiere eliminar a los robots viejos.",
-    "year": 2005,
-    "studio": "Blue Sky Studios / 20th Century Fox",
-    "coverImage": "https://i.ibb.co/rs88fS2/robot.jpg",
-    "genre": [
-      "Animación",
-      "Aventura",
-      "Comedia"
-    ],
-    "video_url": "https://godna94.pp.ua/CONENIDO_1909AASSDD/SUBMENUS//_PROTECTOR_DE_ARCHIVOS_PARA_REPRODUCCION_DE_VIDEOS_GRACIAS_POR_VISITAR.php?v=aHR0cHM6Ly9pYTYwMTYwOS51cy5hcmNoaXZlLm9yZy8yMy9pdGVtcy8xNTAtci0wYi0wdHMtZHYtZHJpcC0zMTcwNzkvMTUwUjBiMHQlMjdzX0RWJTI0RFJpcF9fMzE3MDc5Lm1wNA==&f=.mp4"
-  },
+  
   {
     "title": "Hércules",
     "description": "Hijo de Zeus y Hera, Hércules es despojado de su inmortalidad por el malvado Hades. Para recuperar su lugar en el Olimpo, debe demostrar que es un héroe verdadero en la Tierra con la ayuda de su mentor Filoctetes y su caballo alado Pegaso.",
