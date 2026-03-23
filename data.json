@@ -1,5 +1,29 @@
 [
   {
+  "title": "Mob Psycho 100",
+  "original_title": "Mob Psycho 100",
+  "year": 2016,
+  "genre": ["Animación", "Acción", "Comedia", "Sobrenatural"],
+  "studio": "Bones",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU2XdwHUk0bbqfwPmsxtGAK4VxbAg45T4VuF2PDcASTg&s=10",
+  "description": "Shigeo Kageyama, apodado 'Mob', es un chico de secundaria con poderes psíquicos increíbles. Sin embargo, él prefiere vivir una vida normal y mantiene sus emociones bajo control para evitar que su poder se desate. Trabaja para Reigen Arataka, un charlatán que se hace pasar por psíquico, mientras intenta descubrir quién quiere ser realmente en un mundo lleno de espíritus y otros usuarios con poderes.",
+  "episodes": [
+    { "episode": 1, "title": "Auto-proclamado espiritista: Reigen Arataka", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2001.mkv" },
+    { "episode": 2, "title": "Dudas sobre la juventud: Aparece el club de telepatía", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2002.mkv" },
+    { "episode": 3, "title": "Invitación a una reunión: Solo quiero ser popular", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2003.mkv" },
+    { "episode": 4, "title": "Evento solo para idiotas: Kin", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2004.mkv" },
+    { "episode": 5, "title": "Samurái de ojos saltones: Psíquicos", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2005.mkv" },
+    { "episode": 6, "title": "Discordia: Hacia la perfección", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2006.mkv" },
+    { "episode": 7, "title": "Exaltación: He obtenido la pérdida", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2007.mkv" },
+    { "episode": 8, "title": "El hermano mayor se inclina: Intención de destruir", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2008.mkv" },
+    { "episode": 9, "title": "Garras: Séptima división", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2009.mkv" },
+    { "episode": 10, "title": "Aura de maldad: Maestro", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2010.mkv" },
+    { "episode": 11, "title": "Maestro: Líder", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2011.mkv" },
+    { "episode": 12, "title": "Mob y Reigen", "video_url": "http://series.tuxchannel.mx/series/mob%20psycho%20100/s%2001%20e%2012.mkv" }
+  ]
+  },
+  
+  {
   "title": "One Punch Man",
   "original_title": "One Punch Man",
   "year": 2015,
