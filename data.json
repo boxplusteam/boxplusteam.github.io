@@ -1,6 +1,192 @@
 [
 
   {
+  "title": "Jujutsu Kaisen",
+  "original_title": "Jujutsu Kaisen",
+  "year": 2020,
+  "genre": [
+    "Animación",
+    "Acción",
+    "Sobrenatural",
+    "Aventura"
+  ],
+  "studio": "MAPPA",
+  "coverImage": "https://www.selecta-vision.com/wp-content/uploads/2025/02/JujutsuBD.jpg",
+  "description": "Yuji Itadori se ve envuelto en el mundo de las maldiciones tras ingerir un objeto maldito, convirtiéndose en el anfitrión de Sukuna mientras estudia para convertirse en hechicero.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Ryomen Sukuna",
+      "description": "Yuji Itadori conoce a Megumi y se ve involucrado con un objeto maldito extremadamente peligroso.",
+      "image": "https://image.tmdb.org/t/p/w200/3wymoL9HYpllpFrcD8VCvemktGg.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Por mí",
+      "description": "Satoru Gojo aparece y prueba el control de Yuji sobre Sukuna.",
+      "image": "https://image.tmdb.org/t/p/w200/k5U9vkpy31UiqCkEc6x6OPBBB0R.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Chica de acero",
+      "description": "Nobara Kugisaki se une al equipo en una peligrosa misión.",
+      "image": "https://image.tmdb.org/t/p/w200/foMCHRzZVfCTvrmfWWeWViBzvZH.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "La existencia terrenal del vientre maldito",
+      "description": "El equipo investiga un útero maldito extremadamente peligroso.",
+      "image": "https://image.tmdb.org/t/p/w200/7AxWD8EGwgurIeNoS40YidIlbcT.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "La existencia terrenal del vientre maldito II",
+      "description": "Sukuna toma el control mientras Megumi enfrenta una batalla imposible.",
+      "image": "https://image.tmdb.org/t/p/w200/xXIK0xhHMThQkSkbBMAznaUTubj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Tras la lluvia",
+      "description": "Los estudiantes se preparan para el evento de intercambio.",
+      "image": "https://image.tmdb.org/t/p/w200/p7iB7X4BBr1vxeIjfeIelKZWaeS.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "Asalto",
+      "description": "Gojo demuestra su increíble poder frente a un enemigo de alto nivel.",
+      "image": "https://image.tmdb.org/t/p/w200/ggoWW4AChFzqNkVNr941EhRqTiX.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Aburrimiento",
+      "description": "Comienzan los enfrentamientos entre estudiantes de Tokio y Kioto.",
+      "image": "https://image.tmdb.org/t/p/w200/6RmiWPTEzDIOLmGI3zYo2GqVeOW.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "Donnadies y castigo",
+      "description": "Junpei conoce a Mahito y se adentra en el mundo de las maldiciones.",
+      "image": "https://image.tmdb.org/t/p/w200/6hsZIkinuai7bAE1cQYXEUIkjju.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_09.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Mutación pasiva",
+      "description": "Mahito influye en Junpei con su peligrosa filosofía.",
+      "image": "https://image.tmdb.org/t/p/w200/rYa2K1q24GNb3dgAvgZm6K6OTzj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_10.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "De mente cerrada",
+      "description": "Nanami enfrenta a Mahito en una intensa batalla.",
+      "image": "https://image.tmdb.org/t/p/w200/dVRE3XvFfgm8BRww4AqxokPMds1.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_11.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "Para ti, algún día",
+      "description": "Yuji intenta salvar a Junpei en medio del caos.",
+      "image": "https://image.tmdb.org/t/p/w200/yCvQNEZA4FC4yupgV9Ll8Hp7dCZ.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_12.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "Hasta mañana",
+      "description": "Yuji y Nanami luchan contra Mahito.",
+      "image": "https://image.tmdb.org/t/p/w200/ritCXU7BUcNodAVMMiTOAkrSigF.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_13.mkv"
+    },
+    {
+      "episode": 14,
+      "title": "Evento de intercambio - Combate grupal 0",
+      "description": "Comienza el evento entre escuelas de hechicería.",
+      "image": "https://image.tmdb.org/t/p/w200/wzimi19uWzAboYzDjYUDpdhEMUO.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_14.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "Evento de intercambio - Combate grupal 1",
+      "description": "Los estudiantes de Kioto atacan a Yuji.",
+      "image": "https://image.tmdb.org/t/p/w200/hoZfRWj2ROpzPnuKf45CUPzCRQE.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_15.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Evento de intercambio - Combate grupal 2",
+      "description": "Las batallas continúan con múltiples enfrentamientos.",
+      "image": "https://image.tmdb.org/t/p/w200/bDM0qdyzYUMhNpIH9AUkz7okbRE.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_16.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "Evento de intercambio - Combate grupal 3",
+      "description": "Nuevos combates intensifican el torneo.",
+      "image": "https://image.tmdb.org/t/p/w200/7BMedKvP6i1wIK7vLgL3v2BnRHe.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_17.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "Sabios",
+      "description": "Un espíritu maldito de grado especial aparece inesperadamente.",
+      "image": "https://image.tmdb.org/t/p/w200/haxqbRAfpDuS9MIEBk9ToRLNuxt.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_18.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "Destello negro",
+      "description": "El equipo enfrenta a Hanami en una dura batalla.",
+      "image": "https://image.tmdb.org/t/p/w200/qpDxYXnn0ZkoLPz0lB6iQZVIkHM.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_19.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "Fuera de lo común",
+      "description": "Yuji y Todo combinan fuerzas contra Hanami.",
+      "image": "https://image.tmdb.org/t/p/w200/f15D3bnszZigSKbc85wL8ItwLKn.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_20.mkv"
+    },
+    {
+      "episode": 21,
+      "title": "Jujutsu Koshien",
+      "description": "El ataque revela un plan más grande detrás de escena.",
+      "image": "https://image.tmdb.org/t/p/w200/jhTrnQKXpc7rxDwM1Wm7ulKf71P.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_21.mkv"
+    },
+    {
+      "episode": 22,
+      "title": "El origen de la fe ciega",
+      "description": "El equipo investiga misteriosas muertes.",
+      "image": "https://image.tmdb.org/t/p/w200/y1dNQyQtjmhYRIhdU6arnUPagcl.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_22.mkv"
+    },
+    {
+      "episode": 23,
+      "title": "El origen de la fe ciega II",
+      "description": "Megumi desata su expansión de dominio.",
+      "image": "https://image.tmdb.org/t/p/w200/eLxlqoRzD7HPe8JgiJd5iGpXpaf.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_23.mkv"
+    },
+    {
+      "episode": 24,
+      "title": "Complicidad",
+      "description": "Yuji y Nobara enfrentan una peligrosa maldición final.",
+      "image": "https://image.tmdb.org/t/p/w200/zIG6nADGUqJYDBXEsDaYyzYjHgH.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/jujutsu_kaisen/s_01_e_24.mkv"
+    }
+  ]
+},
+
+
+  {
   "title": "Dr. Stone",
   "original_title": "Dr. Stone",
   "year": 2019,
