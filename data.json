@@ -1,6 +1,128 @@
 [
 
   {
+  "title": "La Casa de Papel",
+  "original_title": "La Casa de Papel",
+  "year": 2017,
+  "genre": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "studio": "Antena 3 / Netflix",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BZDI0Zjk2NjMtOGRhMy00YzkyLWIwMzgtYmNiZDczM2IzOTAzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Un enigmático personaje llamado El Profesor planea el mayor atraco de la historia: entrar en la Fábrica Nacional de Moneda y Timbre para fabricar 2.400 millones de euros.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Capítulo 1",
+      "description": "Tokio, una joven experta en asaltos, es rescatada por El Profesor, quien le propone el golpe de su vida. Se une a un grupo de ocho atracadores para asaltar la Fábrica Nacional de Moneda y Timbre.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/wKpQvdfzsOf7hKWwU0H8sSXZh1T.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP1.mp4"
+    },
+    {
+      "episode": 2,
+      "title": "Capítulo 2",
+      "description": "Un descuido provoca que la policía vea la cara de uno de los atracadores. Arturo Román, jefe de la Fábrica, comprende que su vida corre peligro al haberles visto el rostro.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/bxrCLKigYre6WfR8GyNJ4u0FBlX.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP2.mp4"
+    },
+    {
+      "episode": 3,
+      "title": "Capítulo 3",
+      "description": "Berlín ordena a Denver ejecutar a Mónica tras pillarla con un móvil. Mientras, la inspectora Raquel Murillo intenta negociar la rendición de la banda.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/mS4EuitwU6QJuZZcy9ndDGDmgEp.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP3.mp4"
+    },
+    {
+      "episode": 4,
+      "title": "Capítulo 4",
+      "description": "Arturo necesita asistencia médica y un equipo se infiltra en la Fábrica. Entre ellos, el subinspector Ángel bajo una identidad falsa. Un equipo de élite prepara un asalto sorpresa.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/h1Jt1XUkSdUGf2NM4PK1yN463tN.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP4.mp4"
+    },
+    {
+      "episode": 5,
+      "title": "Capítulo 5",
+      "description": "La policía localiza el coche usado por Tokio y Río antes del golpe. La tensión aumenta tras 30 horas de encierro y Río se desmorona al ver a sus padres en televisión.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/w0IbY3aetrS01ZV0YySsLK1ypIA.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP5.mp4"
+    },
+    {
+      "episode": 6,
+      "title": "Capítulo 6",
+      "description": "La prensa cuestiona a Raquel tras filtrarse las negociaciones. Dentro, Berlín anuncia que Arturo se recupera mientras afirma que Mónica ha sido ejecutada.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/rGfZXEba8shIyNViwSuPbGwHenw.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP6.mp4"
+    },
+    {
+      "episode": 7,
+      "title": "Capítulo 7",
+      "description": "La policía identifica a Río, Tokio y Berlín. El Profesor permite que Raquel entre en la Fábrica como maniobra de distracción, pero ella intentará captar a un aliado interno.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/mTcAokdfaHN7DNvU9BrBKQmuEf0.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP7.mp4"
+    },
+    {
+      "episode": 8,
+      "title": "Capítulo 8",
+      "description": "Tras 60 horas, la impresión de billetes va a buen ritmo. Sin embargo, Arturo lidera un plan secreto de fuga entre los rehenes para intentar escapar del edificio.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/1q5agV2ROKY4nIHD0Sv5PyLONyW.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP8.mp4"
+    },
+    {
+      "episode": 9,
+      "title": "Capítulo 9",
+      "description": "Un grupo de rehenes logra fugarse. Ante la brecha de seguridad, los atracadores proponen una oferta a los que se han quedado: dinero o libertad.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/l4ctte6pCdonsB4AW3wAR0Lt7Bg.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP9.mp4"
+    },
+    {
+      "episode": 10,
+      "title": "Capítulo 10",
+      "description": "La policía descubre la finca de Toledo. El Profesor está en riesgo mientras la científica analiza el lugar. Dentro, los atracadores temen haber sido abandonados.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/o2ohwlIbzDRVP5XFLTF2VFpDiYD.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP10.mp4"
+    },
+    {
+      "episode": 11,
+      "title": "Capítulo 11",
+      "description": "Berlín entrega a Tokio a la policía. El Profesor termina detenido tras un altercado con el exmarido de Raquel, dejando a la banda sin liderazgo en un momento crítico.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/ixduWz2wsNmxJ7gocG5xWkyDjJd.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP11.mp4"
+    },
+    {
+      "episode": 12,
+      "title": "Capítulo 12",
+      "description": "La banda libera rehenes para ganar a la opinión pública. Raquel monta un dispositivo para atrapar al cabecilla fuera de la Fábrica. ¿Caerá El Profesor?",
+      "coverImage": "https://image.tmdb.org/t/p/w300/AbABGEWs2IkvStrqyeBxbwmMlUV.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP12.mp4"
+    },
+    {
+      "episode": 13,
+      "title": "Capítulo 13",
+      "description": "Raquel descubre la verdadera identidad de Salva. Dentro de la Fábrica, Arturo es castigado por otro plan de fuga y Moscú revela un secreto que rompe su relación con Denver.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/oy19Zieotq2GK5gjTM7gyYl24wu.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP13.mp4"
+    },
+    {
+      "episode": 14,
+      "title": "Capítulo 14",
+      "description": "Moscú es herido de gravedad durante el regreso de Tokio. Raquel es apartada del caso tras descubrirse su relación con El Profesor, pero sigue buscándolo por su cuenta.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/hJb0sOE99VNSFmXTeXSiGKUhsz5.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP14.mp4"
+    },
+    {
+      "episode": 15,
+      "title": "Capítulo 15",
+      "description": "Tras 125 horas, el agotamiento es extremo. El mayor atraco de la historia llega a su desenlace final. Es el momento del todo o nada.",
+      "coverImage": "https://image.tmdb.org/t/p/w300/rrYS8n8hcEPTMmXIA0SpBW7AKei.jpg",
+      "video_url": "https://archive.org/download/cap-15_202102/LA%20CASA%20DE%20PAPEL/TEMP%201/CAP15.mp4"
+    }
+  ]
+},
+
+  {
   "title": "Jujutsu Kaisen",
   "original_title": "Jujutsu Kaisen",
   "year": 2020,
