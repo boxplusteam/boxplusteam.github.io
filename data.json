@@ -1,5 +1,190 @@
 [
 
+  {
+  "title": "Dr. Stone",
+  "original_title": "Dr. Stone",
+  "year": 2019,
+  "genre": [
+    "Animación",
+    "Ciencia Ficción",
+    "Aventura",
+    "Acción"
+  ],
+  "studio": "TMS Entertainment",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BYzZkYjM1MWMtNTY3Mi00MTMzLTlhNmQtN2ExZjFkYzdjZmFjXkEyXkFqcGc@._V1_.jpg",
+  "description": "La humanidad queda petrificada misteriosamente. Miles de años después, Senku despierta con el objetivo de reconstruir la civilización usando la ciencia.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Mundo de piedra",
+      "description": "La humanidad un día sufrió un golpe devastador: de pronto, todos los seres vivos del planeta se convirtieron en piedra. Milenios después, dos jóvenes han conseguido revivir.",
+      "image": "https://image.tmdb.org/t/p/w300/jNdIdz4cKsAvxJRh0QWocGaKN66.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Rey del mundo de piedra",
+      "description": "Taiju y Senku se reúnen para comenzar la misión de salvar el mundo reviviendo a más humanos.",
+      "image": "https://image.tmdb.org/t/p/w300/l7BW5GPY9EcnoxBZKHXWZfEKeOA.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Armas de la ciencia",
+      "description": "Senku desconfía de Shishio e intenta ocultar sus verdaderos planes.",
+      "image": "https://image.tmdb.org/t/p/w300/n5lpLE1e4njZIn0d6jmb55OWwKH.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "Dispara la señal de humo",
+      "description": "Senku planea crear pólvora para enfrentarse a Shishio.",
+      "image": "https://image.tmdb.org/t/p/w300/30pMZkqgpxvpxysB1nlOuKWWTgA.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "El principio del mundo de piedra",
+      "description": "Shishio intenta obligar a Senku a abandonar su plan de restaurar la civilización.",
+      "image": "https://image.tmdb.org/t/p/w300/mM4UPEQJhUcFp3oTAYgQW90nQDz.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Dos países del mundo de piedra",
+      "description": "Senku descubre que hay más supervivientes y busca aliados.",
+      "image": "https://image.tmdb.org/t/p/w300/71MPjVE59eUssTmByfFBYC5p8ad.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "El paradero de dos millones de años",
+      "description": "Senku conoce a Kohaku y descubre una aldea.",
+      "image": "https://image.tmdb.org/t/p/w300/w3Ybj8vPIEViNhvCjqmyGCj67ZT.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Camino de piedra",
+      "description": "Senku intenta ganarse la confianza de la aldea.",
+      "image": "https://image.tmdb.org/t/p/w300/vgeIE6xvK8wTDH345bBsz6eMIOO.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "Que se haga la luz de la ciencia",
+      "description": "Senku avanza en su reino de la ciencia mientras aparece un misterioso personaje.",
+      "image": "https://image.tmdb.org/t/p/w300/kVRz1t86UbFH6ILg9Lw9z1sqxL1.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_09.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Una tenue alianza",
+      "description": "Gen se une al grupo, pero su lealtad es dudosa.",
+      "image": "https://image.tmdb.org/t/p/w300/sxqp8JCFDumCKbyQvX9hgGHqxsN.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_10.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "Mundo claro",
+      "description": "Senku ayuda a Suika con su problema de visión.",
+      "image": "https://image.tmdb.org/t/p/w300/bTpVChtIatCqNywNRdKMo1q612Z.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_11.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "Compañeros espalda con espalda",
+      "description": "El grupo enfrenta un peligroso enemigo mientras buscan crear medicina.",
+      "image": "https://image.tmdb.org/t/p/w300/yRZzEHHNfA9ZrxzgcxD0TS6ANJ6.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_12.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "Guerrero enmascarado",
+      "description": "Comienza la gran batalla contra Magma.",
+      "image": "https://image.tmdb.org/t/p/w300/9gbwAqikwaXPcOUoe9Xbr4WjlJE.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_13.mkv"
+    },
+    {
+      "episode": 14,
+      "title": "Amo de la llama",
+      "description": "Kinro lucha contra Magma con ayuda de la ciencia.",
+      "image": "https://image.tmdb.org/t/p/w300/mtoDxCqcZJGk2tDZZlMQrOLpwaI.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_14.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "La culminación de dos millones de años",
+      "description": "La batalla continúa y se acerca el final del torneo.",
+      "image": "https://image.tmdb.org/t/p/w300/b4JdwngG7o59Pp3fOXO0oC1vZD3.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_15.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Una historia para la eternidad",
+      "description": "Se revela la historia de Byakuya, el padre de Senku.",
+      "image": "https://image.tmdb.org/t/p/w300/28Yz2QuiXD0Y9QmwnumXx82Xa2t.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_16.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "Cien noches y mil cielos",
+      "description": "La tripulación espacial observa la petrificación de la Tierra.",
+      "image": "https://image.tmdb.org/t/p/w300/wPRqE3dJPZsraso2gKoyoIqagZN.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_17.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "Guerra de piedra",
+      "description": "Una amenaza se acerca: Tsukasa.",
+      "image": "https://image.tmdb.org/t/p/w300/ojACONcUoDGtDTAGdjeRhyNM38g.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_18.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "A la modernidad",
+      "description": "La aldea enfrenta el ataque del imperio de Tsukasa.",
+      "image": "https://image.tmdb.org/t/p/w300/pflOejXjo7Sv6M30ONwpnR9hAzd.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_19.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "La era de la energía",
+      "description": "Senku intenta crear celulares desde cero.",
+      "image": "https://image.tmdb.org/t/p/w300/r4CvVy6gVY7WBPbZic2IPrV8Wcs.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_20.mkv"
+    },
+    {
+      "episode": 21,
+      "title": "Club de manualidades pesadas",
+      "description": "El desarrollo tecnológico avanza en la aldea.",
+      "image": "https://image.tmdb.org/t/p/w300/vKq2lSipWkHjwz6dtzAKIiZYTya.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_21.mkv"
+    },
+    {
+      "episode": 22,
+      "title": "El tesoro",
+      "description": "Senku y su equipo buscan materiales esenciales.",
+      "image": "https://image.tmdb.org/t/p/w300/pzYT1Dynwqp99Md54mch3l9HLzE.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_22.mkv"
+    },
+    {
+      "episode": 23,
+      "title": "Ola de ciencia",
+      "description": "La construcción del celular avanza con ayuda de toda la aldea.",
+      "image": "https://image.tmdb.org/t/p/w300/fmsDl2bBSCy6g2WyQ6ecTjkIeOY.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_23.mkv"
+    },
+    {
+      "episode": 24,
+      "title": "Oído a distancias infinitas",
+      "description": "El primer celular está completo y se preparan para la batalla final.",
+      "image": "https://image.tmdb.org/t/p/w300/mJC54TEmf2Sug3DLZT9fhqiGuxW.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/dr_stone/s_01_e_24.mkv"
+    }
+  ]
+},
+  
 {
   "title": "Rick and Morty",
   "original_title": "Rick and Morty",
