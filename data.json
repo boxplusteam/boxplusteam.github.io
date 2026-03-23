@@ -1,6 +1,312 @@
 [
 
   {
+  "title": "Alex Rider",
+  "original_title": "Alex Rider",
+  "year": 2020,
+  "genre": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Espionaje"
+  ],
+  "studio": "Amazon Prime Video",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BOTgxMWM1YTktNzgwMy00NWY5LTgzMzgtY2ZlYzkxMGUwZTUzXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+  "description": "Tras la muerte de su tío, Alex Rider descubre que era un espía y se ve arrastrado a un mundo de misiones secretas y conspiraciones internacionales.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Episodio Uno",
+      "description": "Tras la misteriosa muerte de su tío, Alex Rider comienza una búsqueda de respuestas que lo lleva a un mundo oscuro de secretos y espionaje.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Episodio Dos",
+      "description": "Alex es secuestrado e interrogado por un grupo desconocido de agentes paramilitares.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Episodio Tres",
+      "description": "Alex se infiltra en el mundo de los ultra ricos mientras perfecciona su identidad encubierta.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "Episodio Cuatro",
+      "description": "Alex continúa su investigación en Point Blanc mientras descubre nuevos peligros.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "Episodio Cinco",
+      "description": "Alex descubre los secretos del Doctor Greif y planea escapar con sus aliados.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Episodio Seis",
+      "description": "La conspiración se intensifica mientras Alex encuentra nuevas pruebas del plan secreto.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "Episodio Siete",
+      "description": "Alex lidera una misión para rescatar a sus amigos y detener los planes enemigos.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Episodio Ocho",
+      "description": "Alex se enfrenta a un enemigo letal en una batalla final para salvar a los suyos.",
+      "video_url": "http://series.tuxchannel.mx/series/alex_rider/s_01_e_08.mkv"
+    }
+  ]
+},
+
+  {
+  "title": "Phineas y Ferb",
+  "original_title": "Phineas and Ferb",
+  "year": 2007,
+  "genre": ["Animación", "Comedia", "Aventura", "Familiar"],
+  "studio": "Disney Channel",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BMTc1NjcxNzg4MF5BMl5BanBnXkFtZTgwOTMzNzgyMDE@._V1_FMjpg_UX1000_.jpg",
+  "description": "Phineas y Ferb son dos hermanastros que viven aventuras increíbles durante sus vacaciones de verano mientras su hermana Candace intenta delatarlos y su mascota Perry lleva una doble vida como agente secreto.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Montaña rusa",
+      "description": "Es el primer día de verano y Phineas y Ferb construyen una montaña rusa...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/mpVgJTmceLQHoTDUWHsqRvS7oYy.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "La fiesta playera del terror de los gnomos de jardín",
+      "description": "En un día caluroso, deciden construir una playa en su jardín...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/lUmJgS49b8iOZKvb79oOirEjzQ9.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Estrellas al fracaso",
+      "description": "Candace participa en un concurso de canto...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/dXdiBRev8VyvzPpsHA9Sp6QbOh4.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "El rápido y el Phineas",
+      "description": "Phineas y Ferb participan en una carrera con un coche tuneado...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/7fJ8QcoRl0UyBJNF6biYFGI9dzG.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "¡Luces, Candace, acción!",
+      "description": "Candace participa en una película dirigida por sus hermanos...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/mcUVhoRVytyBjvMdZRwnQPHbXmh.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Camorrista furioso",
+      "description": "Phineas es desafiado por un matón y entrena para luchar...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/iH4sxgufEW9Ka3B0beePWgp8V8C.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "Candace pierde la cabeza",
+      "description": "Para su cumpleaños, sus hermanos le preparan una sorpresa...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/gkqwRMd9m2SfEnc1GwMCS0xEI3m.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Yo Hermanorrobot",
+      "description": "Construyen robots para ayudar en sus proyectos...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/jHOSadlFP1ptchJoRmEEYuw1t3f.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "Pasarela del éxito",
+      "description": "Candace se convierte en modelo con diseños de sus hermanos...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/rjgSjDafSI6X3NauEatRemGvHDj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_09.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Los pocos magníficos",
+      "description": "Una invasión de termitas amenaza la ciudad...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/hiIkcLKmXpadpo3ih6EBTGEzwPh.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_10.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "Invierano",
+      "description": "Transforman el verano en invierno con una pista de esquí...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/rzKvBtn0uWeskqSHI06uGcGWnoB.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_11.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "Tonto de Soleil",
+      "description": "Crean su propio circo tras cancelarse uno real...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/uYInAWGyk7upy9otyzMZfb35f3C.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_12.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "¿Eres tú mi momia?",
+      "description": "Buscan una momia en un museo egipcio...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/35XjhXVrGvnHlTdr7hqDNLiMcBj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_13.mkv"
+    },
+    {
+      "episode": 14,
+      "title": "Prepárate para las Bettys",
+      "description": "Candace gana entradas para conocer a su banda favorita...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/q1gR8nEsBs7G9tkz7ZZNXoRGMKj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_14.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "Yo grito, tú gritas",
+      "description": "Intentan crear la máquina de helados más grande...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/4qdrmJtqPrOq02EDRphgNEOqm9j.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_15.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Un juguete para el mundo",
+      "description": "Crean un juguete que se vuelve un éxito mundial...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/ddN5pW87SqadyQ2KsGtSMTRI30Z.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_16.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "Quítame ese Pie Grande de la cara",
+      "description": "Acampan y cuentan historias de miedo...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/rNWBnBa0mKTBOJcxgBCMK1S0DXl.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_17.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "Un mundo de barro, barro, barro",
+      "description": "Construyen un camión monstruo...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/13vixssSw4HWzTmlgCghWA2WhWj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_18.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "El cumpleaños de mamá",
+      "description": "Preparan una sorpresa especial para su madre...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/sRVYmxtZGZa6SPHd0HCyjbzZXMQ.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_19.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "Viaje al centro de Candace",
+      "description": "Se encogen para recuperar objetos dentro del cuerpo...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/fRHGCqr8ygcwzXCUjtncPwU2TaM.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_20.mkv"
+    },
+    {
+      "episode": 21,
+      "title": "Usando el tiempo",
+      "description": "Viajan accidentalmente a la prehistoria...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/kXNMkR0JUMPeAr2s3u6zy95bBj9.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_21.mkv"
+    },
+    {
+      "episode": 22,
+      "title": "Tío, reunamos de nuevo la banda",
+      "description": "Ayudan a su padre a celebrar su aniversario...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/7UMP7WeNS9KjL7mfJpawDkai4I.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_22.mkv"
+    },
+    {
+      "episode": 23,
+      "title": "Árbol para preparar",
+      "description": "Reconstruyen casas del árbol con un secreto...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/efNE7txmzEDhqKCSWYaD3Nz5fjj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_23.mkv"
+    },
+    {
+      "episode": 24,
+      "title": "La balada de Barbamala",
+      "description": "Buscan un tesoro escondido en un lago...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/tgEQbuljkBMsMp0mEWCz1eVd8di.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_24.mkv"
+    },
+    {
+      "episode": 25,
+      "title": "Relámpago de Grecia",
+      "description": "Recrean una carrera clásica de la antigua Grecia...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/kxRdcgJ4iDuBuZCRO2mqmkkS3L4.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_25.mkv"
+    },
+    {
+      "episode": 26,
+      "title": "Déjanos pillarlos a nosotras",
+      "description": "Candace intenta exponer a sus hermanos en televisión...",
+      "coverImage": "https://image.tmdb.org/t/p/w200/8OcW8lJNrSxQXQ5LiqwjEcne2Jf.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/phineas_and_ferb/s_01_e_26.mkv"
+    }
+  ]
+},
+
+  {
+  "title": "El Cid",
+  "original_title": "El Cid",
+  "year": 2020,
+  "genre": ["Historia", "Drama", "Acción"],
+  "studio": "Amazon Prime Video",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3brfZ_Bu4fbCQvCqbRd-64ksXEE4pgpFeVw&s",
+  "description": "La historia de Rodrigo Díaz de Vivar, un héroe castellano que lucha por encontrar su lugar en una España dividida por conflictos, traiciones y luchas de poder.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "La conjura",
+      "description": "Mediados del siglo XI. Ruy es un joven que acaba de ser nombrado escudero del infante Sancho...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/w5ea2kWu6s3Nm2lw5BvJJ3t3kDY.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/el_cid/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Ordalía",
+      "description": "Flaín busca al hombre que frustró la conjura. Rodrigo sabe que ese hombre fue su nieto...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/bYhqPbXDUPqtha9LZJUndqkyLFf.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/el_cid/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Baraka",
+      "description": "Fernando envía a su hijo Sancho con una pequeña hueste a Zaragoza...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/lMC6IgzdXTHO2QPLiEXvr0K2zgi.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/el_cid/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "Campeador",
+      "description": "Las tropas de Castilla con Sancho y Ruy al frente se baten en desigual batalla...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/MvPOmpHgUi809SrNaCvwdSXENw.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/el_cid/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "Expiación",
+      "description": "Tras la súbita enfermedad de Fernando, Sancho y sus tropas regresan a León...",
+      "coverImage": "https://image.tmdb.org/t/p/w300/vfxtVsckC3wbiR6JAQ5yodPswEy.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/el_cid/s_01_e_05.mkv"
+    }
+  ]
+},
+
+  {
   "title": "Dragon Ball Daima",
   "original_title": "Dragon Ball Daima",
   "year": 2024,
