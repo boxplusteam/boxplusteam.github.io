@@ -1,4 +1,80 @@
 [
+
+
+  
+  {
+  "title": "Robin Hood",
+  "original_title": "Robin Hood",
+  "year": 2006,
+  "genre": ["Acción", "Aventura", "Drama"],
+  "studio": "Tiger Aspect Productions / BBC",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3_ljiS9tssp0tDblhxNIiZ-4RDS98SWSGeRN79klPw&s=10",
+  "description": "Tras regresar de las Cruzadas, Robin de Locksley descubre que su hogar está bajo el yugo del despótico Sheriff de Nottingham. Para luchar contra la injusticia, se refugia en el bosque de Sherwood con una banda de forajidos, convirtiéndose en el legendario Robin Hood, el hombre que roba a los ricos para dárselo a los pobres.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Lo veo",
+      "description": "El hijo de un guardabosques lo pierde todo. Una leyenda nace en combate. Comienza la lucha por el alma de Inglaterra.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Un diablo infame",
+      "description": "El dolor se transforma en venganza. Rob cruza una línea y su inocencia muere. Lo que surge en su lugar decidirá el futuro de Inglaterra.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Nadie puede esconderse eternamente",
+      "description": "Marian llega a Westminster fascinada por su esplendor. Rob consigue ayuda de Pequeño Juan, pero la caza del sheriff se intensifica.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "La causa del conflicto",
+      "description": "Rob y su banda quieren robar el dinero del sheriff para la recompensa, un atraco audaz que cambiaría su suerte.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "Volver con ellos",
+      "description": "Rob lo arriesga todo para salvar a los Miller. En Westminster, el mundo de Marian se viene abajo ante una trágica noticia.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Unidos por el amor, divididos por las mentiras",
+      "description": "La visita de Leonor a Nottingham obliga al sheriff a tomar una peligrosa decisión. Una desgarradora verdad separa a Marian y Rob.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "Ladrones con un objetivo",
+      "description": "Rob ataca al barón Warick. El príncipe Juan aparece en escena y Marian se ve atrapada en un peligroso juego de espías.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Episodio 8",
+      "description": "Las tensiones en Nottingham aumentan mientras Robin continúa saboteando los planes del Sheriff.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "Episodio 9",
+      "description": "Un nuevo plan del Sheriff pone a prueba la lealtad de los habitantes del pueblo hacia su héroe enmascarado.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_09.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Episodio 10",
+      "description": "La banda de Sherwood debe realizar una maniobra desesperada para rescatar a uno de los suyos de las mazmorras.",
+      "video_url": "http://series.tuxchannel.mx/series/robin_hood/s_01_e_10.mkv"
+    }
+  ]
+  },
+
+  
   {
   "title": "Mob Psycho 100",
   "original_title": "Mob Psycho 100",
