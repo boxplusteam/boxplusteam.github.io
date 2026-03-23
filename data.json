@@ -1,4 +1,411 @@
 [
+  {
+  "title": "Cobra Kai",
+  "original_title": "Cobra Kai",
+  "year": 2018,
+  "genre": [
+    "Acción",
+    "Comedia",
+    "Drama",
+    "Artes Marciales"
+  ],
+  "studio": "Sony Pictures Television / Netflix",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQFDG95oH-Q48fNcVijQnweVnZQ8TqFng16WIX6WZXw&s=10",
+  "description": "Treinta y cuatro años después de los eventos del torneo de karate All Valley de 1984, Johnny Lawrence busca la redención abriendo el infame dojo Cobra Kai, reavivando su rivalidad con un ahora exitoso Daniel LaRusso.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Degenerado primero",
+      "description": "Después de tocar fondo, Johnny, que se ha dado a la bebida y vive a la sombra de su antiguo rival, Daniel, decide reabrir el dojo de kárate Cobra Kai.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Pegar primero",
+      "description": "Daniel siente una sacudida al ver el nuevo dojo Cobra Kai. Más tarde, se entera de un incidente violento que tiene que ver con Kyler, el chico que le gusta a Sam.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Esqueleto",
+      "description": "Daniel se presta voluntario para ir de vigilante al baile de Halloween y así tener controlada a Sam. Mientras, Johnny intenta conseguir más alumnos para su dojo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "Cobra Kai nunca muere",
+      "description": "Alguien hace pintadas en un cartel de Daniel. La madre de Miguel le prohíbe continuar con las clases de kárate. Johnny descubre que Robby ha estado faltando a clase.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "Contrapeso",
+      "description": "Cobra Kai consigue una alumna nueva. A Daniel se le ocurre una idea para vengarse de Johnny. Miguel defiende a Sam cuando Kyler la humilla en el instituto.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Nido",
+      "description": "Tras la pelea de Miguel, muchos jóvenes se apuntan a Cobra Kai, pero Johnny los trata mal. Con la intención de enfadar a su padre, Robby empieza a trabajar para Daniel.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "All Valley",
+      "description": "Johnny debe convencer al comité de un torneo para que levante el veto de por vida sobre Cobra Kai, pero Daniel es uno de sus miembros. Miguel y Sam tienen una cita.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Mudando de piel",
+      "description": "Johnny prepara a sus alumnos para el campeonato de All Valley. Daniel empieza a entrenar a Robby en Miyagi-Do sin saber que su alumno es hijo de Johnny.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "Diferentes pero igual",
+      "description": "El pasado llama a la puerta de Daniel cuando Johnny le pide explicaciones sobre su coche. Los alumnos de Cobra Kai planean vengarse de los chicos y chicas más populares.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_09.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Piedad",
+      "description": "Queda poco para el torneo y Johnny enseña a sus alumnos la tercera regla de Cobra Kai: sin piedad. Reaparece alguien del pasado.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_01_e_10.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "Piedad: 2.ª parte",
+      "description": "A pesar de la victoria de Cobra Kai, Johnny quiere darle a su dojo un nuevo rumbo. Daniel abre su propia escuela con dos estudiantes: Sam y Robby.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_01.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "De vuelta al negro",
+      "description": "Daniel ayuda a Sam y a Robby a encontrar el equilibrio mientras intenta aumentar las ventas en el trabajo. Johnny impresiona a Kreese con una técnica de entrenamiento.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_02.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "Fuego y hielo",
+      "description": "Miguel descubre la identidad de Robby, y Johnny se sincera sobre sus fallos como padre. Para conseguir estudiantes, Daniel realiza una demostración durante una feria.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_03.mkv"
+    },
+    {
+      "episode": 14,
+      "title": "El momento de la verdad",
+      "description": "Daniel intenta promover de nuevo su dojo, Miyagi-Do, pero Cobra Kai le roba el protagonismo. Johnny sospecha que Kreese está exagerando sus logros pasados.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_04.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "A por todas",
+      "description": "Tras la pelea entre Eli y Demetri en el centro comercial, Daniel ayuda a Demetri a confiar en sí mismo. Johnny descubre que Robby está viviendo con Daniel.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_05.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Echa un ojo",
+      "description": "Los nuevos alumnos de Daniel aprenden a resolver sus diferencias. Johnny disfruta de una escapada con unos viejos amigos mientras Kreese le quita autoridad en el dojo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_06.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "Pausa",
+      "description": "Ambos senséis prueban técnicas de entrenamiento inusuales. Johnny descubre lo que Kreese ha estado enseñando. La pasión de Daniel por Miyagi-Do hace peligrar su negocio.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_07.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "La gloria del amor",
+      "description": "El romance secreto de Sam y Robby va a más mientras la relación de Daniel con Amanda sigue estancada. Johnny prueba una aplicación para ligar.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_08.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "Pulpo",
+      "description": "Johnny y Daniel se encuentran en un restaurante y acuerdan una tregua inesperada. Mientras tanto, surgen tensiones entre sus estudiantes durante una fiesta.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_09.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "Sin piedad",
+      "description": "El primer día de clase, el resentimiento entre Tory y Sam estalla en una pelea entre distintas facciones de karatekas en los pasillos del instituto.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_02_e_10.mkv"
+    },
+    {
+      "episode": 21,
+      "title": "Repercusiones",
+      "description": "Miguel lucha por su vida, Robby ha desaparecido y la reputación de Daniel y Johnny está por los suelos mientras la comunidad reacciona a la pelea en el West Valley.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_01.mkv"
+    },
+    {
+      "episode": 22,
+      "title": "¿Se nace o se hace?",
+      "description": "Daniel y Johnny unen fuerzas para buscar a Robby. Miguel se enfrenta a un futuro incierto. Kreese intenta convencer a Tory para que vuelva a Cobra Kai.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_02.mkv"
+    },
+    {
+      "episode": 23,
+      "title": "Tú sí que vas a pagar",
+      "description": "La dañada imagen pública de Daniel pasa factura a sus ventas, lo que resulta en una oferta de adquisición. Johnny trata de recaudar fondos para la operación de Miguel.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_03.mkv"
+    },
+    {
+      "episode": 24,
+      "title": "El camino correcto",
+      "description": "Después de asistir a una reunión importante en Japón, Daniel vuelve a visitar el hogar del Sr. Miyagi en Okinawa. Johnny intenta reconectar con Robby.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_04.mkv"
+    },
+    {
+      "episode": 25,
+      "title": "Miyagi-Do",
+      "description": "En Okinawa, Daniel se reúne con una vieja amiga... y con un antiguo enemigo con mucho que enseñarle. La rivalidad de los dos dojos resulta en un violento enfrentamiento.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_05.mkv"
+    },
+    {
+      "episode": 26,
+      "title": "El rey Cobra",
+      "description": "Miguel ayuda a Johnny a escribir el mensaje de redes sociales perfecto. Kreese busca sangre nueva mientras Daniel y Amanda intentan cerrar Cobra Kai.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_06.mkv"
+    },
+    {
+      "episode": 27,
+      "title": "Obstáculos",
+      "description": "Daniel pasa tiempo en familia con Sam, aún conmocionada. Johnny quiere abrir un nuevo dojo de kárate, pero no se le ocurre un nombre que inspire respeto.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_07.mkv"
+    },
+    {
+      "episode": 28,
+      "title": "El bueno, el malo y el cañero",
+      "description": "Tras enterarse de la cancelación del Campeonato de Kárate de All Valley de este año, los tres senséis competidores asisten a una reunión del comité para salvarlo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_08.mkv"
+    },
+    {
+      "episode": 29,
+      "title": "Feel the Night",
+      "description": "Es Navidad en el Valley y el amor está en el aire. Daniel y Miguel encuentran un inesperado interés común, y los nuevos miembros de Cobra Kai emprenden una misión.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_09.mkv"
+    },
+    {
+      "episode": 30,
+      "title": "19 de diciembre",
+      "description": "Las viejas rencillas empiezan a resolverse durante una fiesta navideña, pero un ataque brutal por parte de los estudiantes de Kreese provoca nuevas traiciones y alianzas.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_03_e_10.mkv"
+    },
+    {
+      "episode": 31,
+      "title": "¡Empezamos!",
+      "description": "Johnny y Daniel combinan los dojos, pero sus estilos tan opuestos chocan de inmediato. Kreese intenta convencer a un excompañero para que se reincorpore a Cobra Kai.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_01.mkv"
+    },
+    {
+      "episode": 32,
+      "title": "Primero aprender sostener",
+      "description": "Johnny aprende estrategias defensivas y Daniel a pasar a la ofensiva. Amanda se enfrenta a Tory. Kenny sufre acoso escolar.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_02.mkv"
+    },
+    {
+      "episode": 33,
+      "title": "Luego aprender volar",
+      "description": "Animado por Robby, Kenny trata de convertirse en alumno de Cobra Kai. Johnny anima a Sam a que confíe en sí misma.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_03.mkv"
+    },
+    {
+      "episode": 34,
+      "title": "Bicefalia",
+      "description": "Kreese trae a Terry de vuelta a Cobra Kai, pero su antiguo compañero no quiere que la historia se repita. A Johnny le da envidia que Daniel enseñe a Miguel.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_04.mkv"
+    },
+    {
+      "episode": 35,
+      "title": "Punto de partido",
+      "description": "El dojo de Johnny y Daniel (y su frágil alianza) se tambalea cuando acuerdan un enfrentamiento de senséis en el que el ganador se lo lleva todo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_05.mkv"
+    },
+    {
+      "episode": 36,
+      "title": "Zurrar ayuda a ligar",
+      "description": "Un cambio importante en el próximo torneo obliga a Johnny a buscar un nuevo fichaje para Colmillo de Águila. Tory debe pedir un favor a los LaRusso.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_06.mkv"
+    },
+    {
+      "episode": 37,
+      "title": "Campos de minas",
+      "description": "Daniel invita a Anthony a unirse a Miyagi-Do y descubre que no conoce a su hijo tan bien como pensaba. Miguel se entera de la verdad sobre Johnny y Carmen.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_07.mkv"
+    },
+    {
+      "episode": 38,
+      "title": "Empieza la fiesta",
+      "description": "Miguel y Sam están entusiasmados por asistir al baile de graduación hasta que otra pareja aparece inesperadamente. Terry y Johnny se ven en un lugar conocido.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_08.mkv"
+    },
+    {
+      "episode": 39,
+      "title": "La caída",
+      "description": "Ha empezado el torneo anual de kárate de All Valley. Varios dojos compiten por ser los mejores y, de paso, ajustar algunas cuentas personales.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_09.mkv"
+    },
+    {
+      "episode": 40,
+      "title": "El ascenso",
+      "description": "El torneo tiene un final impactante, cuyas consecuencias hacen que sus participantes se tambaleen y dos campeones se enfrenten a un futuro incierto.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_04_e_10.mkv"
+    },
+    {
+      "episode": 41,
+      "title": "Muy lejos de casa",
+      "description": "El nuevo aliado (y compañero de casa) de Daniel pone a prueba la paciencia de Amanda. Miguel busca a su padre en México. Terry empieza la transformación del Cobra Kai.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_01.mkv"
+    },
+    {
+      "episode": 42,
+      "title": "Topo",
+      "description": "Chozen y Daniel traman un plan arriesgado contra Terry. En México, Robby y Johnny salen en busca de Miguel, quien descubre la verdad sobre su padre.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_02.mkv"
+    },
+    {
+      "episode": 43,
+      "title": "Jugando con fuego",
+      "description": "Daniel hace frente a otro enemigo de su pasado. Después de un día en el spa (y tras hacer un examen de conciencia), Sam toma una decisión sobre su futuro con Miguel.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_03.mkv"
+    },
+    {
+      "episode": 44,
+      "title": "De mal en peor",
+      "description": "La relación de Johnny y Carmen va viento en popa mientras las artimañas de Terry sacuden a Daniel y Amanda. La riña entre los adolescentes continúa en el parque acuático.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_04.mkv"
+    },
+    {
+      "episode": 45,
+      "title": "Medidas extremas",
+      "description": "Daniel busca apoyo en un amigo... y en un eneamigo. La tensión llega a un punto crítico entre Miguel y Robby. Una cara familiar está de vuelta.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_05.mkv"
+    },
+    {
+      "episode": 46,
+      "title": "Uróboros",
+      "description": "Terry ficha a una experta en el camino del puño. Daniel abandona una pelea mientras que Johnny y Chozen la buscan. Kreese se enfrenta a viejos demonios en la cárcel.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_06.mkv"
+    },
+    {
+      "episode": 47,
+      "title": "Huevos podridos",
+      "description": "Terry y Kim lanzan un reto brutal mientras Chozen les enseña a sus alumnos un tipo diferente de lección. Johnny y Daniel le exigen respuestas a Kreese.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_07.mkv"
+    },
+    {
+      "episode": 48,
+      "title": "Taikai",
+      "description": "Un codiciado puesto en un campeonato internacional de élite desata una pelea entre los dojos. Se pone a prueba la lealtad de Tory. A Sam le cuesta dejar atrás a Miguel.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_08.mkv"
+    },
+    {
+      "episode": 49,
+      "title": "Supervivientes",
+      "description": "A Tory le sale cara su actitud desafiante. Raya Látigo lucha con su conciencia. Una noche de celebración en la ciudad da un giro inesperado para Johnny, Daniel y Chozen.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_09.mkv"
+    },
+    {
+      "episode": 50,
+      "title": "La cabeza de la serpiente",
+      "description": "Estalla una noche de pelea en el Valle mientras Johnny, Daniel, Chozen y sus alumnos hacen acopio de todas sus habilidades y fuerzas para acabar con Terry.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_05_e_10.mkv"
+    },
+    {
+      "episode": 51,
+      "title": "Paz en el Valley",
+      "description": "Los alumnos de Miyagi-Do intentan dejar de lado sus viejas rivalidades mientras entrenan para el Sekai Taikai. Johnny y Chozen discrepan sobre el nuevo nombre del dojo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_01.mkv"
+    },
+    {
+      "episode": 52,
+      "title": "El precio del premio",
+      "description": "Kreese se enfrenta a una peligrosa prueba para demostrar su valía. Daniel echa una mano a Johnny mientras los alumnos imaginan su vida tras acabar en el instituto.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_02.mkv"
+    },
+    {
+      "episode": 53,
+      "title": "Fiesta de pijamas",
+      "description": "Un descubrimiento impactante revoluciona la vida de Daniel. Johnny urde la manera de recuperar la ventaja de Sam y Tory. Se desvela la ubicación del torneo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_03.mkv"
+    },
+    {
+      "episode": 54,
+      "title": "Antihéroes",
+      "description": "Daniel y Johnny invitan a un nuevo senséi para evaluar a sus alumnos. La amistad se convierte en odio al aumentar la competencia para lograr un puesto en el Sekai Taikai.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_04.mkv"
+    },
+    {
+      "episode": 55,
+      "title": "La mejor de las mejores",
+      "description": "Los mejores alumnos de Miyagi-Do compiten para ser capitán de equipo, pero una tragedia devastadora lo cambia todo. Kreese revela su sorpresa final.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_05.mkv"
+    },
+    {
+      "episode": 56,
+      "title": "Benvinguts a Barcelona",
+      "description": "Con el Sekai Taikai en marcha, una traición amenaza con desestabilizar al equipo Miyagi-Do. Todos se llevan una gran sorpresa en la primera prueba.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_06.mkv"
+    },
+    {
+      "episode": 57,
+      "title": "Perro de pelea",
+      "description": "Daniel se pone en peligro al intentar buscar pistas sobre el pasado del Sr. Miyagi. Miguel duda sobre la concentración de Robby y Sam es testigo de malas artes fuera del tatami.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_07.mkv"
+    },
+    {
+      "episode": 58,
+      "title": "Turbulencias",
+      "description": "Una crisis personal afecta profundamente a Miguel y Johnny. Chozen y un senséi rival se alían para encontrar a sus alumnos, pero descubren otra cosa.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_08.mkv"
+    },
+    {
+      "episode": 59,
+      "title": "Sangre por sangre",
+      "description": "¿Quién pasará a la siguiente ronda en el combate de eliminación por equipos del torneo? ¿Miyagi-Do o Cobra Kai? Daniel descubre algo impactante que destroza su mundo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_09.mkv"
+    },
+    {
+      "episode": 60,
+      "title": "Eunjangdo",
+      "description": "Daniel y Johnny utilizan Barcelona como escenario de entrenamiento para sus capitanes. Pero un golpe bajo en las semifinales desata una pelea sin precedentes.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_10.mkv"
+    },
+    {
+      "episode": 61,
+      "title": "Hacia el fuego",
+      "description": "Mientras sus alumnos hacen planes de vida para cuando terminen con el kárate, Daniel y Johnny discuten si siguen con el Sekai Taikai. Kreese se replantea sus principios.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_11.mkv"
+    },
+    {
+      "episode": 62,
+      "title": "Fuera de juego",
+      "description": "Sam y Robby recurren a sus amigos en busca de apoyo mientras entrenan para los próximos desafíos. Johnny y Carmen dan la bienvenida al equipo a un nuevo miembro.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_12.mkv"
+    },
+    {
+      "episode": 63,
+      "title": "Mirar atrás",
+      "description": "Cuando llega el momento de la verdad, Daniel y Johnny se enfrentan a su pasado. Después, llega el momento del combate: Robby se enfrenta a Axel en el campeonato mundial de kárate.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_13.mkv"
+    },
+    {
+      "episode": 64,
+      "title": "Pegar el último",
+      "description": "El ambiente se caldea cuando los mejores luchadores del Valle ponen a prueba su coraje contra la velocidad y la fuerza de sus rivales. Pero una última sorpresa lo cambia todo.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_14.mkv"
+    },
+    {
+      "episode": 65,
+      "title": "Exdegenerado",
+      "description": "Las rivalidades son intensas y aparecen nuevas oportunidades. Daniel y Johnny se encuentran de nuevo en el punto de partida, pero nunca ha habido tanto en juego.",
+      "video_url": "http://series.tuxchannel.mx/series/cobra_kai/s_06_e_15.mkv"
+    }
+  ]
+},
+  
 
 {
   "title": "Sword Art Online",
