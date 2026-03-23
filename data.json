@@ -1,4 +1,87 @@
 [
+  {
+  "title": "One Punch Man",
+  "original_title": "One Punch Man",
+  "year": 2015,
+  "genre": ["Animación", "Acción", "Comedia", "Superhéroes"],
+  "studio": "Madhouse",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BNzMwOGQ5MWItNzE3My00ZDYyLTk4NzAtZWIyYWI0NTZhYzY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "description": "Saitama es un héroe que solo lo hace por diversión. Tras tres años de un entrenamiento intensísimo, perdió el cabello, pero ganó una fuerza tan increíble que es capaz de derrotar a cualquier enemigo de un solo puñetazo. Sin embargo, debido a su poder abrumador, Saitama se siente aburrido y frustrado al no encontrar un rival digno que le haga sentir la emoción de la batalla.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "El hombre más fuerte del mundo",
+      "description": "Saitama está decidido a convertirse en superhéroe. Tras años de entrenamiento, se ha hecho fuerte y se enfrenta a todo tipo de monstruos.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-01.mp4"
+    },
+    {
+      "episode": 2,
+      "title": "El cíborg superior",
+      "description": "Genos es un cíborg que defiende la justicia. Tras ver a Saitama en acción, le pregunta si puede ser alumno suyo.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-02.mp4"
+    },
+    {
+      "episode": 3,
+      "title": "El científico implacable",
+      "description": "Tras oír que Genos y Saitama se dirigen a detenerlo, el Dr. Genus libera un arma muy poderosa: un monstruo incontrolable.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-03.mp4"
+    },
+    {
+      "episode": 4,
+      "title": "El ninja moderno",
+      "description": "Hammerhead lidera a los Paradisianos. Sonic el Supersónico se enfrenta a ellos, aniquilando a casi todos.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-04.mp4"
+    },
+    {
+      "episode": 5,
+      "title": "El maestro definitivo",
+      "description": "Genos y Saitama se examinan para ser héroes. La alta puntuación de Genos llama la atención de la Asociación.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-05.mp4"
+    },
+    {
+      "episode": 6,
+      "title": "La ciudad más terrorífica",
+      "description": "Se detecta actividad misteriosa en el barrio fantasma de la ciudad Z y envían miembros a resolver el asunto.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-06.mp4"
+    },
+    {
+      "episode": 7,
+      "title": "El discípulo supremo",
+      "description": "La ciudad Z se ve amenazada por un meteorito. Los héroes de clase S intentan impedir la catástrofe sin éxito.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-07.mp4"
+    },
+    {
+      "episode": 8,
+      "title": "El rey del mar",
+      "description": "Criaturas marinas amenazan la Tierra. Varios héroes intentan detenerlas, pero acaban derrotados.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-08.mp4"
+    },
+    {
+      "episode": 9,
+      "title": "La justicia indomable",
+      "description": "El rey de las criaturas marinas se muestra invencible tras vencer a muchos héroes hasta que Saitama entra en escena.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-09.mp4"
+    },
+    {
+      "episode": 10,
+      "title": "Una amenaza sin precedentes",
+      "description": "Shibabawa pronostica un peligro inminente para los próximos seis meses y los clase S son convocados.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-10.mp4"
+    },
+    {
+      "episode": 11,
+      "title": "El soberano del espacio",
+      "description": "Una nave alienígena destruye la ciudad A. Saitama sube a bordo para enfrentar a los invasores.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-11.mp4"
+    },
+    {
+      "episode": 12,
+      "title": "El héroe más fuerte del mundo",
+      "description": "Saitama se enfrenta al líder de los extraterrestres, Boros, en un encuentro épico por el destino de la Tierra.",
+      "video_url": "https://archive.org/download/res3nias5tograd0/Res3n%2Bias5tograd0/C0lof1ll/C0lof1ll-12.mp4"
+    }
+  ]
+},
   
   
 
