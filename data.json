@@ -1,4 +1,419 @@
 [
+
+  
+{
+  "title": "Rick and Morty",
+  "original_title": "Rick and Morty",
+  "year": 2013,
+  "genre": [
+    "Animación",
+    "Comedia",
+    "Ciencia Ficción",
+    "Aventura"
+  ],
+  "studio": "Adult Swim",
+  "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYVC29tekZWbo8kGTJpYsPsv9q9pa9rgxMkSofsghVA&s",
+  "description": "Rick, un excéntrico científico con problemas con la bebida, vivirá extrañas y peligrosas aventuras interdimensionales con su nieto Morty.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Piloto",
+      "description": "Rick, un excéntrico científico con problemas con la bebida, vivirá extrañas aventuras con su nieto Morty en esta serie basada en Regreso al futuro.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2001.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "El cortador de césped perruno",
+      "description": "Rick y Morty tratan de hacer cambiar el profesor de matemáticas de Morty para que le de una 'A'. Mientras tanto el perro intentará la dominación mundial.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2002.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Parque anatómico",
+      "description": "El día de Navidad, un amigo de Rick se hace su chequeo médico anual. Mientras tanto Jerry se entera de que sus padres tienen un nuevo amigo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2003.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "Los alienígenas de los giros inesperados",
+      "description": "Rick y Morty tratan de llegar al fondo de un misterio en este episodio que no hará más que dar giros inesperados!",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2004.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "La misión de los Meeseeks",
+      "description": "Rick le da a la familia una solución a sus problemas quedando así libre para correr una gran aventura junto a Morty.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2005.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Poción de Rick nº 9",
+      "description": "Rick le da a Morty una aparente inofensiva poción de amor para conquistar a Jessica. Pronto todo se convertirá en una auténtica pesadilla.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2006.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "Educando a Gazórpazorp",
+      "description": "Morty convence a Rick de que le compre un robot sexual y es ahí donde empiezan los problemas.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2007.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Sesenta Rick-nutos",
+      "description": "Rick hackea la caja de la tele por cable, pero la familia se distrae con otra invención.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2008.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "Cosas necesarias",
+      "description": "Rick se enfrenta al diablo y trastorna el verano. Mientras tanto, Jerry y Morty pasan el rato.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2009.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Encuent-Ricks en la Rick-cera fase",
+      "description": "Rick y Morty han peleado, cuando Rick es abordado por algunos socios familiares.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2010.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "Negocio Ricksy",
+      "description": "Beth y Jerry van de viaje, por lo que Rick decide hacer una fiesta.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2001%20e%2011.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "Una Rick-grieta en el tiempo",
+      "description": "Rick descongela el tiempo, pero como él, Morty y Summer han vivido por un periodo tan largo en el tiempo congelado, se desarolla una dimensión paralela.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2001.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "Huída a Mortynoche",
+      "description": "Rick le enseña a Morty a conducir mientras deja a Jerry en una conocida guardería hecha especialmente para él. La conciencia de Morty le lleva a perseguir a un asesino en vez de pasar el día en una sala de maquinas recreativas de alienígenas.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2002.mkv"
+    },
+    {
+      "episode": 14,
+      "title": "Asimilación autoerótica",
+      "description": "Rick se emociona al reencontrarse con un viejo amigo, mientras Beth y Jerry tienen una pelea después de hacer un descubrimiento en el garaje.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2003.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "Total Rick-tal",
+      "description": "Atrapados en casa con un número creciente de parásitos alienígenas que toman formas y alteran la memoria, Rick y los Smiths tratan de averiguar quién es real.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2004.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Estamos cerdis",
+      "description": "Cuando unas cabezas gigantescas llegan a la atmósfera de la tierra, Rick y Morty tienen que salvar al planeta con un nuevo éxito musical. Mientras, Jerry, Beth y Summer forman parte de una nueva religión.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2005.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "Los Ricks deben estar locos",
+      "description": "Rick y Morty viajan dentro de la batería del coche, donde Morty descubre que Rick ha creado un universo con vida solo para producir energía. Mientras, Summer queda encerrada en el coche con el intrincado sistema de seguridad de Rick.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2006.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "Golpe en el pequeño Sánchez",
+      "description": "Beth y Jerry toman serias medidas para salvar su matrimonio. Rick se transforma en una versión adolescente de sí mismo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2007.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "Cable interdimensional 2: Tentando al destino",
+      "description": "Jerry ha de decidir si mantener su hombría o salvar a un líder alienígena mientras que el resto echa un vistazo a la televisión interdimensional.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2008.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "Mira quien purga también",
+      "description": "Rick y Morty paran en un planeta desconocido para repostar. En este nuevo mundo reina la paz gracias a la celebración de la purga.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2009.mkv"
+    },
+    {
+      "episode": 21,
+      "title": "De squanch en squanch",
+      "description": "La familia entera es invitada a una boda en el lejano planeta Squanch.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s%2002%20e%2010.mkv"
+    },
+    {
+      "episode": 22,
+      "title": "Cadena Rickpetua",
+      "description": "Rick, aún en prisión, pone un plan de escape en marcha. En la Tierra, gobernada por la federación, Morty y Summer discuten sobre su abuelo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_01.mkv"
+    },
+    {
+      "episode": 23,
+      "title": "Tras el Rickazón verde",
+      "description": "Rick, Morty y Summer viajan a una dimensión post-apocalíptica y encuentran a algunos enemigos peligrosos.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_02.mkv"
+    },
+    {
+      "episode": 24,
+      "title": "Rickinillo",
+      "description": "Rick se convierte en un pepinillo mientras Beth, Summer y Morty van a terapia familiar.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_03.mkv"
+    },
+    {
+      "episode": 25,
+      "title": "Los Vindicadores 3: El Regreso de Matamundos",
+      "description": "Rick y Morty son convocados por los Vindicadores para detener a Matamundos pero terminan en un trampa mortal concebida por el Rick borracho.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_04.mkv"
+    },
+    {
+      "episode": 26,
+      "title": "La Conspiración del Roscazosca",
+      "description": "Rick y Jerry se van de aventura.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_05.mkv"
+    },
+    {
+      "episode": 27,
+      "title": "Descanso y Ricklajación",
+      "description": "Rick y Morty se dan un tiempo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_06.mkv"
+    },
+    {
+      "episode": 28,
+      "title": "Confusión en la Ricklántida",
+      "description": "Rick y Morty van a la ciudad perdida de Atlantis.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_07.mkv"
+    },
+    {
+      "episode": 29,
+      "title": "Los malos rollos de Morty",
+      "description": "Rick le revela a Morty sus \"momentos impresionantes de Morty \", una colección de recuerdos que Morty pide a Rick que borre de su mente.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_08.mkv"
+    },
+    {
+      "episode": 30,
+      "title": "El ABC de Beth",
+      "description": "Rick lleva a Beth a un mundo que creó para ella, cuando era pequeña.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_09.mkv"
+    },
+    {
+      "episode": 31,
+      "title": "El Ricksajero del Mortimiedo",
+      "description": "¡Es Rick contra POTUS en una pelea hasta el final!",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_03_e_10.mkv"
+    },
+    {
+      "episode": 32,
+      "title": "Al filo del mañorty: Rick. Muere. Rickpite",
+      "description": "Rick lleva a Morty a un planeta que contiene unos cristales, que muestran a quien los toca, todas las formas en las que puede morir dependiendo de sus elecciones.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_04_e_01.mkv"
+    },
+    {
+      "episode": 33,
+      "title": "El viejo y el váter",
+      "description": "Jerry trabaja en una aplicación con un extraterrestre, a pesar de la advertencia de Rick de no hacerlo y las objeciones de Morty. Por su parte, Rick investiga el misterio de su váter secreto.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_04_e_02.mkv"
+    },
+    {
+      "episode": 34,
+      "title": "Algún equipo voló sobre el equipillo del Morty",
+      "description": "Rick y Morty se introducen en la \"Heistcom\", donde deberán superar un reto.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_04_e_03.mkv"
+    },
+    {
+      "episode": 35,
+      "title": "Garra y Orden: Unidad de Rícktimas Morteciales",
+      "description": "Morty molesta a Rick para que le consiga un dragón.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_04_e_04.mkv"
+    },
+    {
+      "episode": 36,
+      "title": "Rickláctica, serpiente de combate",
+      "description": "Muchas cosas en el espacio broh. Serpientes y cosas afiladas. Mira esto hermano.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_04_e_05.mkv"
+    },
+    {
+      "episode": 37,
+      "title": "Rick cena Mort André",
+      "description": "Rick prepara una cena para su némesis del océano mientras Morty va a por el vino.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_01.mkv"
+    },
+    {
+      "episode": 38,
+      "title": "Rick dobles, mi Mortijer y yo",
+      "description": "Los Smith sospechan que alguien les está persiguiendo pero, ¿Quién es real y quién no?",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_02.mkv"
+    },
+    {
+      "episode": 39,
+      "title": "Una Rickdad Mortincómoda",
+      "description": "Morty se enamora de una superheroína medioambiental. Rick y Summer hacen turismo apocalíptico de borrachera.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_03.mkv"
+    },
+    {
+      "episode": 40,
+      "title": "Rickdependence Spray",
+      "description": "Un experimento fallido de Rick crea monstruos que amenazan el país.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_04.mkv"
+    },
+    {
+      "episode": 41,
+      "title": "Amortycan Grickfitti",
+      "description": "Summer y Morty roban la nave de Rick para impresionar al chico nuevo del colegio. Rick y Jerry tienen noche de tíos.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_05.mkv"
+    },
+    {
+      "episode": 42,
+      "title": "El increible día de Explota-acción de Gracias",
+      "description": "El día de Acción de Gracias, Rick y Morty necesitan obtener un indulto presidencial.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_06.mkv"
+    },
+    {
+      "episode": 43,
+      "title": "Gotron Jerrysis Rickvangelion",
+      "description": "Summer alienta la adicción de Rick por coleccionar robots gigantes que pueden combinarse entre si, y la familia se vuelve LA FAMILIA.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_07.mkv"
+    },
+    {
+      "episode": 44,
+      "title": "Rickuérdate de Mort",
+      "description": "Rick intenta rescatar a un amado amigo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_08.mkv"
+    },
+    {
+      "episode": 45,
+      "title": "Mortpaso de Rick",
+      "description": "Rick consigue nuevos compinches, mientras Morty hace un nuevo amigo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_09.mkv"
+    },
+    {
+      "episode": 46,
+      "title": "Rickmurai Jack",
+      "description": "Rick esta viviendo su mejor vida anime, haciendo nuevos amigos y pateando nuevos enemigos.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_05_e_10.mkv"
+    },
+    {
+      "episode": 47,
+      "title": "Solaricks",
+      "description": "El final de la temporada anterior trae consecuencias. Rick y Morty están a la deriva en el espacio, entre los restos de la Ciudadela. ¿Se recuperarán?",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_01.mkv"
+    },
+    {
+      "episode": 48,
+      "title": "Rick: una Mort plena",
+      "description": "Morty está atrapado y Rick debe salvarlo, pero para ello, Summer tiene que hacer un Jungla de Cristal. Será difícil, ¡porque no la ha visto!",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_02.mkv"
+    },
+    {
+      "episode": 49,
+      "title": "Gemelinstinto Béthico",
+      "description": "Los Smith celebran una de sus fiestas favoritas mientras Summer y Morty se enganchan a su nueva consola de videojuegos ultrarrealista.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_03.mkv"
+    },
+    {
+      "episode": 50,
+      "title": "La familia nocturna",
+      "description": "La familia descubre una tecnología de Rick que quiere probar. Este acaba accediendo, lo cual causa todo un caos al estilo Rick y Morty.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_04.mkv"
+    },
+    {
+      "episode": 51,
+      "title": "DeSmithno final",
+      "description": "Los Smith cenan en un restaurante chino y leen sus galletas de la fortuna. Todo es muy normal hasta que Jerry lee la suya.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_05.mkv"
+    },
+    {
+      "episode": 52,
+      "title": "Morque JuRícksico",
+      "description": "Sin motivo aparente, vuelven los antiguos amos de la Tierra. Se toman muy en serio un cambio profundo en la sociedad, pero Rick no piensa tolerarlo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_06.mkv"
+    },
+    {
+      "episode": 53,
+      "title": "La Chaqueta MetáRicka",
+      "description": "Rick y Morty están confundidos al recordar algunas de sus aventuras juntos, lo que los lleva a un enfrentamiento con un antiguo enemigo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_07.mkv"
+    },
+    {
+      "episode": 54,
+      "title": "Una mierdapia peligrosa",
+      "description": "Cada vez aparecen más personajes absurdos y Rick está harto de tener que tratar con ellos. ¿Qué representa esto para él?",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_08.mkv"
+    },
+    {
+      "episode": 55,
+      "title": "Un Rick en la Morty del rey Morturo",
+      "description": "Si Rick te dice que no hagas algo, no lo hagas. Morty no sabe dónde se mete al aceptar el regalo de un desconocido en la calle.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_09.mkv"
+    },
+    {
+      "episode": 56,
+      "title": "¡SocorRick! Ya es Mortidad",
+      "description": "Morty siempre ha querido un regalo concreto por Navidad, pero nunca lo consigue. ¿Será este el año en que por fin Rick ceda a sus deseos?",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_06_e_10.mkv"
+    },
+    {
+      "episode": 57,
+      "title": "Cómo Ojetesucio recuperó el ojete",
+      "description": "Rick intenta ayudar a un viejo amigo a recuperarse.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_01.mkv"
+    },
+    {
+      "episode": 58,
+      "title": "Tú a Jerron y yo a Rickifornia",
+      "description": "Rick le enseña a Jerry que hace las cosas con más ingenio, no con más esfuerzo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_02.mkv"
+    },
+    {
+      "episode": 59,
+      "title": "Air Force Wong",
+      "description": "Rick y el presidente vuelven a las andadas.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_03.mkv"
+    },
+    {
+      "episode": 60,
+      "title": "That's Amorty",
+      "description": "Rick comparte su receta secreta con toda la familia.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_04.mkv"
+    },
+    {
+      "episode": 61,
+      "title": "Sin Rickmort",
+      "description": "Rick y Morty se atascan en un proyecto.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_05.mkv"
+    },
+    {
+      "episode": 62,
+      "title": "El Rickielo... mórtimamente",
+      "description": "A Morty le hacen una auditoría.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_06.mkv"
+    },
+    {
+      "episode": 63,
+      "title": "Wet Kuat Amortican Summer",
+      "description": "Summer y Morty pasan un rato juntos con más amigos.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_07.mkv"
+    },
+    {
+      "episode": 64,
+      "title": "El origen de los Numericons: la película",
+      "description": "Las matemáticas cuestan. Salvar el universo cuesta aún más.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_08.mkv"
+    },
+    {
+      "episode": 65,
+      "title": "Mort: Ragnarick",
+      "description": "Rick busca el infinito. Morty intenta ayudarlo.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_09.mkv"
+    },
+    {
+      "episode": 66,
+      "title": "Mortifer",
+      "description": "Unos hastiados Rick y Morty buscan emociones espeluznantes.",
+      "video_url": "http://series.tuxchannel.mx/series/rick%20and%20morty/s_07_e_10.mkv"
+    }
+  ]
+},
+
   {
   "title": "Cobra Kai",
   "original_title": "Cobra Kai",
