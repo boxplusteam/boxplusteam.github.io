@@ -1787,61 +1787,173 @@
   ]
 },
   
-
 {
   "title": "Sword Art Online",
   "original_title": "Sword Art Online",
   "year": 2012,
-  "genre": ["Animación", "Acción", "Aventura", "Ciencia Ficción", "Romance"],
+  "genre": [
+    "Animación",
+    "Acción",
+    "Aventura",
+    "Ciencia Ficción",
+    "Romance"
+  ],
   "studio": "A-1 Pictures",
   "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToN3G-AHmC3NniW2qBi3xbv2xRek-40JtGF-xQlPTh3g&s=10",
-  "description": "En el año 2022, miles de personas quedan atrapadas en un MMORPG de realidad virtual donde morir en el juego significa morir en la vida real. Kirito, un hábil jugador solitario, debe luchar a través de 100 pisos para ganar su libertad, encontrando en el camino aliados, enemigos y el amor.",
+  "description": "En el año 2022, miles de jugadores quedan atrapados en un MMORPG de realidad virtual llamado Sword Art Online. La única forma de escapar es completar los 100 pisos del castillo flotante Aincrad, pero morir en el juego significa morir en la vida real.",
   "episodes": [
     {
       "episode": 1,
       "title": "El mundo de las espadas",
-      "description": "Sword Art Online, el MMORPG más esperado en el año 2022 es toda una experiencia en realidad virtual. Sin embargo, parece haber problemas en el servidor.",
+      "description": "Sword Art Online, el MMORPG más esperado en el año 2022 es toda una experiencia en realidad virtual. Sin embargo, aún con la avanzada tecnología, parece haber problemas en el servidor.",
       "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_01.mkv"
     },
     {
       "episode": 2,
       "title": "Beater",
-      "description": "Ha pasado 1 mes desde que los jugadores fueron encerrados. Todavía ningún jugador ha pasado el primer piso. ¿Qué podrán hacer para cambiar esto?",
+      "description": "Ha pasado 1 mes desde que los jugadores fueron encerrados en el juego, más de 2000 ya han muerto. Todavía ningún jugador ha pasado el primer piso. ¿Qué podrán hacer para cambiar esto?",
       "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_02.mkv"
     },
     {
       "episode": 3,
       "title": "El reno de nariz roja",
-      "description": "Kirito se une a un gremio de amigos cercanos. Todo marcha bien hasta que un trágico accidente cambia a Kirito completamente.",
+      "description": "Kirito finalmente se ha unido a un gremio compuesto por amigos cercanos en la realidad. Todo marcha bien hasta que un trágico accidente cambia a Kirito completamente.",
       "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_03.mkv"
     },
     {
       "episode": 4,
-      "title": "El espadachín negro",
-      "description": "Silca la domadora de dragones es atrapada y su mascota paga el precio. Kirito la ayuda y le ofrece una opción para revivirla.",
+      "title": "El espadachin negro",
+      "description": "Silca es conocida como \"Silca la domadora de dragones\", pero luego de dejar su grupo es atrapada, y su mascota Pina pagó el precio. Antes de que la maten, Kirito la ayuda y le ofrece una opción.",
       "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_04.mkv"
     },
     {
       "episode": 5,
       "title": "Incidente en la zona segura",
-      "description": "Ocurre un asesinato en una zona segura. Kirito y Asuna sospechan que hubo trampa e intentan buscar al culpable.",
+      "description": "Kirito y Asuna están en una zona segura, cuando ocurre un asesinato que Kirito sospecha fue de una forma algo tramposa e intentan buscar al culpable.",
       "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Fantasma vengador",
+      "description": "Kirito ya ha descubierto el \"cómo\", pero ahora ha de descubrir el \"porqué\" de la situación.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "La temperatura del corazón",
+      "description": "Un viaje para conseguir una nueva espada enfrentará a Kirito a sus miedos y a un dragón.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "La danza de la espada de blanco y negro",
+      "description": "Tras dos años, los habitantes de SAO se han acostumbrado a su vida, y jugarse la vida es algo normal para Kirito y Asuna.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "El demonio de ojos azules",
+      "description": "Para poder salvar a un grupo de jugadores y a Asuna de un jefe, Kirito se ve obligado a jugar su as en la manga.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_09.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Aura asesina carmesí",
+      "description": "Kirito aceptó participar de un duelo con el jefe de los Caballeros del juramento de sangre. Si Kirito gana, Asuna es libre y puede abandonar el gremio, pero si pierde...",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_10.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "La chica en el rocío matutino",
+      "description": "Los recién casados están disfrutando de su estadía alejados de las líneas de fuego. Pero una nueva invitada los llevará de nuevo al comienzo.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_11.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "El corazón de Yui",
+      "description": "Yulier, subcomandante del Ejército liberador, se acerca a Kirito y a Asuna para pedirles ayuda para salvar a su amiga y a su gremio.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_12.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "Al borde del abismo del infierno",
+      "description": "Mientras disfrutaba de un campeonato de pesca, Kirito recibe un mensaje urgente del líder del gremio, quien le solicita que regrese.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_13.mkv"
     },
     {
       "episode": 14,
       "title": "El fin del mundo",
-      "description": "La batalla contra la Calavera segadora, jefe del piso 75, es feroz, mucho más de lo que cualquiera podría imaginar.",
+      "description": "Noviembre de 2024. La batalla contra la Calavera segadora, jefe del piso 75, es feroz, mucho más feroz de lo que cualquiera podría imaginar.",
       "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_14.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "Regreso",
+      "description": "Kirigaya se adapta a la vida fuera de Sword Art Online, pero no se ha olvidado de Asuna. Durante una visita para verla en el hospital, se encuentra con Sugou Nobuyuki.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_15.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Tierra de las Hadas",
+      "description": "Un nuevo juego MMO les permite a los usuarios volar y alienta la matanza de jugadores. Kirito se suma a la búsqueda de Asuna y se sorprende gratamente con su hallazgo.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_16.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "La reina en cautiverio",
+      "description": "Kirito se entera del juego y del odio entre las razas a través de Leafa, y Asuna se entera de la verdad sobre su rol a través del Rey de las hadas.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_17.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "Hacia el Árbol del Mundo",
+      "description": "Leafa se gana enemigos tras marcharse para asociarse a Kirito. En camino hacia el territorio neutral, hablan de las reglas y las áreas de ALfheim Online.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_18.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "Corredor Lugru",
+      "description": "Algo no anda bien; Recon le envió a Leafa un mensaje críptico. Ella y Kirito deberán averiguar su significado en el poco tiempo con el que cuentan.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_19.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "El general de la llama ardiente",
+      "description": "El plan de Kirito para evitar una guerra entre las razas puede funcionar. Solo debe conseguir sobrevivir a una lucha contra el general Eugenio, de las Salamandras.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_20.mkv"
+    },
+    {
+      "episode": 21,
+      "title": "La verdad de Alfheim",
+      "description": "Finalmente, Kirito y los otros han llegado a Central Arun, la ciudad más grande de ALfheim, ubicada al pie del árbol del mundo.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_21.mkv"
+    },
+    {
+      "episode": 22,
+      "title": "La gran aventura",
+      "description": "La determinación de Kirito por salvar a Asuna roza la locura. Su imprudencia se ve interrumpida cuando Leafa se desconecta de improviso.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_22.mkv"
+    },
+    {
+      "episode": 23,
+      "title": "Lazos",
+      "description": "Aunque se ha levantado una pared entre Kirito y Sugu, él debe salvar a Asuna. La próxima vez que desafíe al calabozo final, no estará solo.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_23.mkv"
+    },
+    {
+      "episode": 24,
+      "title": "Héroe dorado",
+      "description": "Kirito, Asuna y Yui se reencuentran, pero los cerrojos de Asuna son inviolables. Antes de que se les ocurra un plan, el Rey de las hadas hace su entrada.",
+      "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_24.mkv"
     },
     {
       "episode": 25,
       "title": "La semilla del mundo",
-      "description": "Kazuto Kirigaya debe hacer una cosa más antes de poder ver finalmente a Asuna en el mundo real.",
+      "description": "Kazuto Kirigaya ha derrotado a la muerte en dos oportunidades, pero debe hacer una cosa más antes de poder ver finalmente a Asuna en el mundo real.",
       "video_url": "http://series.tuxchannel.mx/series/sword_art_online/s_01_e_25.mkv"
     }
   ]
 },
-  
   
   {
   "title": "Robin Hood",
