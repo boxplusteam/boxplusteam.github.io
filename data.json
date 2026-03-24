@@ -1,6 +1,169 @@
 [
 
   
+
+  {
+  "title": "The Boys",
+  "original_title": "The Boys",
+  "year": 2019,
+  "genre": [
+    "Acción",
+    "Ciencia Ficción",
+    "Drama",
+    "Sátira"
+  ],
+  "studio": "Amazon MGM Studios",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BZjU4OWNiYzQtMzc1NS00NjZlLTgyYTctZWY4ZmEzMTkxYjA4XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+  "description": "The Boys es una mirada irreverente sobre lo que sucede cuando los superhéroes, tan populares como las celebridades y tan influyentes como los políticos, abusan de sus superpoderes en lugar de usarlos para el bien. Un grupo de vigilantes se embarca en una heroica búsqueda para exponer la verdad sobre 'Los Siete' y Vought.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Las reglas del juego",
+      "description": "Hughie Campbell, tras ver como un súper mata al amor de su vida, se junta con Billy Carnicero, un vigilante empeñado en castigar a los súpers corruptos. La vida de Hughie nunca volverá a ser la misma.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_01.mkv"
+    },
+    {
+      "episode": 2,
+      "title": "Cherry",
+      "description": "“The Boys” capturan a un superhéroe, Luz Estelar se venga, Patriota se vuelve travieso y un senador se vuelve todavía más travieso.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_02.mkv"
+    },
+    {
+      "episode": 3,
+      "title": "Moja (El Compuesto V)",
+      "description": "Es la carrera del siglo. A-Tren y Shockwave compiten por ser el hombre más rápido del mundo. Mientras tanto, “The Boys” vuelven a reunirse y están mejor que nunca.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_03.mkv"
+    },
+    {
+      "episode": 4,
+      "title": "La hembra de la especie",
+      "description": "En un episodio muy especial de “The Boys”… una hora de vísceras, bolos, aviones secuestrados, locura, fantasmas y una Hembra muy misteriosa.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_04.mkv"
+    },
+    {
+      "episode": 5,
+      "title": "Bueno para el alma",
+      "description": "“The Boys” acuden a la Feria de Fe para seguir una pista prometedora en su guerra contra los súpers. Tal vez haya… un bebé homicida.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_05.mkv"
+    },
+    {
+      "episode": 6,
+      "title": "Los inocentes",
+      "description": "The Boys averiguan que Vought ha estado usando organizaciones benéficas para traficar Compuesto-V. Annie se niega a cumplir el plan de Stillwell.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_06.mkv"
+    },
+    {
+      "episode": 7,
+      "title": "La sociedad de la autopreservación",
+      "description": "Nunca os fiéis de un súper fracasado. “The Boys” aprenden esta lección por las malas mientras Patriota investiga su pasado.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_07.mkv"
+    },
+    {
+      "episode": 8,
+      "title": "Me has encontrado",
+      "description": "¡Hora del final de temporada! Preguntas respondidas, secretos revelados y personajes explotados.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_01_e_08.mkv"
+    },
+    {
+      "episode": 9,
+      "title": "El tiovivo",
+      "description": "¡Llega la segunda temporada! Con más decapitaciones explosivas, terroristas, sadomasoquismo, sectas y aire renovado.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_01.mkv"
+    },
+    {
+      "episode": 10,
+      "title": "Preparación y planificación",
+      "description": "The Boys fichan a un súperterrorista, Luz Estelar consigue pruebas contra Vought y Patriota se busca una familia.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_02.mkv"
+    },
+    {
+      "episode": 11,
+      "title": "Más allá de la colina con las espadas de mil hombres",
+      "description": "Vought ha administrado el Compuesto V a numerosas víctimas sin su consentimiento. Se revelan los derechos de los afectados.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_03.mkv"
+    },
+    {
+      "episode": 12,
+      "title": "Nada igual en el mundo",
+      "description": "The Boys se desplazan hasta Carolina del Norte para seguir la pista de una misteriosa súper llamada Liberty.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_04.mkv"
+    },
+    {
+      "episode": 13,
+      "title": "Nos damos el piro",
+      "description": "Vought comienza el rodaje de #ElAmanecerDeLosSiete y presenta a la nueva integrante: Stormfront.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_05.mkv"
+    },
+    {
+      "episode": 14,
+      "title": "Las putas puertas abajo",
+      "description": "El Centro Sage Grove se dedica al cuidado de pacientes con trastornos mentales bajo la supervisión de Vought Internacional.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_06.mkv"
+    },
+    {
+      "episode": 15,
+      "title": "Carnicero",
+      "description": "La audiencia contra Vought es inminente. Los ciudadanos patrióticos se preparan para defender a los superhéroes.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_07.mkv"
+    },
+    {
+      "episode": 16,
+      "title": "Lo que yo sé",
+      "description": "Alerta de súpervillano emitida por el Departamento de Defensa Nacional. El final de la segunda temporada.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_02_e_08.mkv"
+    },
+    {
+      "episode": 17,
+      "title": "Revancha",
+      "description": "Estreno de «El amanecer de los siete». Se descubre la historia jamás contada sobre el origen del equipo.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_01.mkv"
+    },
+    {
+      "episode": 18,
+      "title": "El único en el cielo",
+      "description": "El país homenajea a Patriota en su cumpleaños con una moneda de oro conmemorativa de edición limitada.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_02.mkv"
+    },
+    {
+      "episode": 19,
+      "title": "Costa Berberisca",
+      "description": "Final de temporada de #HéroeAmericano. ¿Quiénes serán los dos nuevos miembros de Los Siete?",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_03.mkv"
+    },
+    {
+      "episode": 20,
+      "title": "Glorioso plan quinquenal",
+      "description": "La batalla de sables inspirada en Los Siete se emite en directo para los suscriptores de Superporno.com.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_04.mkv"
+    },
+    {
+      "episode": 21,
+      "title": "La última vez para contemplar este mundo de mentiras",
+      "description": "La Condesa Escarlata busca fondos para su refugio de chimpancés. Una videollamada privada está en juego.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_05.mkv"
+    },
+    {
+      "episode": 22,
+      "title": "Herogasm",
+      "description": "Invitación a la 70ª edición de Herogasmo. Reglas estrictas: nada de cámaras y mucha discreción.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_06.mkv"
+    },
+    {
+      "episode": 23,
+      "title": "Una vela para acompañarte a la cama",
+      "description": "Soldier Boy busca a los miembros de Payback para matarlos. Black Noir recuerda su pasado traumático.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_07.mkv"
+    },
+    {
+      "episode": 24,
+      "title": "El salvaje instante al rojo blanco",
+      "description": "Los patriotas se unen para respaldar a Patriota contra las acusaciones de Luz Estelar. Final de la tercera temporada.",
+      "video_url": "http://series.tuxchannel.mx/series/the_boys/s_03_e_08.mkv"
+    }
+  ]
+},
+
+  
   {
     "title": "El Rey León",
     "description": "Simba, un joven príncipe león, es expulsado de su hogar tras la muerte de su padre, el rey Mufasa. Con la ayuda de sus amigos Timón y Pumba, Simba deberá encontrar el valor para regresar, enfrentarse a su tío Scar y reclamar su lugar legítimo en el Trono de la Roca.",
