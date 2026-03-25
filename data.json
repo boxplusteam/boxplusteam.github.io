@@ -1,6 +1,606 @@
 [
 
   {
+  "title": "Juego de Tronos",
+  "original_title": "Game of Thrones",
+  "year": 2011,
+  "genre": [
+    "Aventura",
+    "Drama",
+    "Fantasía"
+  ],
+  "studio": "HBO",
+  "coverImage": "https://pics.filmaffinity.com/game_of_thrones-293142110-mmed.jpg",
+  "description": "Nueve familias nobles luchan por el control de las tierras de Poniente, mientras un antiguo enemigo regresa después de estar inactivo durante milenios.",
+  "episodes": [
+    {
+      "episode": 1,
+      "season": 1,
+      "title": "Se acerca el invierno",
+      "description": "El Lord Ned Stark está preocupado por los perturbantes reportes de un desertor del Nights Watch; El Rey Robert y los Lannisters llegan a Winterfell; el exiliado Viserys Targaryen forja una nueva y poderosa alianza.",
+      "image_url": "https://image.tmdb.org/t/p/w200/wrGWeW4WKxnaeA8sxJb2T9O6ryo.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2001.mkv"
+    },
+    {
+      "episode": 2,
+      "season": 1,
+      "title": "El camino real",
+      "description": "Cuando Bran sobrevive milagrosamente a su caída de la torre, Cersei y Jaime conspiran para asegurar su silencio; Jon Snow y Tyrion se dirigen a El Muro; al convertirse en la mano derecha del rey, Ned deja Winterfell con sus hijas Sansa y Arya.",
+      "image_url": "https://image.tmdb.org/t/p/w200/l0GJx3IR8YasbztTJi5uK0XqkEo.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2002.mkv"
+    },
+    {
+      "episode": 3,
+      "season": 1,
+      "title": "Lord Nieve",
+      "description": "Jon impresiona a Tyrion en Castle Black; Ned se enfrenta a su pasado y a su futuro en Kings Landing; En el camino a Vaes Dothrak, Daenerys se pelea con Viserys.",
+      "image_url": "https://image.tmdb.org/t/p/w200/8HjOlb4slc1xusMgOtoNpxuTgSI.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2003.mkv"
+    },
+    {
+      "episode": 4,
+      "season": 1,
+      "title": "Tullidos, bastardos y cosas rotas",
+      "description": "Ned busca pistas sobre la muerte de su predecesor, y descubre uno de los bastardos del Rey Robert; Jon toma medidas para proteger a Sam de los abusos en Castle Black; Tyrion es atrapado en el lugar equivocado.",
+      "image_url": "https://image.tmdb.org/t/p/w200/jri960hz39eulThP66dd9emTxvs.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2004.mkv"
+    },
+    {
+      "episode": 5,
+      "season": 1,
+      "title": "El lobo y el león",
+      "description": "Ned rechaza una orden del Rey. Un prisionero Tyrion ayuda a Catelyn y logra escapar de un encuentro muy peligroso, pero es recibido con la fría hermana de Catelyn en el Eyrie. Arya oye por casualidad un complot contra su padre.",
+      "image_url": "https://image.tmdb.org/t/p/w200/u7e1qSWE6v8jfY9vGNrckX47DGN.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2005.mkv"
+    },
+    {
+      "episode": 6,
+      "season": 1,
+      "title": "Una corona de oro",
+      "description": "Ned emite un decreto que podría tener consecuencias a largo plazo a través de los Siete Reinados. En el Eyrie, Tyrion confiesa sus crímenes y demanda que Lysa lo juzgue en combate. Viserys recibe de Drogo su pago final para Daenerys.",
+      "image_url": "https://image.tmdb.org/t/p/w200/AdhvrJxyYpINwYnGkBIf2krQKg.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2006.mkv"
+    },
+    {
+      "episode": 7,
+      "season": 1,
+      "title": "Ganas o mueres",
+      "description": "Ned confronta a Cersei sobre sus secretos. Con el destino del perdido Benjen en su mente, Jon hace sus votos del Nights Watch, aunque no con la asignación que deseaba. Drogo promete llevar a los Dorthraki al Kings Landing.",
+      "image_url": "https://image.tmdb.org/t/p/w200/o6ldSDhIINGNKZR62mHf2m64dD.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2007.mkv"
+    },
+    {
+      "episode": 8,
+      "season": 1,
+      "title": "Por el lado de la punta",
+      "description": "Cuando capturan a Ned, Syrio y Arya se enfrentan a guardias Lannister mientras Cersei manipula a Sansa. Robb reúne los aliados de su padre y se dirige hacia la guerra. Tyrion forma una alianza con las tribus de las colinas y se reúne con su padre.",
+      "image_url": "https://image.tmdb.org/t/p/w200/9ZvT1IZPcC11eiCByOzqQvC3CCR.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2008.mkv"
+    },
+    {
+      "episode": 9,
+      "season": 1,
+      "title": "Baelor",
+      "description": "Con Sansa en peligro, Ned toma una importante decisión. Tyrion adquiere una amante y es forzado por su padre a pelear en el frente. Robb toma un preciado prisionero. Jon descubre un oscuro secreto sobre Maester Aemon. Dany ve su reino en peligro.",
+      "image_url": "https://image.tmdb.org/t/p/w200/fAmBhmw1pQc6fucrdmnRM5FOpXD.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2009.mkv"
+    },
+    {
+      "episode": 10,
+      "season": 1,
+      "title": "Fuego y sangre",
+      "description": "La trágica noticia se esparce en los Siete Reinos. Bran y Rickon comparten un sueño profético, Catelyn interroga a Jaime acerca de la caída de su hijo y el destino de Robb cambia para siempre. Del otro lado del mar, Dany paga un terrible precio por su amor pero encuentra una nueva esperanza.",
+      "image_url": "https://image.tmdb.org/t/p/w200/y1BXkhEqBQS3ewQeqqdHpjhTts0.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2001%20e%2010.mkv"
+    },
+    {
+      "episode": 11,
+      "season": 2,
+      "title": "El Norte no olvida",
+      "description": "Tyrion llega para salvar la corona de Joffrey de viejas y nuevas amenazas. Daenerys busca agua y aliados en el Desierto Rojo. Jon Nieve y los miembros de la Guardia de la Noche se enfrentan a los salvajos más allá del Muro.",
+      "image_url": "https://image.tmdb.org/t/p/w200/gGHtlTvHpSGZ8DIrxMyK3Ewkc1Y.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2001.mkv"
+    },
+    {
+      "episode": 12,
+      "season": 2,
+      "title": "Las tierras de la noche",
+      "description": "Arya comparte un secreto con un recluta familiar. Un explorador regresa para darle noticias inesperadas a Dany. Theon vuelve a casa en las Islas del Hierro y a su familia verdadera. Tyrion imparte justicia y Jon es testigo de un terrible crímen.",
+      "image_url": "https://image.tmdb.org/t/p/w200/3EW7wYNXUVaHT4XRuIoNFrqhZh5.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2002.mkv"
+    },
+    {
+      "episode": 13,
+      "season": 2,
+      "title": "Lo que está muerto no puede morir",
+      "description": "Tyrion desenmascara a un espía. Catelyn conoce a los nuevos reyes. Bran sueña y Theon se ahoga.",
+      "image_url": "https://image.tmdb.org/t/p/w200/neKkHgfX7dgi4E47GKT7bYciq93.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2003.mkv"
+    },
+    {
+      "episode": 14,
+      "season": 2,
+      "title": "Jardín de huesos",
+      "description": "Catelyn intenta salvar a los reyes de ellos mismos. Tyrion practica la coerción. Robb conoce a alguien que viene del extranjero fuera de las puertas de la salvación. Dany encuentra un aliado. Melisandre arroja una gran nube sobre Bastión de Tormentas.",
+      "image_url": "https://image.tmdb.org/t/p/w200/4j2j97GFao2NX4uAtMbr0Qhx2K2.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2004.mkv"
+    },
+    {
+      "episode": 15,
+      "season": 2,
+      "title": "El fantasma de Harrenhal",
+      "description": "La rivalidad entre los Baratheon termina. Tyrion conoce el arma secreta de Cersei. Dany sufre una perdida. Arya cobra una deuda que desconocia tener. Jon y la Guardia de la Noche encuentran una fortaleza antigua y conocen una leyenda.",
+      "image_url": "https://image.tmdb.org/t/p/w200/h7HHSQtEyf7cNBYR2G9DjQ78EgV.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2005.mkv"
+    },
+    {
+      "episode": 16,
+      "season": 2,
+      "title": "Los dioses antiguos y nuevos",
+      "description": "Theon completa su golpe maestro. En Desembarco del Rey, los Lannister se despiden de Myrcella sin perder tiempo para que no corra peligro. Arya se enfrenta cara a cara con un visitante sorpresa. Robb y Catelyn reciben noticias cruciales.",
+      "image_url": "https://image.tmdb.org/t/p/w200/bxToPOtlk77Wkxsas0mMgtjvzXS.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2006.mkv"
+    },
+    {
+      "episode": 17,
+      "season": 2,
+      "title": "Un hombre sin honor",
+      "description": "Jaime conoce a un pariente lejano. Dany recibe una invitación a la Casa de los Eternos. Theon lidera una reunión de búsqueda. Jon pierde su rumbo en territorio salvaje. Cersei aconseja a Sansa.",
+      "image_url": "https://image.tmdb.org/t/p/w200/bCDklRxVetx1COP4zXLLnXMS2S0.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2007.mkv"
+    },
+    {
+      "episode": 18,
+      "season": 2,
+      "title": "Un príncipe de Invernalia",
+      "description": "En Invernalia, Theon recibe un visitante. Arya llama a Jaquen para pagar su deuda final de una forma desagradable. Robb es traicionado. Tyrion y Varys encuentran algo en común. Dany ignora el consejo de Jorah. Stannis y Davos se acercan a su destino.",
+      "image_url": "https://image.tmdb.org/t/p/w200/4W90HbZcVG54m8HoxaZmXc8rzjy.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2008.mkv"
+    },
+    {
+      "episode": 19,
+      "season": 2,
+      "title": "Aguasnegras",
+      "description": "Tyrion y los Lannister pelean por sus vidas mientras Stannis lleva a cabo el asalto a Desembarco del Rey.",
+      "image_url": "https://image.tmdb.org/t/p/w200/rX44Vfd0iiZDIJWHYZg9j4yLSP9.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2009.mkv"
+    },
+    {
+      "episode": 20,
+      "season": 2,
+      "title": "Valar Morghulis",
+      "description": "Joffrey reparte premios a sus súbditos. Mientras, Theon pone a sus hombres en acción. Luwin ofrece un consejo final. Arya recibe un regalo de parte de Jaquen. Jon se prueba a sí mismo ante Qhorin.",
+      "image_url": "https://image.tmdb.org/t/p/w200/u46jn12qEyaCOe1oqJBwPvL5d7R.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2002%20e%2010.mkv"
+    },
+    {
+      "episode": 21,
+      "season": 3,
+      "title": "Valar Dohaeris",
+      "description": "Tras la batalla del Aguasnegras, los reyes de Poniente recolocan sus piezas. Tyrion exige una recompensa por su labor en la batalla. Daenerys busca un ejército a su medida. Más allá del Muro, Jon Nieve conoce a Mance Rayder.",
+      "image_url": "https://image.tmdb.org/t/p/w200/3pyS7xz9mprX4OuOCfV261CnGfR.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2001.mkv"
+    },
+    {
+      "episode": 22,
+      "season": 3,
+      "title": "Alas negras, palabras negras",
+      "description": "Mientras Sansa gana confianza con la familia Tyrell, su hermana Arya sigue huyendo para sobrevivir, como Bran y Rickon, que vivirán un encuentro inesperado en su largo camino al Muro. Por su parte, Catelyn recibe malas noticias de su familia.",
+      "image_url": "https://image.tmdb.org/t/p/w200/ydrupjqBj6M68pUwJNJ5rbGmm1O.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2002.mkv"
+    },
+    {
+      "episode": 23,
+      "season": 3,
+      "title": "El camino del castigo",
+      "description": "Mientras Catelyn acude con su hijo a Aguasdulces para el funeral de su padre, Tywin Lannister sigue planeando sus movimientos como Mano del Rey. Brienne y Jaime no lo tendrán fácil para seguir su camino, Daenerys llega a un acuerdo sobre los Inmaculados.",
+      "image_url": "https://image.tmdb.org/t/p/w200/i39Itkd76DOXxek0blIO6rI6zsa.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2003.mkv"
+    },
+    {
+      "episode": 24,
+      "season": 3,
+      "title": "Y ahora su guardia ha terminado",
+      "description": "Con los nervios de punta y los estómagos vacíos, la Guardia de la Noche se pone a prueba con Craster. Mientras tanto, Margaery saca a Joffrey de su lugarcito cómodo y le da a Sansa un vistazo del futuro. Arya se encuentra con el líder de la Hermandad sin Estandartes. Varys trama venganza de un antiguo enemigo. Daenerys dispone su salida de Astapor con destreza.",
+      "image_url": "https://image.tmdb.org/t/p/w200/veYx7AoKhxC8Pz8EThNpoOxeSGX.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2004.mkv"
+    },
+    {
+      "episode": 25,
+      "season": 3,
+      "title": "Besado por el fuego",
+      "description": "El perro es juzgado por los dioses. Jaime es juzgado por los hombres. Jon se prueba asi mismo. Robb es traicionado. Tyrion aprende lo costoso que pueden ser los matrimonios.",
+      "image_url": "https://image.tmdb.org/t/p/w200/d2b1CWsWCKMt5IpNXKgJfE4fjxj.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2005.mkv"
+    },
+    {
+      "episode": 26,
+      "season": 3,
+      "title": "El ascenso",
+      "description": "Tywin planea uniones estrategicas para los Lannisters. Melisandre visita Riverlands. Roob evalua su compromiso para reparar su alianza con la casa Frey. Roose Bolton decide lo que hara con Jaime Lannister.",
+      "image_url": "https://image.tmdb.org/t/p/w200/eJQ5vnNrlM28fpInn6uGM0xUZRX.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2006.mkv"
+    },
+    {
+      "episode": 27,
+      "season": 3,
+      "title": "El oso y la doncella",
+      "description": "Dany intercambia regalos con un capataz en las afueras de Yunkai. Mientras,Sansa se preocupa por sus propectos, Shae se molesta con la nueva situacion de Tyrion.Tywin aconseja al rey, Melisandre revela un secreto a Gendry.",
+      "image_url": "https://image.tmdb.org/t/p/w200/2RVD5pIIiv7ZH0qnazwVrsPEFpP.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2007.mkv"
+    },
+    {
+      "episode": 28,
+      "season": 3,
+      "title": "Los Segundos Hijos",
+      "description": "Davos sigue encerrado en su celda de Rocadragón cuando Melisandre vuelve con Gendry dispuesta a llevar a cabo su misión en favor de Stannis. Mientras tanto, en Desembarco del Rey, Sansa y Tyrion se preparan para su inminente unión matrimonial en el Gran Septo de Baelor. Al otro lado del Mar Angosto, Daenerys se reúne con tres rudos mercenarios con la esperanza de encontrar más aliados para conquistar Yunkai. Más allá del Muro, Sam tendrá que vencer sus miedos si quiere proteger a Gilly y su hijo del cruel invierno y lo que éste trae consigo.",
+      "image_url": "https://image.tmdb.org/t/p/w200/x3sJ9URXLn9hb6WAqqNhVJQGPut.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2008.mkv"
+    },
+    {
+      "episode": 29,
+      "season": 3,
+      "title": "Las lluvias de Castamere",
+      "description": "Robb se presenta ante Walder Frey, Edmure conoce a su esposa. Jon se enfrenta a su prueba más dura. Bran descubre un nuevo don. Daario y Jorah se debaten el como tomar Yunkai. La casa Frey se une con la casa Tully.",
+      "image_url": "https://image.tmdb.org/t/p/w200/8Cvg7NkvDPckIwPKWcyS25YcoSh.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2009.mkv"
+    },
+    {
+      "episode": 30,
+      "season": 3,
+      "title": "Mhysa",
+      "description": "Joffrey desafia a su abuelo Tywin. Bran cuenta una historia de fantasmas. En Piedradragon, la misericordia proviene de barrios extraños. Dany espera para ver si ella es una conquistadora o un libertadora.",
+      "image_url": "https://image.tmdb.org/t/p/w200/wJbEFBLyogHR1GoxfDXNIoP4k1w.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2003%20e%2010.mkv"
+    },
+    {
+      "episode": 31,
+      "season": 4,
+      "title": "Dos espadas",
+      "description": "King's Landing se prepara para la boda real mientras que en Castle Back, la Guardia de la Noche enfrenta una nueva amenaza. Dany encuentra el camino en Mereen, la madre de todas las ciudades esclavistas. Arya se topa con una vieja amistad.",
+      "image_url": "https://image.tmdb.org/t/p/w200/gtGrhEOURApsKhbf6tm6leJJmmp.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2001.mkv"
+    },
+    {
+      "episode": 32,
+      "season": 4,
+      "title": "El león y la rosa",
+      "description": "Joffrey y Margaery ofrecen un desayuno en el castillo. En Dragonstone, Stannis pierde la paciencia con Davos. Ramsay le encuentra un propósito a su mascota. Al norte del Muro, Bran vislumbra a dónde debe dirigirse ahora.",
+      "image_url": "https://image.tmdb.org/t/p/w200/zOeaRpAKbrATuVe8Z5MtVJfair9.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2002.mkv"
+    },
+    {
+      "episode": 33,
+      "season": 4,
+      "title": "Rompedora de cadenas",
+      "description": "Tyrion considera sus opciones. Tywin forja una tregua. Sam se da cuenta que Castle Black está bajo amenza y a Jon se le ocurre un plan atrevido. The Hound le enseña a Arya cómo son las cosas. Daenerys escoge su campeón.",
+      "image_url": "https://image.tmdb.org/t/p/w200/pgwGxEDIv1XyB5TcJcJM7EMLWiX.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2003.mkv"
+    },
+    {
+      "episode": 34,
+      "season": 4,
+      "title": "Guardajuramentos",
+      "description": "Daenerys considera si debe imponerse con justicia o con clemencia. Jaime le confiere atribuciones a Brienne. Jon prepara a sus hombres mientras que Bran, Jojen, Meera y Hodor se encuentran con un refugio.",
+      "image_url": "https://image.tmdb.org/t/p/w200/9VolANvmLPcI5ynaCGHvwL1957h.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2004.mkv"
+    },
+    {
+      "episode": 35,
+      "season": 4,
+      "title": "El primero de su nombre",
+      "description": "Tommen Baratheon se sienta en el Trono de Hierro. Cersei y Tywin discuten el futuro de la alianza entre la casa Lannister y la Tyrell. Littlefinger y Sansa se reúnen con Lysa Arryn. Dany quiere probar que puede controlar las ciudades que ha liberado.",
+      "image_url": "https://image.tmdb.org/t/p/w200/bf0Z9votO2jqQLI0Y66TqfTjlyq.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2005.mkv"
+    },
+    {
+      "episode": 36,
+      "season": 4,
+      "title": "Leyes de dioses y hombres",
+      "description": "Stannis y Davos se embarcan hacia una nueva estrategia que los lleva a Braavos. Dany se reune con el pueblo de Meeren y atiende sus súplicas. Tyrion se enfrenta a su padre al ser juzgado sin piedad en la sala del Trono de Hierro. Yara Greyjoy trata de rescatar a su hermano Theon.",
+      "image_url": "https://image.tmdb.org/t/p/w200/vKt9b7HNYhwM91C7S53zPsAWfT3.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2006.mkv"
+    },
+    {
+      "episode": 37,
+      "season": 4,
+      "title": "Sinsonte",
+      "description": "Tyrion está de vuelta a su celda, pero ahora busca un aliado poco probable. Daario ofrece sus servicios a Dany, mientras que Jon trata en vano de advertir de la vulnerabilidad del Muro. Brienne sigue una nueva pista y Clegane tiene otra víctima.",
+      "image_url": "https://image.tmdb.org/t/p/w200/loEv49LmoG5SVHmf2BegG8nJGG0.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2007.mkv"
+    },
+    {
+      "episode": 38,
+      "season": 4,
+      "title": "La Montaña y la Víbora",
+      "description": "Un duelo define el futuro de Tyrion. mientras que visitantes inesperados llegan a una aldea al sur del Muro. Ramsay trata de justificar sus acciones ante su padre y recibe una sorpresa. Dany se ve forzada a tomar una dura decisión.",
+      "image_url": "https://image.tmdb.org/t/p/w200/cOcGpQmBvwuScHJjwQYlCreVl4x.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2008.mkv"
+    },
+    {
+      "episode": 39,
+      "season": 4,
+      "title": "Los vigilantes del Muro",
+      "description": "La Guardia de la Noche enfrenta su mayor desafío, y Jon Snow deberá dar la talla. Al sur los salvajes atacan Castle Black, mientras que al norte, Mance Rayder y su cuantioso ejército intentan traspasar el muro. Lord Snow tendrá una víctima que lamentar.",
+      "image_url": "https://image.tmdb.org/t/p/w200/vn4ECYuCaV43MEwpyjTdkXg7NPB.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2009.mkv"
+    },
+    {
+      "episode": 40,
+      "season": 4,
+      "title": "Los niños",
+      "description": "Final de temporada. Condenado a muerte, Tyrion Lannister está a punto de conocer su destino. Jon Snow se dirige a una nueva batalla. Dany debe enfrentarse a una dura realidad, mientras Bran y su grupo siguen luchando para completar su viaje.",
+      "image_url": "https://image.tmdb.org/t/p/w200/dEvyoz6NrUGH3nyphu43hAzT1VE.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2004%20e%2010.mkv"
+    },
+    {
+      "episode": 41,
+      "season": 5,
+      "title": "Las guerras venideras",
+      "description": "Cersei y Jamie tratan de adaptarse a un mundo sin Tywin. Varys le revela a Tyrion una conspiración. Dany enfrenta una nueva amenaza a su trono. Jon está atrapado entre dos reyes.",
+      "image_url": "https://image.tmdb.org/t/p/w200/shIFxmFySt9CtGXMTXWBipsNOIs.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2001.mkv"
+    },
+    {
+      "episode": 42,
+      "season": 5,
+      "title": "La Casa de Negro y Blanco",
+      "description": "Arya llega a Braavos. Pod y Brienne encuentran dificultades en el camino. Cersei teme por la seguridad de su hija en Dorne cuando Ellaria Arena busque vengar la muerte de Oberyn. Stannis trata de convencer a Jon y un consejero tienta a Dany.",
+      "image_url": "https://image.tmdb.org/t/p/w200/uCJpE0pfjn78uhr2TjvIrhyTcR8.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2002.mkv"
+    },
+    {
+      "episode": 43,
+      "season": 5,
+      "title": "Gorrión Supremo",
+      "description": "En Braavos, Arya ve al Dios de Muchos Rostros. En Desembarco del Rey, la Reina Margaery disfruta de su nuevo esposo. Tyrion y Varys caminan por el Puente Largo de Volantis.",
+      "image_url": "https://image.tmdb.org/t/p/w200/5b6eUi2w12ao24ug8cL5QqJFKig.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2003.mkv"
+    },
+    {
+      "episode": 44,
+      "season": 5,
+      "title": "Hijos de la arpía",
+      "description": "La nueva milicia de la Fe se vuelve cada vez más agresiva. Jaime y Bronn van hacia el sur de Westeros. Ellaria y las Serpientes de Arena hacen un voto de venganza.",
+      "image_url": "https://image.tmdb.org/t/p/w200/xJK24ELjz04a05saADPXkYafa21.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2004.mkv"
+    },
+    {
+      "episode": 45,
+      "season": 5,
+      "title": "Matad al chico",
+      "description": "Daenerys toma una difícil decisión en Meeren. Jon Snow consigue la ayuda de un aliado inesperado. Brienne sigue en la búsqueda de Sansa. Theon continúa bajo el control de Ramsay Bolton",
+      "image_url": "https://image.tmdb.org/t/p/w200/j7fXuI4mC94q7SKbOON5Fnp1Rau.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2005.mkv"
+    },
+    {
+      "episode": 46,
+      "season": 5,
+      "title": "Nunca doblegado, nunca roto",
+      "description": "Arya continúa con su entrenamiento. Jorah y Tyrion se encuentran con un grupo de esclavistas. Trystane y Myrcella hacen planes mientras Jaime y Bronn llegan a su destino. Las Serpientes de Arena se lanzan a un ataque.",
+      "image_url": "https://image.tmdb.org/t/p/w200/ihngOB9FfBZvmTy01D836QMFybe.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2006.mkv"
+    },
+    {
+      "episode": 47,
+      "season": 5,
+      "title": "El regalo",
+      "description": "Jon se prepara para un conflicto. Sansa intenta hablar con Theon. Brienne espera una señal. Stannis continúa con su terquedad. Jaime intenta reconectarse con su familia.",
+      "image_url": "https://image.tmdb.org/t/p/w200/n4BFZfiqOX1l5l6uYtpDS4m19WX.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2007.mkv"
+    },
+    {
+      "episode": 48,
+      "season": 5,
+      "title": "Casa Austera",
+      "description": "Arya avanza en su entrenamiento. Sansa confronta a un viejo amigo. Cersei sufre. Jon emprende un viaje.",
+      "image_url": "https://image.tmdb.org/t/p/w200/58PgfiE8eIOdQ1iDvFnJG471RFB.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2008.mkv"
+    },
+    {
+      "episode": 49,
+      "season": 5,
+      "title": "Danza de dragones",
+      "description": "Stannis debe tomar una difícil decisión. Jon regresa al Muro. Arya se topa con alguien de su pasado. Dany ve, no muy complacida, una muestra tradicional de atletismo.",
+      "image_url": "https://image.tmdb.org/t/p/w200/ymI7V3wsZRcRqLWgjJ59CTTGvh5.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2009.mkv"
+    },
+    {
+      "episode": 50,
+      "season": 5,
+      "title": "Misericordia",
+      "description": "En Desembarco del Rey, Cersei confiesa sus pecados y es liberada tras hacer una penitencia. En el Norte, cerca de Invernalia, Ramsey Bolton y su ejército masacran al diminuto ejército de Stannis. Mientras tanto, allí en Invernalia, Theon trata de escapar junto con Sansa. En el Muro, la Guardia de la Noche asesina a Jon Nieve por creerlo un traidor. En Meereen, Jorah y Daario emprenden una búsqueda para localizar a Daenerys, quien se encuentra en un valle donde es encontrada por un campamento Dothraki. En Dorne, Ellaria Arena envenena a Myrcella antes de partir con Jaime del lugar. En Braavos, Arya lleva a cabo el juego de las caras para una misión personal, lo que tendrá consecuencias.",
+      "image_url": "https://image.tmdb.org/t/p/w200/b5dIepsIO3robQSe18fWmsQe37R.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2005%20episodio%2010.mkv"
+    },
+    {
+      "episode": 51,
+      "season": 6,
+      "title": "La mujer roja",
+      "description": "Mientras el destino de Jon Nieve se decide en el Muro, Daenerys es llevada ante un nuevo Khal, Tyrion se adapta a la vida en Meereen, Sansa y Theon encuentran aliados inesperados. En Dorne surge una rebelión y a Desembarco del Rey llega Jaime con Myrcella.",
+      "image_url": "https://image.tmdb.org/t/p/w200/qEu20NFIbwxtyABtFvsyyPaCNDM.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2001.mkv"
+    },
+    {
+      "episode": 52,
+      "season": 6,
+      "title": "A casa",
+      "description": "En su huida de Invernalia y tras cruzarse en el camino de Brienne y Podrick Payne, hará que Theon decida que Sansa ya está a salvo y que ha llegado el momento de regresar a su hogar, en Pyke.",
+      "image_url": "https://image.tmdb.org/t/p/w200/9JlZ6sOXf4nodwWYvoM5zCJIGm9.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2002.mkv"
+    },
+    {
+      "episode": 53,
+      "season": 6,
+      "title": "Perjuro",
+      "description": "Daenerys se reúne con las viejas del nuevo Khalasar, mientras, en Meereen, Varys busca información sobre los Hijos de la Arpía. Arya entrena para no ser nadie. Ramsay recibe un inesperado regalo. Tommen habla con el Gorrión Supremo sobre su madre. Jon se intenta adaptar a su regreso.",
+      "image_url": "https://image.tmdb.org/t/p/w200/dNp7HBQbwKlgX76fwqM6SWUo5tU.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2003.mkv"
+    },
+    {
+      "episode": 54,
+      "season": 6,
+      "title": "Libro del Desconocido",
+      "description": "Mientras Tyrion llega un acuerdo en ausencia de Daenerys, Daario y Jorah le siguen la pista a la madre de dragones en el poblado dothraki. Jaime y Cersei mueven hilos con los Tyrell para mejorar su situación. Theon regresa a casa.",
+      "image_url": "https://image.tmdb.org/t/p/w200/dY2DbzgIjIatJJCVRgk1gKTJWez.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2004.mkv"
+    },
+    {
+      "episode": 55,
+      "season": 6,
+      "title": "El portón",
+      "description": "Tyrion busca un extraño aliado. Bran descubre un gran acuerdo. Brienne se dirige hacia una misión. Arya recibe una oportunidad de demostrar su valía.",
+      "image_url": "https://image.tmdb.org/t/p/w200/96u7HuryCkPEIN3JkZP336KTSq3.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2005.mkv"
+    },
+    {
+      "episode": 56,
+      "season": 6,
+      "title": "Sangre de mi sangre",
+      "description": "Un viejo enemigo regresa a escena. Elí conoce a la familia de Sam. Arya se enfrenta a una difícil elección. Jaime se enfrenta al Gorrión Supremo.",
+      "image_url": "https://image.tmdb.org/t/p/w200/k01MUth8Xm2y79nvsQ3UF25SN9w.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2006.mkv"
+    },
+    {
+      "episode": 57,
+      "season": 6,
+      "title": "El hombre destrozado",
+      "description": "Mientras el Gorrión Supremo orienta sus miras hacia otro objetivo, Jaime llega a Aguasdulces para negociar con Brynden Tully. En Braavos Arya urde un plan. El Norte por fin recuerda.",
+      "image_url": "https://image.tmdb.org/t/p/w200/ymjvIqw8GClvQpurBYMeyaYXTck.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2007.mkv"
+    },
+    {
+      "episode": 58,
+      "season": 6,
+      "title": "Nadie",
+      "description": "Mientras Jaime sopesa sus opciones, Cersei responde a un pedido. El plan de Tyrion rinde frutos. Arya enfrenta una nueva prueba.",
+      "image_url": "https://image.tmdb.org/t/p/w200/xl2l1a3kXGxWwZqGDgjowBk4x46.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2008.mkv"
+    },
+    {
+      "episode": 59,
+      "season": 6,
+      "title": "La batalla de los bastardos",
+      "description": "Daenerys decide el destino de Meereen con la ayuda de Tyrion, mientras Jon y Sansa se preparan para la batalla por recuperar el Norte.",
+      "image_url": "https://image.tmdb.org/t/p/w200/j2znyjFSe1ol26DeQWMB1yE5EDQ.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2009.mkv"
+    },
+    {
+      "episode": 60,
+      "season": 6,
+      "title": "Vientos de invierno",
+      "description": "Final de temporada. Cersei y Loras se preparan para el juicio definitivo en el septo de Baelor. Davos pide explicaciones a Melisandre. Sansa y Jon tratan de reagrupar a las casas del Norte. Antes de embarcar, Daenerys debe tomar una decisión difícil. Jaime ultima las negociaciones con los Frey.",
+      "image_url": "https://image.tmdb.org/t/p/w200/8qgIcKTOKeAHlJMjGyPHl3IHjcU.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2006%20episodio%2010.mkv"
+    },
+    {
+      "episode": 61,
+      "season": 7,
+      "title": "Rocadragón",
+      "description": "Jon Snow organiza la defensa del Norte. Cersei intenta equilibrar la balanza. Samwell descubre información crucial. Daenerys vuelve a casa.",
+      "image_url": "https://image.tmdb.org/t/p/w200/3SB4PUzZAnY6HnZbVbktIZoopGs.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2007%20episodio%2001.mkv"
+    },
+    {
+      "episode": 62,
+      "season": 7,
+      "title": "Bajo la tormenta",
+      "description": "Daenerys recibe una visita inesperada. Jon se enfrenta a una rebelión. Sam arriesga su carrera y su vida. Tyrion planea la conquista de Poniente.",
+      "image_url": "https://image.tmdb.org/t/p/w200/6ZLuB2YZeXTCEETnbPe5MNKCsio.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2007%20episodio%2002.mkv"
+    },
+    {
+      "episode": 63,
+      "season": 7,
+      "title": "La justicia de la reina",
+      "description": "Daenerys recibe a Jon Snow, pero ella se niega a reconocer la independencia del Norte y él no acepta inclinarse ante ella. Cersei se deleita vengándose de Ellaria y Jamie conquista el castillo de los Tyrell, pero Olenna le depara una última sorpresa.",
+      "image_url": "https://image.tmdb.org/t/p/w200/xSqdpR6qADmjsdlcJLX5LXRToQP.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2007%20episodio%2003.mkv"
+    },
+    {
+      "episode": 64,
+      "season": 7,
+      "title": "Botines de guerra",
+      "description": "Acompañados de los Tarly y lo que queda del ejército Lannister, Jaime y Bronn escoltan lo saqueado en Altojardín rumbo a Desembarco del Rey. En Rocadragón, Jon sigue intentando disuadir a Daenerys, quien recibe malas noticias. Invernalia recibe una visita inesperada.",
+      "image_url": "https://image.tmdb.org/t/p/w200/hH9gSHcisHqoux734Q2SdLPLmsL.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2007%20episodio%2004.mkv"
+    },
+    {
+      "episode": 65,
+      "season": 7,
+      "title": "Guardaoriente",
+      "description": "Tras la batalla, Cersei jura destruir a todo aquel que se ponga en su camino, mientras Daenerys demanda lealtad a los soldados Lannister que han sobrevivido: pueden unirse a ella o morir. De vuelta en Invernalia, Jon presta atención a una nueva visión de Bran.",
+      "image_url": "https://image.tmdb.org/t/p/w200/3iaJDPtj75z1YpLDMKR17JRXQdP.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2007%20episodio%2005.mkv"
+    },
+    {
+      "episode": 66,
+      "season": 7,
+      "title": "Más allá del Muro",
+      "description": "Al otro lado del Muro, en compañía de Beric, Thoros, Tormund, Gendry, el Perro y Jorah Mormont, Jon se abre paso a través del frío hacia un destino impredecible. En Invernalia, Arya desconfía de las intenciones de Sansa tras encontrar el pergamino. Daenerys sopesa sus decisiones junto a Tyrion en Rocadragón.",
+      "image_url": "https://image.tmdb.org/t/p/w200/jDMCK1E4iqH8ZJeZnv3ftpei0nm.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2007%20episodio%2006.mkv"
+    },
+    {
+      "episode": 67,
+      "season": 7,
+      "title": "El dragón y el lobo",
+      "description": "Jon Snow prepara las defensas en el norte. Cersei busca mejorar sus oportunidades. Samwell descubre información importante.",
+      "image_url": "https://image.tmdb.org/t/p/w200/w4N4xxFrfjUyk7wE5hgcoAy0tDc.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s%2007%20episodio%2007.mkv"
+    },
+    {
+      "episode": 68,
+      "season": 8,
+      "title": "Invernalia",
+      "description": "El Norte recibe con escepticismo la llegada de Jon y Daenerys a Invernalia. Cersei negocia con Euron la recompensa que éste ansiaba. Sam recibe una noticia inesperada sobre su familia.",
+      "image_url": "https://image.tmdb.org/t/p/w200/o65qwX1aHJclJ36VDhD3VYzz5em.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s_08_e_01.mkv"
+    },
+    {
+      "episode": 69,
+      "season": 8,
+      "title": "Caballero de los Siete Reinos",
+      "description": "Jaime trata de defender su honor ante los que fueron sus enemigos, mientras Invernalia se prepara para la que puede ser su última noche antes de la gran guerra. Daenerys intenta estrechar lazos con Sansa.",
+      "image_url": "https://image.tmdb.org/t/p/w200/vJ8H9WtzbJGfArfdycc4nagQVRU.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s_08_e_02.mkv"
+    },
+    {
+      "episode": 70,
+      "season": 8,
+      "title": "La Larga Noche",
+      "description": "Las defensas de Invernalia hacen frente al ejército de los muertos, liderado por el Rey de la Noche. La gran batalla ha empezado.",
+      "image_url": "https://image.tmdb.org/t/p/w200/mFtHbZenI5rRPqC5OFafoVmjEjq.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s_08_e_03.mkv"
+    },
+    {
+      "episode": 71,
+      "season": 8,
+      "title": "Los últimos Starks",
+      "description": "Invernalia se recupera tras la costosa victoria, no sin lamentar grandes pérdidas. Jon y Daenerys ponen su atención ahora en el sur, mientras Tyrion vislumbra una solución que podría salvar muchas vidas.",
+      "image_url": "https://image.tmdb.org/t/p/w200/9jgeANvHuZFVnTIkkKSU3PkGJZA.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s_08_e_04.mkv"
+    },
+    {
+      "episode": 72,
+      "season": 8,
+      "title": "Las campanas",
+      "description": "Las mermadas tropas de Jon y Daenerys plantan cara a Cersei a las puertas de Desembarco del Rey para la que podría ser la batalla final por el Trono de Hierro.",
+      "image_url": "https://image.tmdb.org/t/p/w200/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s_08_e_05.mkv"
+    },
+    {
+      "episode": 73,
+      "season": 8,
+      "title": "El Trono de Hierro",
+      "description": "Tras el devastador ataque a Desembarco del Rey, Daenerys debe enfrentarse a los supervivientes.",
+      "image_url": "https://image.tmdb.org/t/p/w200/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg",
+      "video_url": "http://series.tuxchannel.mx/series/juego%20de%20tronos/s_08_e_06.mkv"
+    }
+  ]
+},
+
+  {
   "title": "Vikingos",
   "original_title": "Vikings",
   "year": 2013,
