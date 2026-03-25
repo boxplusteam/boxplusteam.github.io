@@ -1,6 +1,192 @@
 [
 
-  
+  {
+  "title": "Vikingos",
+  "original_title": "Vikings",
+  "year": 2013,
+  "genre": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Histórico"
+  ],
+  "studio": "History",
+  "coverImage": "https://m.media-amazon.com/images/M/MV5BOTFmZmExYTEtYmE0Mi00MzRmLWE4ZDYtOThiNzNlOTIyODljXkEyXkFqcGc@._V1_.jpg",
+  "description": "La serie narra las sagas de la banda de hermanos vikingos de Ragnar Lothbrok y su familia, mientras él asciende para convertirse en el rey de las tribus vikingas, encarnando las tradiciones nórdicas de devoción a los dioses.",
+  "episodes": [
+    { "episode": 1, "title": "Vikingos T1 - Capítulo 1", "video_url": "http://archive.org/download/flor_20210110/1.mp4" },
+    { "episode": 2, "title": "Vikingos T1 - Capítulo 2", "video_url": "http://archive.org/download/flor_20210110/2.mp4" },
+    { "episode": 3, "title": "Vikingos T1 - Capítulo 3", "video_url": "http://archive.org/download/flor_20210110/3.mp4" },
+    { "episode": 4, "title": "Vikingos T1 - Capítulo 4", "video_url": "http://archive.org/download/flor_20210110/4.mp4" },
+    { "episode": 5, "title": "Vikingos T1 - Capítulo 5", "video_url": "http://archive.org/download/flor_20210110/5.mp4" },
+    { "episode": 6, "title": "Vikingos T1 - Capítulo 6", "video_url": "http://archive.org/download/flor_20210110/6.mp4" },
+    { "episode": 7, "title": "Vikingos T1 - Capítulo 7", "video_url": "http://archive.org/download/flor_20210110/7.mp4" },
+    { "episode": 8, "title": "Vikingos T1 - Capítulo 8", "video_url": "http://archive.org/download/flor_20210110/8.mp4" },
+    { "episode": 9, "title": "Vikingos T1 - Capítulo 9", "video_url": "http://archive.org/download/flor_20210110/9.mp4" },
+    { "episode": 10, "title": "Vikingos T2 - Capítulo 1", "video_url": "http://archive.org/download/flor_20210110/10.mp4" },
+    { "episode": 11, "title": "Vikingos T2 - Capítulo 2", "video_url": "http://archive.org/download/flor_20210110/11.mp4" },
+    { "episode": 12, "title": "Vikingos T2 - Capítulo 3", "video_url": "http://archive.org/download/flor_20210110/12.mp4" },
+    { "episode": 13, "title": "Vikingos T2 - Capítulo 4", "video_url": "http://archive.org/download/flor_20210110/13.mp4" },
+    { "episode": 14, "title": "Vikingos T2 - Capítulo 5", "video_url": "http://archive.org/download/flor_20210110/14.mp4" },
+    { "episode": 15, "title": "Vikingos T2 - Capítulo 6", "video_url": "http://archive.org/download/flor_20210110/15.mp4" },
+    { "episode": 16, "title": "Vikingos T2 - Capítulo 7", "video_url": "http://archive.org/download/flor_20210110/16.mp4" },
+    { "episode": 17, "title": "Vikingos T2 - Capítulo 8", "video_url": "http://archive.org/download/flor_20210110/17.mp4" },
+    { "episode": 18, "title": "Vikingos T2 - Capítulo 9", "video_url": "http://archive.org/download/flor_20210110/18.mp4" },
+    { "episode": 19, "title": "Vikingos T2 - Capítulo 10", "video_url": "http://archive.org/download/flor_20210110/19.mp4" },
+    { "episode": 20, "title": "Vikingos T3 - Capítulo 1", "video_url": "http://archive.org/download/flor_20210110/20.mp4" },
+    { "episode": 21, "title": "Vikingos T3 - Capítulo 2", "video_url": "http://archive.org/download/flor_20210110/21.mp4" },
+    { "episode": 22, "title": "Vikingos T3 - Capítulo 3", "video_url": "http://archive.org/download/flor_20210110/22.mp4" },
+    { "episode": 23, "title": "Vikingos T3 - Capítulo 4", "video_url": "http://archive.org/download/flor_20210110/23.mp4" },
+    { "episode": 24, "title": "Vikingos T3 - Capítulo 5", "video_url": "http://archive.org/download/flor_20210110/24.mp4" },
+    { "episode": 25, "title": "Vikingos T3 - Capítulo 6", "video_url": "http://archive.org/download/flor_20210110/25.mp4" },
+    { "episode": 26, "title": "Vikingos T3 - Capítulo 7", "video_url": "http://archive.org/download/flor_20210110/26.mp4" },
+    { "episode": 27, "title": "Vikingos T3 - Capítulo 8", "video_url": "http://archive.org/download/flor_20210110/27.mp4" },
+    { "episode": 28, "title": "Vikingos T3 - Capítulo 9", "video_url": "http://archive.org/download/flor_20210110/28.mp4" },
+    { "episode": 29, "title": "Vikingos T3 - Capítulo 10", "video_url": "http://archive.org/download/flor_20210110/29.mp4" },
+    { "episode": 30, "title": "Vikingos T4 - Capítulo 1", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/1.mp4" },
+    { "episode": 31, "title": "Vikingos T4 - Capítulo 2", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/2.mp4" },
+    { "episode": 32, "title": "Vikingos T4 - Capítulo 3", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/3.mp4" },
+    { "episode": 33, "title": "Vikingos T4 - Capítulo 4", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/4.mp4" },
+    { "episode": 34, "title": "Vikingos T4 - Capítulo 5", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/5.mp4" },
+    { "episode": 35, "title": "Vikingos T4 - Capítulo 6", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/6.mp4" },
+    { "episode": 36, "title": "Vikingos T4 - Capítulo 7", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/7.mp4" },
+    { "episode": 37, "title": "Vikingos T4 - Capítulo 8", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/8.mp4" },
+    { "episode": 38, "title": "Vikingos T4 - Capítulo 9", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/9.mp4" },
+    { "episode": 39, "title": "Vikingos T4 - Capítulo 10", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/10.mp4" },
+    { "episode": 40, "title": "Vikingos T4 - Capítulo 11", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/11.mp4" },
+    { "episode": 41, "title": "Vikingos T4 - Capítulo 12", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/12.mp4" },
+    { "episode": 42, "title": "Vikingos T4 - Capítulo 13", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/13.mp4" },
+    { "episode": 43, "title": "Vikingos T4 - Capítulo 14", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/14.mp4" },
+    { "episode": 44, "title": "Vikingos T4 - Capítulo 15", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/15.mp4" },
+    { "episode": 45, "title": "Vikingos T4 - Capítulo 16", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/16.mp4" },
+    { "episode": 46, "title": "Vikingos T4 - Capítulo 17", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/17.mp4" },
+    { "episode": 47, "title": "Vikingos T4 - Capítulo 18", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/18.mp4" },
+    { "episode": 48, "title": "Vikingos T4 - Capítulo 19", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/19.mp4" },
+    { "episode": 49, "title": "Vikingos T4 - Capítulo 20", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/20.mp4" },
+    { "episode": 50, "title": "Vikingos T5 - Capítulo 1", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/21.mp4" },
+    { "episode": 51, "title": "Vikingos T5 - Capítulo 2", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/22.mp4" },
+    { "episode": 52, "title": "Vikingos T5 - Capítulo 3", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/23.mp4" },
+    { "episode": 53, "title": "Vikingos T5 - Capítulo 4", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/24.mp4" },
+    { "episode": 54, "title": "Vikingos T5 - Capítulo 5", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/25.mp4" },
+    { "episode": 55, "title": "Vikingos T5 - Capítulo 6", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/26.mp4" },
+    { "episode": 56, "title": "Vikingos T5 - Capítulo 7", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/27.mp4" },
+    { "episode": 57, "title": "Vikingos T5 - Capítulo 8", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/28.mp4" },
+    { "episode": 58, "title": "Vikingos T5 - Capítulo 9", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/29.mp4" },
+    { "episode": 59, "title": "Vikingos T5 - Capítulo 10", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/30.mp4" },
+    { "episode": 60, "title": "Vikingos T5 - Capítulo 11", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/31.mp4" },
+    { "episode": 61, "title": "Vikingos T5 - Capítulo 12", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/32.mp4" },
+    { "episode": 62, "title": "Vikingos T5 - Capítulo 13", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/33.mp4" },
+    { "episode": 63, "title": "Vikingos T5 - Capítulo 14", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/34.mp4" },
+    { "episode": 64, "title": "Vikingos T5 - Capítulo 15", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/35.mp4" },
+    { "episode": 65, "title": "Vikingos T5 - Capítulo 16", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/36.mp4" },
+    { "episode": 66, "title": "Vikingos T5 - Capítulo 17", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/37.mp4" },
+    { "episode": 67, "title": "Vikingos T5 - Capítulo 18", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/38.mp4" },
+    { "episode": 68, "title": "Vikingos T5 - Capítulo 19", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/39.mp4" },
+    { "episode": 69, "title": "Vikingos T5 - Capítulo 20", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/40.mp4" },
+    { "episode": 70, "title": "Vikingos T6 - Capítulo 1", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/41.mp4" },
+    { "episode": 71, "title": "Vikingos T6 - Capítulo 2", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/42.mp4" },
+    { "episode": 72, "title": "Vikingos T6 - Capítulo 3", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/43.mp4" },
+    { "episode": 73, "title": "Vikingos T6 - Capítulo 4", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/44.mp4" },
+    { "episode": 74, "title": "Vikingos T6 - Capítulo 5", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/45.mp4" },
+    { "episode": 75, "title": "Vikingos T6 - Capítulo 6", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/46.mp4" },
+    { "episode": 76, "title": "Vikingos T6 - Capítulo 7", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/47.mp4" },
+    { "episode": 77, "title": "Vikingos T6 - Capítulo 8", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/48.mp4" },
+    { "episode": 78, "title": "Vikingos T6 - Capítulo 9", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/49.mp4" },
+    { "episode": 79, "title": "Vikingos T6 - Capítulo 10", "video_url": "http://archive.org/download/72090360-mitad-jugosa-de-citricos-maduros-mandarina-sin-cascara/50.mp4" }
+  ]
+},
+
+
+  {
+  "title": "No Game No Life",
+  "original_title": "No Game No Life",
+  "year": 2014,
+  "genre": [
+    "Animación",
+    "Aventura",
+    "Comedia",
+    "Fantasía",
+    "Ecchi"
+  ],
+  "studio": "Madhouse",
+  "coverImage": "https://www.selecta-vision.com/wp-content/uploads/2024/07/no-game-no-life-4.png",
+  "description": "Sora y Shiro son dos hermanos NEETs que son conocidos en el mundo de los videojuegos como los legendarios e invictos 'Espacios en Blanco'. Tras ser convocados por el dios Tet a un mundo llamado Disboard, donde todo se resuelve mediante juegos, los hermanos se embarcan en una misión para redimir a la raza humana y desafiar al propio dios.",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "Principiante",
+      "description": "Sora y Shiro, dos genios de los videojuegos, son transportados a un mundo paralelo donde la violencia está prohibida y todo se decide por medio de juegos.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_01.mp4"
+    },
+    {
+      "episode": 2,
+      "title": "Estratega",
+      "description": "Los hermanos llegan a la capital de los humanos, Elkia, y descubren que la humanidad está en su punto más bajo. Deciden ayudar a Steph en un torneo para elegir al próximo rey.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_02.mp4"
+    },
+    {
+      "episode": 3,
+      "title": "Experto",
+      "description": "Sora y Shiro desafían a Kurami Zell en una partida de ajedrez muy peculiar donde las piezas tienen voluntad propia, jugándose el trono de Elkia.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_03.mp4"
+    },
+    {
+      "episode": 4,
+      "title": "Gran Maestro",
+      "description": "Tras ganar el juego, Sora y Shiro son coronados reyes de Elkia y declaran sus intenciones de unir a todas las razas de Disboard.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_04.mp4"
+    },
+    {
+      "episode": 5,
+      "title": "Débil",
+      "description": "Los hermanos investigan las bibliotecas de Elkia y se preparan para su próximo desafío, mientras aprenden más sobre las otras razas del mundo.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_05.mp4"
+    },
+    {
+      "episode": 6,
+      "title": "Interesante",
+      "description": "Sora y Shiro desafían a Jibril, una Flügel con inmenso conocimiento, a un juego de encadenamiento de palabras materializadas.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_06.mp4"
+    },
+    {
+      "episode": 7,
+      "title": "Sacrificio",
+      "description": "El plan para desafiar a las Bestias Guerreras comienza a tomar forma, pero primero deben lidiar con las sospechas internas y la falta de recursos de la humanidad.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_07.mp4"
+    },
+    {
+      "episode": 8,
+      "title": "Cariño Fingido",
+      "description": "Sora desaparece misteriosamente y la memoria de Shiro sobre él empieza a flaquear. Ella debe confiar en sus habilidades para recuperarlo.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_08.mp4"
+    },
+    {
+      "episode": 9,
+      "title": "Caminante del Cielo",
+      "description": "Shiro logra ganar el juego contra Kurami, recuperando a Sora y ganando nuevos aliados para la causa de Elkia.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_09.mp4"
+    },
+    {
+      "episode": 10,
+      "title": "Acompañante",
+      "description": "Los preparativos para el juego contra las Bestias Guerreras terminan. El grupo viaja a la embajada de la Federación de Oriente para el desafío final.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_10.mp4"
+    },
+    {
+      "episode": 11,
+      "title": "Asistente",
+      "description": "El gran juego comienza dentro de una realidad virtual de disparos. Sora, Shiro, Jibril y Steph deben enfrentarse a Izuna Hatsuse en su propio terreno.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_11.mp4"
+    },
+    {
+      "episode": 12,
+      "title": "Regla Número 10",
+      "description": "La batalla final llega a su clímax. Los hermanos deben usar todo su ingenio para derrotar la habilidad especial de Izuna y asegurar el futuro de la humanidad.",
+      "video_url": "https://archive.org/download/043013t1/043013T1_12.mp4"
+    }
+  ]
+},
+
 
   {
   "title": "The Boys",
