@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYV0nreR-Cl8LO8r2mQ0QmImvAMjmeYmgaiFVgNCVJ-7L-dJWoLjs6h8&s=10" group-title="Evento" , SPORT
-http://77.137.40.221:8000/play/a01c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Evento" , 
+http://200.115.120.1:8000/play/ca124/index.m3u8
 
 
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
