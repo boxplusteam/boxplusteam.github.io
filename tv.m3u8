@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.lavdg.com/sc/Js5nyPvTqrAZ8a62MiLvVakZDRA=/480x/2023/07/03/00121688410746863246752/Foto/imaga.jpg" group-title="Evento" , 
-http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHV62obe1KxSpu4FoeeTa8CcY0wRH5LE7oY0sXdUlfy5uOlQocbN904ag&s=10" group-title="Evento" , 
+http://88.99.165.164:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
 
 
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
