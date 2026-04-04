@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.rtve.es/n/16647989?w=1600" group-title="Evento" , LA LIGA
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch29.playlist.m3u8
+
 
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
 #EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260324T034822SQUARE.png" group-title="Entretenimiento" , Canal Sur Andalucía
