@@ -1,5 +1,11 @@
- #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Evento" , DSPORT
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/e/cabecera/86d7f93743394113e363ffa92bf33660.webp" group-title="Evento" , La Liga Hypermotion 
+https://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 
 
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
