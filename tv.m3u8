@@ -1,4 +1,12 @@
 
+#EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2023/08/23/fox-sports-premium-exclusivas-deporte.jpg" group-title="Evento" , FOX SPORT PREMIUM 
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch42.playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlw3Kx98gumOJC9ntnRLMv2cLS4ib8312KluGlBc54Ti1c8ZxLeE-EJ94&s=10" group-title="Evento" , TNT SPORT
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch26.playlist.m3u8
+
+
 
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
 #EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260324T034822SQUARE.png" group-title="Entretenimiento" , Canal Sur Andalucía
