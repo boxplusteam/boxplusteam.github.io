@@ -4,8 +4,12 @@
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sPVnEflYrRQ/maxresdefault.jpg" group-title="Evento" , ESPN +
+http://189.50.210.3:8008/play/a04l/index.m3u8
+
+
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
-#EXTINF:-1 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260324T034822SQUARE.png" group-title="Entretenimiento" , Canal Sur Andalucía
+#EXTINF:-http://189.50.210.3:8008/play/a04l/index.m3u81 tvg-id="ESBD3000002GP" tvg-name="ESBD3000002GP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20260324T034822SQUARE.png" group-title="Entretenimiento" , Canal Sur Andalucía
 https://jmp2.uk/stvp-ESBD3000002GP
 #EXTINF:-1 tvg-id="ES26000068D" tvg-name="ES26000068D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png" group-title="Entretenimiento" , Estilo y Vida – Rakuten TV
 https://jmp2.uk/stvp-ES26000068D
