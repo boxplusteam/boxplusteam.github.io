@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="mlgc" tvg-name="M+ La liga de campeones" tvg-logo="https://i.ytimg.com/vi/sJ9UhtBj46c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBahzJZwpzFniNABgNg3Kr7drg8Sw" group-title="Deporte",M+ La liga de campeones
 https://distributor-cut-interface-liable.trycloudflare.com/mlgc/index.m3u8
 
+#EXTINF:-1 tvg-id="df1" tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEgPmqhKEhMoYgrZRkDh0F0MG_qiT3xngUg&s" group-title="Deporte",DAZN F1
+https://distributor-cut-interface-liable.trycloudflare.com/df1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2025/06/laliga_uhd.jpg" group-title="Evento" , M+ La liga 
 https://extend-rochester-mouse-battery.trycloudflare.com/mla/index.m3u8
