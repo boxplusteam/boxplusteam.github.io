@@ -4,6 +4,8 @@
 https://spare-drainage-pollution-investigations.trycloudflare.com/mlgc/index.m3u8
 #EXTINF:-1 tvg-id="df1" tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEgPmqhKEhMoYgrZRkDh0F0MG_qiT3xngUg&s" group-title="Deporte",DAZN F1
 https://spare-drainage-pollution-investigations.trycloudflare.com/df1/index.m3u8
+#EXTINF:-1 tvg-id="mla" tvg-name="M+ La liga" tvg-logo="https://assets.laliga.com/assets/2023/07/03/medium/7576f38f25dd599cfc62edd851778f80.jpeg" group-title="Deporte",M+ La liga
+https://spare-drainage-pollution-investigations.trycloudflare.com/mla/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
