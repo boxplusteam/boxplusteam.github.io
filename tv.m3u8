@@ -7,6 +7,8 @@ https://distributor-cut-interface-liable.trycloudflare.com/mlgc/index.m3u8
 #EXTINF:-1 tvg-id="df1" tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpEgPmqhKEhMoYgrZRkDh0F0MG_qiT3xngUg&s" group-title="Deporte",DAZN F1
 https://distributor-cut-interface-liable.trycloudflare.com/df1/index.m3u8
 
+#EXTINF:-1 tvg-id="dz1" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xhMy1C_scaG0UAeWZLRvMv2HpVF1xA39XA&s" group-title="Deporte",DAZN 1
+https://distributor-cut-interface-liable.trycloudflare.com/dz1/index.m3u8
 
 
 
