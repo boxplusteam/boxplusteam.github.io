@@ -2,10 +2,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgzE1xA5o_VON9hg-i-pxuZeT20RqtI6v23RDnofzVw&s=10" group-title="Evento" , DAZN LALIGA
 https://tower-mineral-everything-shown.trycloudflare.com/hls/dzla/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Evento" , Movistar plus 
-https://tower-mineral-everything-shown.trycloudflare.com/hls/mtg/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png" group-title="Evento" , DAZN 1
 https://tower-mineral-everything-shown.trycloudflare.com/hls/dz1/index.m3u8
 
@@ -15,8 +11,8 @@ https://tower-mineral-everything-shown.trycloudflare.com/hls/dzf1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.aptoide.com/imgs/7/1/3/713687b5b0bdb87b673ef7c70aa6b478_fgraphic.png" group-title="Evento" , M+ LaLiga
 https://tower-mineral-everything-shown.trycloudflare.com/hls/mla/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_PulQAbOES0xhzPv9195CRAdNEf4fGN8-5LXZqNfIA&s=10" group-title="Evento" , M+ La liga de Campeones 
-https://tower-mineral-everything-shown.trycloudflare.com/hls/mlgc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_PulQAbOES0xhzPv9195CRAdNEf4fGN8-5LXZqNfIA&s=10" group-title="Evento" , M+ La Liga de Campeones 
+https://tower-mineral-everything-shown.trycloudflare.com/hls/mtg/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
 http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
