@@ -1,7 +1,26 @@
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14-PBTib03LXr2g-qQLcEHG1n7aXaXOkUFqK9O6BtrQ&s" group-title="Evento" , Arsenal VS Bournemouth - 13:30
+https://tower-mineral-everything-shown.trycloudflare.com/hls/dz1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.elespanol.com/2025/04/23/actualidad/1003743726813_255008865_1024x576.jpg" group-title="Evento" , Real Sociedad VS Deportivo Alavés - 14:00
+https://tower-mineral-everything-shown.trycloudflare.com/hls/mla/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxLEo17vMBC-74gTqyb2HaNAiyfl-b0aTzpAZhPdWeQ&s" group-title="Evento" , RB Leipzig VS Borussia M'gladbach - 15:30
+https://tower-mineral-everything-shown.trycloudflare.com/hls/mtg/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr33ikqGgRjPvUOwVjYIhkBq8zaJQkO3wwmHQQvHEbiFTpTYbMOTdstM4&s=10" group-title="Evento" , Elche CF VS Valencia CF - 16:15
+https://tower-mineral-everything-shown.trycloudflare.com/hls/mla/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a7n8crnf0zcef3nf6gxj3q9jx_image-header_pRow_1728470073000&quality=70" group-title="Evento" , FC Barcelona VS RCD Espanyol - 18:30
-https://tower-mineral-everything-shown.trycloudflare.com/hls/dzla/index.m3u8
+https://tower-mineral-everything-shown.trycloudflare.com/hls/mla/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_S4ButqNBW1drtOrc-KETLtCou8G95Zy9heBSOVOV72VqhT_a3qu99KE&s=10" group-title="Evento" , Sevilla FC VS Atlético de Madrid - 21:00
+https://tower-mineral-everything-shown.trycloudflare.com/hls/mla/index.m3u8
+
+
 
 
 
