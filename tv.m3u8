@@ -1,13 +1,16 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.zerozero.pt%2Fimg%2Fnoticias%2F107%2FimgS620I1091107T20260409173519.jpg" group-title="Evento" , Liverpool VS Fulham - 18:30
-https://tower-mineral-everything-shown.trycloudflare.com/hls/dz1/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a7n8crnf0zcef3nf6gxj3q9jx_image-header_pRow_1728470073000&quality=70" group-title="Evento" , FC Barcelona VS RCD Espanyol - 18:30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=cmxmuk55rroniqgkkc1fb9rud_image-header_pEs_1774349083000&quality=70" group-title="Evento" , Osasuna VS Real Betis - 14:00
 https://tower-mineral-everything-shown.trycloudflare.com/hls/dzla/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_S4ButqNBW1drtOrc-KETLtCou8G95Zy9heBSOVOV72VqhT_a3qu99KE&s=10" group-title="Evento" , Sevilla FC VS Atlético de Madrid - 21:00
-https://tower-mineral-everything-shown.trycloudflare.com/hls/mla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.zerozero.pt%2Fimg%2Fnoticias%2F657%2FimgS620I1091657T20260410151544.jpg" group-title="Evento" , R.C.D. Mallorca VS Rayo Vallecano - 16:15
+https://tower-mineral-everything-shown.trycloudflare.com/hls/dzla/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://killerasturias.com/sites/default/files/2025-12/Copia%20de%20Horario%20y%20d%C3%B3nde%20ver%20%28casa%29_0.png" group-title="Evento" , Celta de Vigo VS Real Oviedo - 18:30
+https://tower-mineral-everything-shown.trycloudflare.com/hls/dzla/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYk7NQ3ddR8SmXtNtqt6GSP_j2QEp0ndjAChAqVVi0l70bSw0b_EoqBXS&s=10" group-title="Evento" , Athletic VS Villarreal - 21:00
+https://tower-mineral-everything-shown.trycloudflare.com/hls/dzla/index.m3u8
 
 
 
