@@ -30,6 +30,8 @@ https://tower-mineral-everything-shown.trycloudflare.com/hls/mlgc/index.m3u8
 https://tower-mineral-everything-shown.trycloudflare.com/hls/mlp/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://framerusercontent.com/images/rX6mXfLFYevODCuadF2lNS6x5Hw.png" Deporte" , RFEF
+https://tower-mineral-everything-shown.trycloudflare.com/hls/rfe/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
