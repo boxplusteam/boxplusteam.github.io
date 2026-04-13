@@ -26,12 +26,13 @@ https://tower-mineral-everything-shown.trycloudflare.com/hls/mla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_PulQAbOES0xhzPv9195CRAdNEf4fGN8-5LXZqNfIA&s=10" group-title="Deporte" , M+ Liga de Campeones 
 https://tower-mineral-everything-shown.trycloudflare.com/hls/mlgc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/jQx_lwMDEVSkver8EaEAZpKKrzB9b8bcHn3fQCkEj7M-erWadQTobZa9GwI4oeiVdQ" group-title="Entretenimiento" , Movistar Plus
-https://tower-mineral-everything-shown.trycloudflare.com/hls/mlp/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://framerusercontent.com/images/rX6mXfLFYevODCuadF2lNS6x5Hw.png" group-title="Deporte" , RFEF
 https://tower-mineral-everything-shown.trycloudflare.com/hls/rfe/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/jQx_lwMDEVSkver8EaEAZpKKrzB9b8bcHn3fQCkEj7M-erWadQTobZa9GwI4oeiVdQ" group-title="Entretenimiento" , Movistar Plus
+https://tower-mineral-everything-shown.trycloudflare.com/hls/mlp/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
