@@ -5,6 +5,14 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sPVnEflYrRQ/maxresdefault.jpg" group-title="Evento" , ESPN +
+http://189.50.210.3:8008/play/a04l/index.m3u8
+
+
 
 
 
@@ -26,14 +34,6 @@ https://subscription-jump-spatial-believe.trycloudflare.com/hls/mla/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_PulQAbOES0xhzPv9195CRAdNEf4fGN8-5LXZqNfIA&s=10" group-title="Deporte" , M+ Liga de Campeones 
 https://subscription-jump-spatial-believe.trycloudflare.com/hls/mlgc/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://espnpressroom.com/us/files/2009/11/ESPN_Deportes_CLR_Neg.jpg" group-title="Evento" , ESPN DEPORTES
-http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/sPVnEflYrRQ/maxresdefault.jpg" group-title="Evento" , ESPN +
-http://189.50.210.3:8008/play/a04l/index.m3u8
 
 
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz"
