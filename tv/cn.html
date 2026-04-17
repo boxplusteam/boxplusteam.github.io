@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>TV EN VIVO</title>
+    <style>
+        :root { --accent: #00a8e1; }
+        body { background: #000; color: #fff; font-family: sans-serif; margin: 0; overflow: hidden; }
+        
+        /* --- ESTILO DEL SCROLLBAR --- */
+        /* Tamaño de la barra */
+        .list-side::-webkit-scrollbar {
+            width: 8px;
+        }
+        /* Fondo de la barra */
+        .list-side::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.02);
+        }
+        /* Color de la manija (el cosito que sube y baja) */
+        .list-side::-webkit-scrollbar-thumb {
+            background: #222;
+            border-radius: 10px;
+        }
+        /* Color de la manija al pasar el mouse o enfocar */
+        .list-side::-webkit-scrollbar-thumb:hover {
+            background: var(--accent);
+        }
+
+        /* Imagen de fondo dinámica */
+        .bg-preview { 
+            position: fixed; top: 0; right: 0; width: 70%; height: 100%; 
+            background-size: cover; background-position: center; z-index: -1;
+            mask-image: linear-gradient(to left, rgba(0,0,0,1) 60%, transparent);
+            -webkit-mask-image: linear-gradient(to left, rgba(0,0,0,1) 60%, transparent);
+            opacity: 0.5; transition: 0.5s; 
+        }
+
+        .content { display: flex; height: 100vh; background: linear-gradient(to right, #0f171e 40%, transparent); }
+        
+        .list-side { 
+            width: 40%; 
+            padding: 40px; 
+            overflow-y: auto; 
+            scrollbar-width: thin; /* Para Firefox */
+            scrollbar-color: #222 transparent; /* Para Firefox */
+        }
+        
+        .row { 
+            padding: 18px; margin-bottom: 8px; border-radius: 4px; 
+            background: rgba(255,255,255,0.05); border: 2px solid transparent;
+            transition: 0.1s; cursor: pointer; display: flex; justify-content: space-between; align-items: center;
+        }
+        .row:focus { background: #fff; color: #000; outline: none; transform: scale(1.05); font-weight: bold; }
+        
+        .badge { font-size: 0.7rem; padding: 2px 6px; border: 1px solid #444; border-radius: 3px; text-transform: uppercase; }
+        .row:focus .badge { border-color: #000; }
+
+        #p-name { color: var(--accent); font-size: 2rem; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <div class="bg-preview" id="bg"></div>
+    <div class="content">
+        <div class="list-side" id="list-side">
+            <h2 id="p-name">Cargando Canales...</h2>
+            <div id="l"></div>
+        </div>
+    </div>
+
+    <script>
+        async function load() {
+            try {
+                const r = await fetch("https://raw.githubusercontent.com/boxplusteam/boxplusteam.github.io/refs/heads/main/tv.m3u8");
+                const t = await r.text();
+                const lines = t.split('\n');
+                const frag = document.createDocumentFragment();
+                
+                for(let i=0; i<lines.length; i++) {
+                    if(lines[i].includes('#EXTINF')) {
+                        const name = lines[i].split(',')[1]?.trim() || "Canal";
+                        const logo = lines[i].match(/tvg-logo="([^"]+)"/)?.[1] || "";
+                        const url = lines[i+1]?.trim();
+
+                        if (!url || url.startsWith('#')) continue;
+
+                        const d = document.createElement('div');
+                        d.className = 'row'; 
+                        d.tabIndex = 0; 
+                        d.innerHTML = `<span>${name}</span><span class="badge">TV</span>`;
+                        
+                        d.onfocus = () => {
+                            document.getElementById('bg').style.backgroundImage = `url(${logo})`;
+                            document.getElementById('p-name').innerText = name;
+                            // Centrar automáticamente el elemento enfocado para navegación con control
+                            d.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        };
+                        
+                        d.onclick = () => {
+                            location.href = 'player.html?url=' + encodeURIComponent(url) + '&title=' + encodeURIComponent(name);
+                        };
+
+                        d.onkeydown = (e) => {
+                            if(e.key === 'Enter') d.click();
+                            if(e.key === 'Backspace') location.href = 'index.html';
+                        };
+                        frag.appendChild(d);
+                    }
+                }
+                document.getElementById('l').appendChild(frag);
+                document.querySelector('.row')?.focus();
+            } catch (e) {
+                document.getElementById('p-name').innerText = "Error de conexión";
+            }
+        }
+        load();
+    </script>
+</body>
+</html>

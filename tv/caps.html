@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Episodios - Primebox</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+
+        :root { --accent: #00a8e1; }
+
+        body { 
+            background: #000; 
+            color: #fff; 
+            font-family: 'Inter', sans-serif; 
+            overflow: hidden; 
+            margin: 0; 
+        }
+
+        /* Fondo dinámico con desenfoque cinematográfico */
+        .hero-bg { 
+            position: fixed; 
+            width: 100%; 
+            height: 100%; 
+            background-size: cover; 
+            background-position: center; 
+            opacity: 0.4; 
+            filter: blur(60px); 
+            z-index: -1; 
+            transform: scale(1.1);
+        }
+
+        .container { 
+            height: 100vh; 
+            display: flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            padding-left: 6%; 
+            background: linear-gradient(to right, rgba(0,0,0,0.8) 20%, transparent);
+        }
+        
+        #serie-t { 
+            font-size: 3.5rem; 
+            font-weight: 900;
+            margin: 0 0 10px 0; 
+            text-shadow: 0 4px 20px rgba(0,0,0,0.5);
+        }
+
+        .serie-info {
+            color: var(--accent);
+            font-size: 1.2rem;
+            margin-bottom: 40px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .window { 
+            width: 100%; 
+            position: relative; 
+            height: 250px; 
+            overflow: visible; 
+        }
+
+        .strip { 
+            display: flex; 
+            gap: 30px; 
+            transition: transform 0.5s cubic-bezier(0.2, 0, 0.2, 1); 
+            position: absolute;
+            padding: 20px 0;
+        }
+        
+        /* Tarjetas de episodios */
+        .ep-card { 
+            flex: 0 0 320px; 
+            height: 180px; 
+            background: rgba(255,255,255,0.1); 
+            border-radius: 12px;
+            border: 4px solid transparent; 
+            opacity: 0.5; 
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .ep-card:focus { 
+            border-color: #fff; 
+            transform: scale(1.15); 
+            opacity: 1; 
+            outline: none; 
+            box-shadow: 0 15px 40px rgba(0,0,0,0.7);
+            background: #1a242f;
+        }
+        
+        .info { 
+            padding: 20px; 
+            position: absolute; 
+            bottom: 0; 
+            width: 100%; 
+            background: linear-gradient(transparent, rgba(0,0,0,0.9)); 
+            box-sizing: border-box;
+        }
+
+        .ep-num { 
+            font-size: 3rem; 
+            font-weight: 900; 
+            color: var(--accent); 
+            line-height: 0.8;
+            margin-bottom: 5px;
+        }
+
+        .ep-title { 
+            font-size: 1.1rem; 
+            font-weight: 700;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        /* Indicador de navegación */
+        .hint {
+            position: fixed;
+            bottom: 40px;
+            left: 6%;
+            color: rgba(255,255,255,0.4);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="hero-bg" id="bg"></div>
+
+    <div class="container">
+        <h1 id="serie-t"></h1>
+        <div class="serie-info">Selecciona un episodio</div>
+
+        <div class="window">
+            <div class="strip" id="strip"></div>
+        </div>
+    </div>
+
+    <div class="hint">Usa las flechas del control para navegar • ENTER para reproducir • BACK para volver</div>
+
+<script>
+    const data = JSON.parse(localStorage.getItem("serie"));
+    if(!data) location.href="index.html";
+    
+    document.getElementById('serie-t').innerText = data.title;
+    document.getElementById('bg').style.backgroundImage = `url(${data.coverImage || data.img})`;
+    
+    const strip = document.getElementById('strip');
+
+    data.episodes.forEach((ep, i) => {
+        const c = document.createElement('div');
+        c.className = 'ep-card'; 
+        c.tabIndex = 0;
+        
+        c.innerHTML = `
+            <div class="info">
+                <div class="ep-num">${i + 1}</div>
+                <div class="ep-title">${ep.title || 'Episodio ' + (i + 1)}</div>
+            </div>
+        `;
+        
+        // Al enfocar, mover el strip para centrar el episodio
+        c.onfocus = () => {
+            // Calculamos el desplazamiento (ancho tarjeta 320 + gap 30 = 350)
+            strip.style.transform = `translateX(${-i * 350}px)`;
+        };
+        
+        c.onclick = () => {
+            // 1. Guardar en el historial de "Continuar viendo"
+            let h = JSON.parse(localStorage.getItem('pbox_h') || '[]');
+            h = h.filter(x => x.n !== data.title);
+            h.unshift({ 
+                n: data.title, 
+                u: ep.video_url, 
+                isSerie: true,
+                lastEp: i + 1 
+            });
+            localStorage.setItem('pbox_h', JSON.stringify(h.slice(0, 10)));
+
+            // 2. Ir al reproductor profesional
+            const fullTitle = `${data.title} - E${i+1}`;
+            location.href = `player.html?url=${encodeURIComponent(ep.video_url)}&title=${encodeURIComponent(fullTitle)}`;
+        };
+
+        c.onkeydown = (e) => {
+            if(e.key === 'ArrowRight') strip.children[i + 1]?.focus();
+            if(e.key === 'ArrowLeft') {
+                if(i === 0) location.href = "sr.html";
+                else strip.children[i - 1]?.focus();
+            }
+            if(e.key === 'Enter') c.click();
+            if(e.key === 'Backspace' || e.key === 'Escape') location.href = "sr.html";
+        };
+
+        strip.appendChild(c);
+    });
+
+    // Iniciar el foco en el primer episodio
+    setTimeout(() => {
+        if(strip.children[0]) strip.children[0].focus();
+    }, 200);
+</script>
+
+</body>
+</html>

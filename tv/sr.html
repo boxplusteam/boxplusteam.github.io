@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Catálogo - Primebox</title>
+    <style>
+        :root { --accent: #00a8e1; }
+        body { background: #000; color: #fff; font-family: sans-serif; margin: 0; overflow: hidden; }
+        .bg-preview { position: fixed; top: 0; right: 0; width: 70%; height: 100%; background-size: cover; background-position: center; z-index: -1; opacity: 0.5; transition: 0.5s; mask-image: linear-gradient(to left, black, transparent); }
+        .content { display: flex; height: 100vh; background: linear-gradient(to right, #0f171e 40%, transparent); }
+        .list-side { width: 40%; padding: 40px; overflow-y: auto; }
+        .row { padding: 18px; margin-bottom: 8px; border-radius: 4px; background: rgba(255,255,255,0.05); border: 2px solid transparent; display: flex; justify-content: space-between; cursor: pointer; }
+        .row:focus { background: #fff; color: #000; outline: none; transform: scale(1.05); font-weight: bold; }
+        .badge { font-size: 0.7rem; padding: 2px 6px; border: 1px solid #444; border-radius: 3px; }
+        .row:focus .badge { border-color: #000; }
+    </style>
+</head>
+<body>
+    <div class="bg-preview" id="bg"></div>
+    <div class="content">
+        <div class="list-side">
+            <h2 id="p-name" style="color: var(--accent); font-size: 2rem; margin-bottom: 30px;">Cargando...</h2>
+            <div id="l"></div>
+        </div>
+    </div>
+    <script>
+        async function load() {
+            const r = await fetch("https://raw.githubusercontent.com/R3D-GHOST/json/refs/heads/main/data.json");
+            let items = await r.json();
+            
+            const params = new URLSearchParams(window.location.search);
+            const query = params.get('search');
+            
+            if(query) {
+                items = items.filter(i => i.title.toLowerCase().includes(query.toLowerCase()));
+                document.getElementById('p-name').innerText = "Resultados: " + query;
+            } else {
+                document.getElementById('p-name').innerText = "Catálogo";
+            }
+            render(items);
+        }
+
+        function render(data) {
+            const l = document.getElementById('l');
+            l.innerHTML = data.length ? "" : "<p>No se encontró nada</p>";
+            data.forEach((item, i) => {
+                const d = document.createElement('div');
+                d.className = 'row'; d.tabIndex = i + 1;
+                d.innerHTML = `<span>${item.title}</span><span class="badge">${item.episodes?'SERIE':'PELI'}</span>`;
+                d.onfocus = () => {
+                    document.getElementById('bg').style.backgroundImage = `url(${item.coverImage || item.img})`;
+                    document.getElementById('p-name').innerText = item.title;
+                    d.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                };
+                d.onclick = () => {
+                    if(item.episodes) {
+                        localStorage.setItem("serie", JSON.stringify(item));
+                        location.href = 'caps.html';
+                    } else {
+                        location.href = `player.html?url=${encodeURIComponent(item.video_url)}&title=${encodeURIComponent(item.title)}`;
+                    }
+                };
+                d.onkeydown = (e) => {
+                    if(e.key === 'Enter') d.click();
+                    if(e.key === 'Backspace') location.href = 'index.html';
+                };
+                l.appendChild(d);
+            });
+            l.firstChild?.focus();
+        }
+        load();
+    </script>
+</body>
+</html>

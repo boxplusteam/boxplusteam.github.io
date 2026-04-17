@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRIMEBOX LITE</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
+        :root { --accent: #00a8e1; --bg: #050a0e; }
+        body { 
+            background: var(--bg); color: #fff; font-family: 'Inter', sans-serif; 
+            margin: 0; overflow: hidden; display: flex; align-items: center; 
+            justify-content: center; height: 100vh;
+            background: radial-gradient(circle at center, #0f1c2e 0%, #050a0e 100%);
+        }
+        .container { text-align: center; width: 100%; }
+        h1 { font-weight: 800; font-size: 3.5rem; letter-spacing: -2px; margin-bottom: 20px; }
+        h1 span { color: var(--accent); }
+        
+        .search-container { margin-bottom: 50px; }
+        #search-input {
+            width: 500px; padding: 20px; background: rgba(255, 255, 255, 0.05);
+            border: 3px solid transparent; border-radius: 50px; color: #fff;
+            font-size: 1.2rem; text-align: center; outline: none; transition: 0.3s;
+        }
+        #search-input:focus { border-color: var(--accent); width: 600px; background: rgba(255, 255, 255, 0.1); }
+
+        .nav-menu { display: flex; gap: 40px; justify-content: center; }
+        .nav-btn { 
+            width: 300px; padding: 35px 0; background: rgba(255,255,255,0.03); 
+            border-radius: 15px; font-weight: 600; font-size: 1.3rem;
+            border: 4px solid transparent; transition: 0.3s; cursor: pointer; color: #aaa;
+        }
+        .nav-btn:focus { border-color: #fff; transform: scale(1.1); background: #fff; color: #000; outline: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PRIMEBOX <span>LITE</span></h1>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Buscar películas o series..." tabindex="1">
+        </div>
+        <div class="nav-menu">
+            <div class="nav-btn" tabindex="2" onclick="location.href='cn.html'">TV EN VIVO</div>
+            <div class="nav-btn" tabindex="3" onclick="location.href='sr.html'">CATÁLOGO</div>
+        </div>
+    </div>
+    <script>
+        const searchInput = document.getElementById('search-input');
+        window.onload = () => searchInput.focus();
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                if (document.activeElement === searchInput && searchInput.value.trim() !== "") {
+                    location.href = 'sr.html?search=' + encodeURIComponent(searchInput.value.trim());
+                } else {
+                    document.activeElement.click();
+                }
+            }
+            if (e.key === 'ArrowDown' && document.activeElement === searchInput) {
+                document.querySelector('.nav-btn').focus();
+            }
+            if (e.key === 'ArrowUp' && document.activeElement.classList.contains('nav-btn')) {
+                searchInput.focus();
+            }
+        });
+    </script>
+</body>
+</html>

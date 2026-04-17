@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor Primebox</title>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <style>
+        body { margin: 0; background: #000; overflow: hidden; color: #fff; font-family: 'Segoe UI', sans-serif; }
+        #video-container { position: absolute; width: 100vw; height: 100vh; }
+        video { width: 100%; height: 100%; background: #000; }
+
+        /* Interfaz OSD */
+        #osd { position: absolute; bottom: 0; left: 0; width: 100%; padding: 60px 40px 40px 40px; background: linear-gradient(transparent, rgba(0,0,0,0.9)); box-sizing: border-box; transition: opacity 0.5s ease; opacity: 1; z-index: 10; }
+        #title { font-size: 2rem; font-weight: bold; margin-bottom: 10px; color: #00a8e1; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); }
+        .progress-container { width: 100%; height: 8px; background: rgba(255, 255, 255, 0.2); border-radius: 4px; margin-top: 15px; }
+        .progress-bar { height: 100%; background: #00a8e1; border-radius: 4px; width: 0%; transition: width 0.1s linear; }
+        .time-info { display: flex; justify-content: space-between; margin-top: 10px; font-size: 1rem; color: #ccc; }
+
+        /* Cuadro de Reanudar (Dialog) */
+        #resume-dialog {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.9); display: none; flex-direction: column;
+            align-items: center; justify-content: center; z-index: 100;
+        }
+        .dialog-btns { display: flex; gap: 20px; margin-top: 30px; }
+        .btn { 
+            padding: 15px 30px; border-radius: 8px; font-size: 1.2rem; font-weight: bold; 
+            cursor: pointer; border: 3px solid transparent; transition: 0.2s; background: #1a242f;
+        }
+        .btn:focus { border-color: #fff; background: #00a8e1; color: #000; outline: none; transform: scale(1.1); }
+
+        #status-icon { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 5rem; opacity: 0; transition: opacity 0.2s; }
+        .loader { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border: 5px solid rgba(255,255,255,0.1); border-top: 5px solid #00a8e1; border-radius: 50%; width: 50px; height: 50px; animation: spin 1s linear infinite; display: none; }
+        @keyframes spin { 0% { transform: translate(-50%, -50%) rotate(0deg); } 100% { transform: translate(-50%, -50%) rotate(360deg); } }
+    </style>
+</head>
+<body>
+
+    <div id="resume-dialog">
+        <h2 id="resume-text" style="font-size: 2.5rem;">¿Deseas continuar por donde te quedaste?</h2>
+        <div class="dialog-btns">
+            <div class="btn" tabindex="1" id="btn-resume">CONTINUAR</div>
+            <div class="btn" tabindex="2" id="btn-restart">EMPEZAR DE NUEVO</div>
+        </div>
+    </div>
+
+    <div id="video-container">
+        <video id="video"></video>
+        <div id="loader" class="loader"></div>
+        <div id="status-icon">▶</div>
+        <div id="osd">
+            <div id="title">Cargando...</div>
+            <div class="progress-container"><div class="progress-bar" id="p-bar"></div></div>
+            <div class="time-info"><span id="time-current">00:00</span><span id="time-total">--:--</span></div>
+        </div>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const videoSrc = urlParams.get('url');
+        const videoTitle = urlParams.get('title') || 'Reproduciendo';
+        const videoId = btoa(videoTitle); // Crear ID único basado en el título
+
+        const video = document.getElementById('video');
+        const pBar = document.getElementById('p-bar');
+        const resumeDialog = document.getElementById('resume-dialog');
+        document.getElementById('title').innerText = videoTitle;
+
+        // --- 1. LÓGICA DE GUARDADO Y REANUDACIÓN ---
+        const savedTime = localStorage.getItem('pos_' + videoId);
+
+        function initPlayer(startTime = 0) {
+            if (Hls.isSupported() && videoSrc.includes('.m3u8')) {
+                const hls = new Hls();
+                hls.loadSource(videoSrc);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    if(startTime > 0) video.currentTime = startTime;
+                    video.play();
+                });
+            } else {
+                video.src = videoSrc;
+                video.addEventListener('loadedmetadata', () => {
+                    if(startTime > 0) video.currentTime = startTime;
+                    video.play();
+                });
+            }
+            resumeDialog.style.display = 'none';
+        }
+
+        if (savedTime && parseFloat(savedTime) > 10) {
+            resumeDialog.style.display = 'flex';
+            document.getElementById('btn-resume').focus();
+            document.getElementById('btn-resume').onclick = () => initPlayer(parseFloat(savedTime));
+            document.getElementById('btn-restart').onclick = () => {
+                localStorage.removeItem('pos_' + videoId);
+                initPlayer(0);
+            };
+        } else {
+            initPlayer(0);
+        }
+
+        // --- 2. GUARDAR PROGRESO CADA SEGUNDO ---
+        video.addEventListener('timeupdate', () => {
+            if (video.duration > 0 && !video.paused) {
+                localStorage.setItem('pos_' + videoId, video.currentTime);
+                
+                // Actualizar barra
+                const pct = (video.currentTime / video.duration) * 100;
+                pBar.style.width = pct + '%';
+                document.getElementById('time-current').innerText = formatTime(video.currentTime);
+                document.getElementById('time-total').innerText = formatTime(video.duration);
+
+                // --- 3. AUTOPLAY AL SIGUIENTE (5 Segundos antes) ---
+                if (video.duration - video.currentTime < 5) {
+                    checkNextEpisode();
+                }
+            }
+        });
+
+        function checkNextEpisode() {
+            const currentSerie = JSON.parse(localStorage.getItem('serie'));
+            if (currentSerie && currentSerie.episodes) {
+                // Buscar el índice del episodio actual por URL
+                const currentIndex = currentSerie.episodes.findIndex(ep => ep.video_url === videoSrc);
+                if (currentIndex !== -1 && currentIndex < currentSerie.episodes.length - 1) {
+                    const nextEp = currentSerie.episodes[currentIndex + 1];
+                    const nextTitle = `${currentSerie.title} - E${currentIndex + 2}`;
+                    // Limpiar progreso del actual antes de saltar
+                    localStorage.removeItem('pos_' + videoId);
+                    // Redirigir al siguiente
+                    location.href = `player.html?url=${encodeURIComponent(nextEp.video_url)}&title=${encodeURIComponent(nextTitle)}`;
+                }
+            }
+        }
+
+        // Formatear tiempo
+        function formatTime(s) {
+            const d = new Date(s * 1000);
+            return s >= 3600 ? d.toISOString().substr(11, 8) : d.toISOString().substr(14, 5);
+        }
+
+        // Controles de teclado
+        document.addEventListener('keydown', (e) => {
+            if (resumeDialog.style.display === 'flex') return; // Bloquear si está el menú
+            
+            switch(e.key) {
+                case 'ArrowRight': video.currentTime += 15; break;
+                case 'ArrowLeft': video.currentTime -= 15; break;
+                case 'Enter': video.paused ? video.play() : video.pause(); break;
+                case 'Backspace': window.history.back(); break;
+            }
+        });
+
+        video.addEventListener('waiting', () => document.getElementById('loader').style.display = 'block');
+        video.addEventListener('playing', () => document.getElementById('loader').style.display = 'none');
+    </script>
+</body>
+</html>
