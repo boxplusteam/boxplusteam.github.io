@@ -415,166 +415,147 @@ https://jmp2.uk/stvp-ESBC2700008SK
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U
-#EXTINF:-1 tvg-id="Actualidad360.es" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/featuredImage.jpg",Actualidad 360
-https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
-#EXTINF:-1 tvg-id="AguilaRoja.es" tvg-logo="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/featuredImage.jpg",Águila Roja
-https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
-#EXTINF:-1 tvg-id="AlSalirDeClase.es" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/featuredImage.jpg",Al salir de clase
-https://jmp2.uk/plu-65b91e530d9ab40008340d8d.m3u8
-#EXTINF:-1 tvg-id="AlertaCobra.es" tvg-logo="https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/featuredImage.jpg",Alerta Cobra
-https://jmp2.uk/plu-664c76d68ea5560008c6c7a4.m3u8
-#EXTINF:-1 tvg-id="AliceNevers.es" tvg-logo="https://images.pluto.tv/channels/66d71f8ee5de930008016f83/featuredImage.jpg",Alice Nevers
-https://jmp2.uk/plu-66d71f8ee5de930008016f83.m3u8
-#EXTINF:-1 tvg-id="ANTM.es" tvg-logo="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/featuredImage.jpg",America's Next Top Model
-https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
-#EXTINF:-1 tvg-id="AnaYLos7.es" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/featuredImage.jpg",Ana y los 7
-https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
-#EXTINF:-1 tvg-id="ArchivosForenses.es" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/featuredImage.jpg",Archivos Forenses
-https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:-1 tvg-id="Avatar.es" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/featuredImage.jpg",Avatar
+
+# --- CATEGORÍA: NIÑOS Y ANIME ---
+#EXTINF:-1 tvg-id="Avatar.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/featuredImage.jpg",Avatar
 https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
-#EXTINF:-1 tvg-id="BarbieFriends.es" tvg-logo="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage.jpg",Barbie & Friends
-https://jmp2.uk/plu-688892172928933015abe479.m3u8
-#EXTINF:-1 tvg-id="BBCSeries.es" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/featuredImage.jpg",BBC Series
-https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
-#EXTINF:-1 tvg-id="BobEsponja.es" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg",Bob Esponja
-https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-#EXTINF:-1 tvg-id="CallTheMidwife.es" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/featuredImage.jpg",Call the Midwife
-https://jmp2.uk/plu-65dded6966eec80008947157.m3u8
-#EXTINF:-1 tvg-id="CazadorHomicidas.es" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/featuredImage.jpg",Cazador de Homicidas
-https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
-#EXTINF:-1 tvg-id="Cazasubastas.es" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/featuredImage.jpg",Cazasubastas
-https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
-#EXTINF:-1 tvg-id="CBSNews.es" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/featuredImage.jpg",CBS News 24/7
-https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
-#EXTINF:-1 tvg-id="Cheers.es" tvg-logo="https://images.pluto.tv/channels/68f103545c876cf7307b4e37/featuredImage.jpg",Cheers
-https://jmp2.uk/plu-68f103545c876cf7307b4e37.m3u8
-#EXTINF:-1 tvg-id="Cherif.es" tvg-logo="https://images.pluto.tv/channels/66d71c656b63480008cf0427/featuredImage.jpg",Cherif
-https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8
-#EXTINF:-1 tvg-id="CiudadanosMundo.es" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/featuredImage.jpg",Ciudadanos por el mundo
-https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
-#EXTINF:-1 tvg-id="ComediaBestia.es" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/featuredImage.jpg",Comedia a lo bestia
-https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
-#EXTINF:-1 tvg-id="COPS.es" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/featuredImage.jpg",COPS
-https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
-#EXTINF:-1 tvg-id="DetectiveConan.es" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/featuredImage.jpg",Detective Conan
-https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
-#EXTINF:-1 tvg-id="DragonBall.es" tvg-logo="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/featuredImage.jpg",Dragon Ball
-https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
-#EXTINF:-1 tvg-id="DragonBallZ.es" tvg-logo="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/featuredImage.jpg",Dragon Ball Z
-https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
-#EXTINF:-1 tvg-id="ElComisario.es" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/featuredImage.jpg",El Comisario
-https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
-#EXTINF:-1 tvg-id="ElMueble.es" tvg-logo="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/featuredImage.jpg",El Mueble
-https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-#EXTINF:-1 tvg-id="Embrujadas.es" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/featuredImage.jpg",Embrujadas
-https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
-#EXTINF:-1 tvg-id="EraseUnaVez.es" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg",Érase una vez...
-https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
-#EXTINF:-1 tvg-id="Heidi.es" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/featuredImage.jpg",Heidi
-https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
-#EXTINF:-1 tvg-id="iCarly.es" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg",iCarly
-https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
-#EXTINF:-1 tvg-id="InazumaEleven.es" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/featuredImage.jpg",Inazuma Eleven
-https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 tvg-id="CaballerosZodiaco.es" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/featuredImage.jpg",Los caballeros del Zodiaco
-https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
-#EXTINF:-1 tvg-id="LosPitufos.es" tvg-logo="https://images.pluto.tv/channels/68d27949793c71d988ca624c/featuredImage.jpg",Los Pitufos
-https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
-#EXTINF:-1 tvg-id="OnePiece.es" tvg-logo="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/featuredImage.jpg",One Piece
-https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-id="PlutoAnime.es" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/featuredImage.jpg",Pluto TV Anime
-https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-#EXTINF:-1 tvg-id="SouthPark.es" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/featuredImage.jpg",South Park
-https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
-#EXTINF:-1 tvg-id="UFC.es" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg",UFC
-https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
-#EXTINF:-1 tvg-id="WinxClub.es" tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/featuredImage.jpg",Winx Club
-https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="AcapulcoShore.mx" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/featuredImage.jpg",Acapulco Shore Pluto TV
-https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-#EXTINF:-1 tvg-id="ADNNoticias.mx" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/featuredImage.jpg",ADN Noticias (720p)
-https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaPura.mx" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/featuredImage.jpg",Adrenalina Pura TV (720p)
-https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 tvg-id="AlRitmoJaripeo.mx" tvg-logo="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage.jpg",Al Ritmo del Jaripeo (720p)
-https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
-#EXTINF:-1 tvg-id="Andromeda.mx" tvg-logo="https://images.pluto.tv/channels/67e598e28b99330f75b4c629/featuredImage.jpg",Andromeda
-https://jmp2.uk/plu-67e598e28b99330f75b4c629.m3u8
-#EXTINF:-1 tvg-id="ArchivosExtraterrestres.mx" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/featuredImage.jpg",Archivos Extraterrestres
-https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
-#EXTINF:-1 tvg-id="ArchivosForenses.mx" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/featuredImage.jpg",Archivos Forenses
-https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
-#EXTINF:-1 tvg-id="AvatarAang.mx" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/featuredImage.jpg",Avatar: La Leyenda de Aang
+#EXTINF:-1 tvg-id="AvatarAang.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/featuredImage.jpg",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1 tvg-id="AztecaDeportes.mx" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/featuredImage.jpg",Azteca Deportes Network (720p)
-https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/featuredImage.jpg",Azteca Internacional (720p)
-https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/featuredImage.jpg",Azteca UNO -1 hora (720p)
-https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-#EXTINF:-1 tvg-id="BobEsponja.mx" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/featuredImage.jpg",Bob Esponja Pantalones Cuadrados (720p)
+#EXTINF:-1 tvg-id="BarbieFriends.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/688892172928933015abe479/featuredImage.jpg",Barbie & Friends
+https://jmp2.uk/plu-688892172928933015abe479.m3u8
+#EXTINF:-1 tvg-id="BobEsponja.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/featuredImage.jpg",Bob Esponja
+https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-id="BobEsponja.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/featuredImage.jpg",Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 tvg-id="Boruto.mx" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/featuredImage.jpg",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-id="Boruto.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/featuredImage.jpg",Boruto: Naruto Next Generations
 https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
-#EXTINF:-1 tvg-id="C4Alerta.mx" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/featuredImage.jpg",C4 en Alerta (720p)
-https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-#EXTINF:-1 tvg-id="Canal6CDMX.mx" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/featuredImage.jpg",Canal 6 CdMX (720p)
-https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
-#EXTINF:-1 tvg-id="CaptainTsubasa.mx" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/featuredImage.jpg",Captain Tsubasa
+#EXTINF:-1 tvg-id="CaptainTsubasa.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/featuredImage.jpg",Captain Tsubasa
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/featuredImage.jpg",Claro Sports Mexico
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/featuredImage.jpg",Comedy Central Pluto TV
-https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
-#EXTINF:-1 tvg-id="CSI_Miami.mx" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/featuredImage.jpg",CSI: Miami
-https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
-#EXTINF:-1 tvg-id="Daria.mx" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/featuredImage.jpg",Daria
-https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 tvg-id="DeathNote.mx" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/featuredImage.jpg",Death Note
-https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
-#EXTINF:-1 tvg-id="HellsKitchen.mx" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/featuredImage.jpg",Hells Kitchen
-https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8
-#EXTINF:-1 tvg-id="HeyArnold.mx" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/featuredImage.jpg",Hey Arnold!
+#EXTINF:-1 tvg-id="DetectiveConan.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/featuredImage.jpg",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-id="DragonBall.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/featuredImage.jpg",Dragon Ball
+https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
+#EXTINF:-1 tvg-id="DragonBallZ.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/featuredImage.jpg",Dragon Ball Z
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
+#EXTINF:-1 tvg-id="EraseUnaVez.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/featuredImage.jpg",Érase una vez...
+https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
+#EXTINF:-1 tvg-id="Heidi.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/68779a09c691b3f0964127c6/featuredImage.jpg",Heidi
+https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
+#EXTINF:-1 tvg-id="HeyArnold.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/featuredImage.jpg",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 tvg-id="HunterXHunter.mx" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/featuredImage.jpg",Hunter x Hunter
+#EXTINF:-1 tvg-id="HunterXHunter.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/featuredImage.jpg",Hunter x Hunter
 https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
-#EXTINF:-1 tvg-id="Inuyasha.mx" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/featuredImage.jpg",Inuyasha
+#EXTINF:-1 tvg-id="iCarly.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg",iCarly
+https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
+#EXTINF:-1 tvg-id="InazumaEleven.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/featuredImage.jpg",Inazuma Eleven
+https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+#EXTINF:-1 tvg-id="Inuyasha.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/66b26665d512590008c507b7/featuredImage.jpg",Inuyasha
 https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
-#EXTINF:-1 tvg-id="JoJosBizarre.mx" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/featuredImage.jpg",JoJo’s Bizarre Adventure
+#EXTINF:-1 tvg-id="JoJosBizarre.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/66c790f780a0af0008583aa4/featuredImage.jpg",JoJo’s Bizarre Adventure
 https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
-#EXTINF:-1 tvg-id="LosPadrinosMagicos.mx" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage.jpg",Los Padrinos Mágicos
+#EXTINF:-1 tvg-id="CaballerosZodiaco.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/featuredImage.jpg",Los caballeros del Zodiaco
+https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
+#EXTINF:-1 tvg-id="LosPadrinosMagicos.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage.jpg",Los Padrinos Mágicos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-#EXTINF:-1 tvg-id="MasterChef.mx" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg",MasterChef
-https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/featuredImage.jpg",Milenio Televisión (720p)
-https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
-#EXTINF:-1 tvg-id="Naruto.mx" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/featuredImage.jpg",Naruto
+#EXTINF:-1 tvg-id="LosPitufos.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/68d27949793c71d988ca624c/featuredImage.jpg",Los Pitufos
+https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
+#EXTINF:-1 tvg-id="Naruto.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/featuredImage.jpg",Naruto
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-#EXTINF:-1 tvg-id="NarutoShippuden.mx" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/featuredImage.jpg",Naruto Shippuden
+#EXTINF:-1 tvg-id="NarutoShippuden.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/featuredImage.jpg",Naruto Shippuden
 https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
-#EXTINF:-1 tvg-id="OnePiece.mx" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/featuredImage.jpg",One Piece
+#EXTINF:-1 tvg-id="OnePiece.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/featuredImage.jpg",One Piece
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+#EXTINF:-1 tvg-id="OnePiece.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/featuredImage.jpg",One Piece Latam
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
-#EXTINF:-1 tvg-id="Pokemon.mx" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/featuredImage.jpg",Pokémon
+#EXTINF:-1 tvg-id="PlutoAnime.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/featuredImage.jpg",Pluto TV Anime
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+#EXTINF:-1 tvg-id="Pokemon.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/featuredImage.jpg",Pokémon
 https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-#EXTINF:-1 tvg-id="SouthParkCartman.mx" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/featuredImage.jpg",South Park: Colección Cartman
-https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
-#EXTINF:-1 tvg-id="WalkingDeadAMC.mx" tvg-logo="https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/featuredImage.jpg",The Walking Dead by AMC
-https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
-#EXTINF:-1 tvg-id="YuGiOh.mx" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/featuredImage.jpg",Yu-Gi-Oh
+#EXTINF:-1 tvg-id="WinxClub.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/featuredImage.jpg",Winx Club
+https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.mx" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/featuredImage.jpg",Yu-Gi-Oh
 https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
+
+# --- CATEGORÍA: SERIES ---
+#EXTINF:-1 tvg-id="AguilaRoja.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/featuredImage.jpg",Águila Roja
+https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
+#EXTINF:-1 tvg-id="AlSalirDeClase.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/featuredImage.jpg",Al salir de clase
+https://jmp2.uk/plu-65b91e530d9ab40008340d8d.m3u8
+#EXTINF:-1 tvg-id="AlertaCobra.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/featuredImage.jpg",Alerta Cobra
+https://jmp2.uk/plu-664c76d68ea5560008c6c7a4.m3u8
+#EXTINF:-1 tvg-id="AliceNevers.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/66d71f8ee5de930008016f83/featuredImage.jpg",Alice Nevers
+https://jmp2.uk/plu-66d71f8ee5de930008016f83.m3u8
+#EXTINF:-1 tvg-id="AnaYLos7.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/featuredImage.jpg",Ana y los 7
+https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+#EXTINF:-1 tvg-id="Andromeda.mx" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/67e598e28b99330f75b4c629/featuredImage.jpg",Andromeda
+https://jmp2.uk/plu-67e598e28b99330f75b4c629.m3u8
+#EXTINF:-1 tvg-id="BBCSeries.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/featuredImage.jpg",BBC Series
+https://jmp2.uk/plu-60dafb9a0df1ba000758d37b.m3u8
+#EXTINF:-1 tvg-id="CallTheMidwife.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/65dded6966eec80008947157/featuredImage.jpg",Call the Midwife
+https://jmp2.uk/plu-65dded6966eec80008947157.m3u8
+#EXTINF:-1 tvg-id="Cheers.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/68f103545c876cf7307b4e37/featuredImage.jpg",Cheers
+https://jmp2.uk/plu-68f103545c876cf7307b4e37.m3u8
+#EXTINF:-1 tvg-id="Cherif.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/66d71c656b63480008cf0427/featuredImage.jpg",Cherif
+https://jmp2.uk/plu-66d71c656b63480008cf0427.m3u8
+#EXTINF:-1 tvg-id="CSI_Miami.mx" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/featuredImage.jpg",CSI: Miami
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:-1 tvg-id="ElComisario.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/featuredImage.jpg",El Comisario
+https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
+#EXTINF:-1 tvg-id="Embrujadas.es" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/featuredImage.jpg",Embrujadas
+https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
+#EXTINF:-1 tvg-id="WalkingDeadAMC.mx" group-title="SERIES" tvg-logo="https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/featuredImage.jpg",The Walking Dead by AMC
+https://jmp2.uk/plu-678aa0b3680721c77c5035dd.m3u8
+
+# --- CATEGORÍA: ENTRETENIMIENTO ---
+#EXTINF:-1 tvg-id="AcapulcoShore.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/featuredImage.jpg",Acapulco Shore
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:-1 tvg-id="Actualidad360.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/67517fae5534bb0008187997/featuredImage.jpg",Actualidad 360
+https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
+#EXTINF:-1 tvg-id="ADNNoticias.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/featuredImage.jpg",ADN Noticias
+https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPura.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/featuredImage.jpg",Adrenalina Pura TV
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="AlRitmoJaripeo.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/featuredImage.jpg",Al Ritmo del Jaripeo
+https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
+#EXTINF:-1 tvg-id="ANTM.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/featuredImage.jpg",America's Next Top Model
+https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
+#EXTINF:-1 tvg-id="ArchivosExtraterrestres.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/featuredImage.jpg",Archivos Extraterrestres
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
+#EXTINF:-1 tvg-id="ArchivosForenses.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/featuredImage.jpg",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportes.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/featuredImage.jpg",Azteca Deportes Network
+https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/featuredImage.jpg",Azteca UNO
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
+#EXTINF:-1 tvg-id="C4Alerta.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/featuredImage.jpg",C4 en Alerta
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:-1 tvg-id="Canal6CDMX.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/featuredImage.jpg",Canal 6 CdMX
+https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
+#EXTINF:-1 tvg-id="Cazasubastas.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/featuredImage.jpg",Cazasubastas
+https://jmp2.uk/plu-6335a6b6e6f7a600076e589e.m3u8
+#EXTINF:-1 tvg-id="CBSNews.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/featuredImage.jpg",CBS News 24/7
+https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/featuredImage.jpg",Claro Sports Mexico
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/featuredImage.jpg",Comedy Central
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 tvg-id="COPS.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/featuredImage.jpg",COPS
+https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
+#EXTINF:-1 tvg-id="Daria.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/featuredImage.jpg",Daria
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:-1 tvg-id="DeathNote.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/featuredImage.jpg",Death Note
+https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+#EXTINF:-1 tvg-id="HellsKitchen.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/featuredImage.jpg",Hells Kitchen
+https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8
+#EXTINF:-1 tvg-id="MasterChef.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg",MasterChef
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+#EXTINF:-1 tvg-id="SouthPark.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/featuredImage.jpg",South Park
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartman.mx" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/featuredImage.jpg",South Park: Colección Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-id="UFC.es" group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg",UFC
+https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
+
+
+
