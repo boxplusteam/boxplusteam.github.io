@@ -443,7 +443,7 @@ https://jmp2.uk/plu-68779a09c691b3f0964127c6.m3u8
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 #EXTINF:-1 tvg-id="HunterXHunter.mx" group-title="Niños" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/featuredImage.jpg",Hunter x Hunter
 https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
-#EXTINF:-1 tvg-id="iCarly.es" group-title="NIÑOS Y ANIME" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg",iCarly
+#EXTINF:-1 tvg-id="iCarly.es" group-title="Niños" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/featuredImage.jpg",iCarly
 https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8
 #EXTINF:-1 tvg-id="InazumaEleven.es" group-title="Niños" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/featuredImage.jpg",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
@@ -553,6 +553,14 @@ https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
 #EXTINF:-1 tvg-id="UFC.es" group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/67921b873de7c8cf94233f52/featuredImage.jpg",UFC
 https://jmp2.uk/plu-67921b873de7c8cf94233f52.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.teleadhesivo.com/es/img/orp101-jpg/folder/products-listado-merchant/pegatinas-coches-motos-brazzers.jpg" group-title="Entretenimiento" , Brazzers 
+https://produce-enrolled-thomson-alice.trycloudflare.com/bra/index.m3u8
+
+
 
 
 
