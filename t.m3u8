@@ -4,23 +4,387 @@
 https://bg622.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="canal_1" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="Deporte" , M+ DEPORTES FHD --> NEW ERA II
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_2" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , #VAMOS FHD --> NEW ERA II
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_3" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , #VAMOS ELLAS  FHD --> NEW ERA II
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_4" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 FHD --> NEW ERA II
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_5" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" group-title="Deporte" , LaLiga TV BAR FHD --> NEW ERA II
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_6" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Deporte" , LALIGA HYPERMOTION TV FHD --> NEW ERA II
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_7" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , EUROSPORT 2 FHD --> NEW ERA II
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Deporte" , M.L. CAMPEONES 2
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_9" tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="Deporte" , MOVISTAR PLUS
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_10" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="Deporte" , M DEPORTES
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_11" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="Deporte" , M DEPORTES
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_12" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="Deporte" , M DEPORTES 2
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_12/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_13" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" group-title="Deporte" , M DEPORTES 5
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" group-title="Deporte" , M DEPORTES 6
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" group-title="Deporte" , M DEPORTES 7
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_16" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN 1
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_17" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Deporte" , DAZN 2
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_17/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_18" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Deporte" , DAZN 2
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_19" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , M #VAMOS
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_20" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , M #VAMOS
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_21" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , EuroSport
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_22" tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" group-title="Deporte" , Copa del Rey
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_23" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 1080 (Fórmula 1)
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_24" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 1080 (Fórmula 1)
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_25" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 1080 (Fórmula 1)
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_26" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 720 (Fórmula 1)
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_27" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M. LaLiga 1080P
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_27/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_28" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M. LaLiga 1080 MultiAudio
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_29" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M. LaLiga 1080 MultiAudio
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_30" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M. LaLiga 720
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_30/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_31" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="Deporte" , M. LaLiga 2 1080
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_31/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_32" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="Deporte" , M. LaLiga 2 720
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_33" tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" group-title="Deporte" , M. LaLiga 3 1080
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_34" tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" group-title="Deporte" , M. LaLiga 3 720
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_34/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_35" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" group-title="Deporte" , M. LaLiga 4 1080
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_36" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" group-title="Deporte" , La Liga BAR 1080
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_36/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_37" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" group-title="Deporte" , La Liga BAR 1080
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_38" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Deporte" , DAZN LaLiga 1080 MultiAudio
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_39" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Deporte" , DAZN LaLiga 1080 MultiAudio
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_39/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_40" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Deporte" , DAZN LaLiga 1080 MultiAudio
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_40/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_41" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="Deporte" , DAZN LaLiga 720
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_41/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_42" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="Deporte" , DAZN LaLiga 2 1080 MultiAudio
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_43" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="Deporte" , DAZN LaLiga 2 720 MultiAudio
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_43/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_44" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Deporte" , LaLiga HYPERMOTION 1080
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_44/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_45" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Deporte" , LaLiga HYPERMOTION 720
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_45/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_46" tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Deporte" , LaLiga HYPERMOTION 2 1080
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_46/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_47" tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Deporte" , LaLiga HYPERMOTION 2 720
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_47/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_48" tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="Deporte" , LaLiga HYPERMOTION 3
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_48/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_49" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN 1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_49/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_50" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_51" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="Deporte" , DAZN LA LIGA 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_51/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_52" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" group-title="Deporte" , DAZN 1 BAR FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_52/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_53" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" group-title="Deporte" , DAZN 2 BAR FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_53/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_54" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 FHD (SAT) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_54/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_55" tvg-logo="https://static.motor.es/f1/fichas/contenido/fernando-alonso/min280x180/fernando-alonso2024_1708675566.jpg" group-title="Deporte" , F1 TV 14 | Fernando Alonso | Aston Martin --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_55/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_56" tvg-logo="https://static.motor.es/f1/fichas/contenido/carlos-sainz/min280x180/carlos-sainz2024_1708674925.jpg" group-title="Deporte" , F1 TV 55 | Carlos Sainz | Williams --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_56/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_57" tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Deporte" , MGPTV | Camara de a bordo 1 --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_57/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_58" tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Deporte" , MGPTV | Camara de a bordo 2 --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_58/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_59" tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Deporte" , MGPTV | Camara de a bordo 3 --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_59/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_60" tvg-logo="https://imgfz.com/i/4qpD71u.png" group-title="Deporte" , MGPTV | Camara de a bordo 4 --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_60/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_61" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN EVENTOS 1 --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_61/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_62" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Deporte" , DAZN EVENTOS 2 --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_62/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_63" tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="Deporte" , DAZN EVENTOS 3 --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_63/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_64" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png" group-title="Deporte" , DAZN BUNDESLIGA 1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_64/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_65" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/170px-2._Bundesliga_logo.svg.png" group-title="Deporte" , DAZN BUNDESLIGA 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_65/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_66" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" group-title="Deporte" , DAZN BUNDESLIGA 3 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_66/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_67" tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" group-title="Deporte" , Gol Play FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_67/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_68" tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" group-title="Deporte" , Teledeporte FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_68/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_69" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN 1 FHD (SAT) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_69/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_70" tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" group-title="Deporte" , MOVISTAR GOLF FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_70/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_71" tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" group-title="Deporte" , MOVISTAR GOLF 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_71/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_72" tvg-logo="https://i.ibb.co/rGVmRcSH/hits.png" group-title="Deporte" , MOVISTAR SERIES FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_72/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_73" tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" group-title="Deporte" , MOVISTAR CLASICOS FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_73/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_74" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Deporte" , M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_74/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_75" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Deporte" , M+ LIGA DE CAMPEONES FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_75/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_76" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Deporte" , M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_76/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_77" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_77/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_78" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_78/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_79" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 3 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_79/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_80" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 4 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_80/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_81" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 5 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_81/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_82" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 6 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_83" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 7 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_83/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_84" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 8 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_84/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_85" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 9 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_85/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_86" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 10 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_86/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_87" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 11 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_87/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_88" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 12 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_88/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_89" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 13 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_89/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_90" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2014.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 14 SD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_90/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_91" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2015.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 15 SD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_91/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_92" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2016.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 16 SD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_92/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_93" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2018.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 17 SD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_93/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_94" tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" group-title="Deporte" , M+ Super Copa (SAT) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_94/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_95" tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" group-title="Deporte" , M+ Super Copa --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_95/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_96" tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" group-title="Deporte" , M+ SuperCopa del Rey FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_96/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_97" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M+ LaLiga FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_97/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_98" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M+ LaLiga FHD (SAT) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_98/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_99" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M+ LaLiga FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_99/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_100" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="Deporte" , M+ LaLiga 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_101" tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" group-title="Deporte" , M+ LaLiga 3 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_102" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_103" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN 1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_104" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Deporte" , DAZN 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_105" tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="Deporte" , DAZN 3 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_105/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_106" tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" group-title="Deporte" , DAZN 4 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_107" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , #VAMOS FHD (SAT) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_107/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_108" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , #VAMOS FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_109" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , #VAMOS ELLAS  FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_109/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_110" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , EUROSPORT 1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_111" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , EUROSPORT 1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_111/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_112" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , EUROSPORT 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_113" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="Deporte" , M+ DEPORTES FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_113/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_114" tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="Deporte" , M+ DEPORTES 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_114/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_115" tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" group-title="Deporte" , M+ ACCION FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_115/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_116" tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" group-title="Deporte" , M+ PLUS 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_116/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_117" tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="Deporte" , M+ DEPORTES 3 FHD  --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_117/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_118" tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="Deporte" , M+ DEPORTES 4 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_118/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_119" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" group-title="Deporte" , M+ DEPORTES 5 HD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_119/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_120" tvg-logo="" group-title="Deporte" , UFC Fight Pass --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_120/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_121" tvg-logo="" group-title="Deporte" , NBA TV --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_121/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_122" tvg-logo="" group-title="Deporte" , NBA NETWORK --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_122/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_123" tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" group-title="Deporte" , LA 1 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_123/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_124" tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" group-title="Deporte" , LA 2 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_124/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_125" tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" group-title="Deporte" , ANTENA 3 FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_125/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_126" tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" group-title="Deporte" , CUATRO FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_126/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_127" tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" group-title="Deporte" , TELECINCO FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_127/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_128" tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" group-title="Deporte" , LA SEXTA FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_128/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_129" tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="Deporte" , M+ PLUS FHD --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_129/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_130" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Deporte" , LALIGA HYPERMOTION TV FHD de Tronoss
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_130/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_131" tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Deporte" , LALIGA HYPERMOTION TV2 HD de Tronoss
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_131/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_132" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Deporte" , LALIGA HYPERMOTION TV 3 FHD de Tronoss
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_132/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_133" tvg-logo="https://i.ibb.co/KqGDjxS/hypermotion4.png" group-title="Deporte" , LALIGA HYPERMOTION TV4 FHD de Tronoss
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_134" tvg-logo="https://i.ibb.co/XjgsTwd/hypermotion5.png" group-title="Deporte" , LALIGA HYPERMOTION TV5 FHD de Tronoss
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_134/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_135" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="Deporte" , DAZN LA LIGA 2 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_135/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_136" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" group-title="Deporte" , DAZN 1 BAR FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_136/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_137" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN F1 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_137/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_138" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN 1 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_138/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_139" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="Deporte" , DAZN 2 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_139/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_140" tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="Deporte" , DAZN 3 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_140/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_141" tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" group-title="Deporte" , DAZN 4 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_142" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Deporte" , M+ LIGA DE CAMPEONES FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_142/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_143" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Deporte" , M+ LIGA DE CAMPEONES FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_144" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 2 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_144/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_145" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 2 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_145/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_146" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 3 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_146/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_147" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 3 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_147/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_148" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 4 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_148/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_149" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="Deporte" , M+ LIGA DE CAMPEONES 5 FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_149/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_150" tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" group-title="Deporte" , M+ Super Copa (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_150/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_151" tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" group-title="Deporte" , M+ Super Copa (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_151/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_152" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="Deporte" , M+ DEPORTES FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_152/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_153" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="Deporte" , M+ DEPORTES FHD 2 (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_153/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_154" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Deporte" , #VAMOS FHD (*) --> NEW ERA
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_154/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_155" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" group-title="Deporte" , RALLY TV* --> NEW ERA III
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_155/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_156" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN FORMULA 1* --> NEW ERA III
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_156/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_157" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN 1* --> NEW ERA III
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_157/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_158" tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="Deporte" , M. Deportes HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_158/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_159" tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" group-title="Deporte" , M. Golf HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_159/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_160" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="Deporte" , M. LaLiga --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_160/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_161" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Deporte" , M. Liga de Campeones --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_161/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_162" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="Deporte" , DAZN FORMULA 1 FHDÂ©ï¸ --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_162/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_163" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , DAZN1 --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_163/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_164" tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="Deporte" , DAZN3 --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_164/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_165" tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" group-title="Deporte" , DAZN4 --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_165/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_166" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Deporte" , M+ DAZN 1 HDÂ©ï¸ --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_166/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_167" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , Eurosport 1 HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_167/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_168" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , Eurosport 1 HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_168/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_169" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="Deporte" , Eurosport 1 hd --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_169/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_170" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Deporte" , Sky Sports Arena [UK] --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_170/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_171" tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" group-title="Deporte" , Sky Sports Cricket [UK] --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_171/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_172" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" group-title="Deporte" , Sky Sports Football [UK] --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_172/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_173" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" group-title="Deporte" , Sky Sports Main Event [UK] --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_173/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_174" tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" group-title="Deporte" , AutoMotorSport HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_174/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_175" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" group-title="Deporte" , Canal Motor (720p) --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_175/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_176" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" group-title="Deporte" , Motors TV HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_176/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_177" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" group-title="Deporte" , Motorvision TV --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_177/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_178" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" group-title="Deporte" , Retrovision Motor --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_178/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_179" tvg-logo="" group-title="Deporte" , SuperTennis HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_179/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_180" tvg-logo="" group-title="Deporte" , Tennis Channel (UK) (720p) --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_180/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="canal_181" tvg-logo="" group-title="Deporte" , Tennis Channel HD --> NEW LOOP
+https://phil-home-notifications-shopper.trycloudflare.com/hls/canal_181/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlO1WfqtVlgVWv-Tpu9HwDfDGF72GRja7hScpBmJKzow&s=10" group-title="Deporte" , M+ La Liga
-https://allergy-letter-chance-inquiry.trycloudflare.com/hls/mla/index.m3u8
+https://phil-home-notifications-shopper.trycloudflare.com/hls/mla/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=y44drrjcqtxa18g3arxjz58ge_image-header_pEs_1723117975000&quality=70" group-title="Deporte" , DAZN F1 
-https://allergy-letter-chance-inquiry.trycloudflare.com/hls/f14k/index.m3u8
+https://phil-home-notifications-shopper.trycloudflare.com/hls/f14k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/08/LigadeCampeonesporMP.jpg" group-title="Deporte" , M+ La Liga Campeones 
-https://allergy-letter-chance-inquiry.trycloudflare.com/hls/mlac/index.m3u8
+https://phil-home-notifications-shopper.trycloudflare.com/hls/mlac/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jejfa7zjwwah17fk7z2md5t6e_image-header_pEs_1723118324000" group-title="Deporte" , DAZN La Liga
-https://allergy-letter-chance-inquiry.trycloudflare.com/hls/dzla/index.m3u8
+https://phil-home-notifications-shopper.trycloudflare.com/hls/dzla/index.m3u8
 
 #EXTINF:-1 tvg-id="runtime_tv" tvg-name="Run Time TV y Películas" tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/08/31/630f4ce65bd9f.jpeg" group-title="Runtime",Run Time TV y Películas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
