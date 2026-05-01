@@ -4,6 +4,15 @@
 https://produce-enrolled-thomson-alice.trycloudflare.com/f14k/index.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.smartbox.com/media/es/landing-page/SBX_DAZN_LP_768x400.jpg?thumbor=768x400" , DAZN
+http://matrivagoweb.xyz:8080/mauri000/03031993/67369
+
+
+
 #EXTINF:-1 tvg-id="runtime_tv" tvg-name="Run Time TV y Películas" tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/08/31/630f4ce65bd9f.jpeg" group-title="Runtime",Run Time TV y Películas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 
