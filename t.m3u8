@@ -15,6 +15,9 @@ https://allergy-letter-chance-inquiry.trycloudflare.com/hls/mla/index.m3u8
 https://allergy-letter-chance-inquiry.trycloudflare.com/hls/f14k/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy27GyHkD2S7Po9m6ndQp-di7L3gW1DPJnEs6kIvvZmg&s=10" group-title="Deporte" , DAZN La Liga
+https://allergy-letter-chance-inquiry.trycloudflare.com/hls/dzla/index.m3u8
+
 #EXTINF:-1 tvg-id="runtime_tv" tvg-name="Run Time TV y Películas" tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/08/31/630f4ce65bd9f.jpeg" group-title="Runtime",Run Time TV y Películas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 
