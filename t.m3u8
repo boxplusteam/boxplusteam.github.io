@@ -402,6 +402,15 @@ https://jmp2.uk/stvp-ESBC2700008SK
 
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-id="Boing.TV" tvg-logo="http://i.imgur.com/HZmS4m1.png" group-title="Niños",Boing
+http://92.176.119.180:2095/play/a1fy
+
+
+
 # --- CATEGORÍA: NIÑOS Y ANIME ---
 #EXTINF:-1 tvg-id="Avatar.es" group-title="Niños" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/featuredImage.jpg",Avatar
 https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
