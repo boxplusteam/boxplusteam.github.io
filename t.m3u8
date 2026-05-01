@@ -6,7 +6,7 @@ https://bg622.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.0TId91hbamz2t3elSldwuAHaCm?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Deporte" , M+ La Liga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlO1WfqtVlgVWv-Tpu9HwDfDGF72GRja7hScpBmJKzow&s=10" group-title="Deporte" , M+ La Liga
 https://allergy-letter-chance-inquiry.trycloudflare.com/hls/mla/index.m3u8
 
 
@@ -15,7 +15,11 @@ https://allergy-letter-chance-inquiry.trycloudflare.com/hls/mla/index.m3u8
 https://allergy-letter-chance-inquiry.trycloudflare.com/hls/f14k/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy27GyHkD2S7Po9m6ndQp-di7L3gW1DPJnEs6kIvvZmg&s=10" group-title="Deporte" , DAZN La Liga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Movistar-Liga-Campeones.jpg" group-title="Deporte" , M+ La Liga Campeones 
+https://allergy-letter-chance-inquiry.trycloudflare.com/hls/mlac/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jejfa7zjwwah17fk7z2md5t6e_image-header_pEs_1723118324000" group-title="Deporte" , DAZN La Liga
 https://allergy-letter-chance-inquiry.trycloudflare.com/hls/dzla/index.m3u8
 
 #EXTINF:-1 tvg-id="runtime_tv" tvg-name="Run Time TV y Películas" tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/08/31/630f4ce65bd9f.jpeg" group-title="Runtime",Run Time TV y Películas
