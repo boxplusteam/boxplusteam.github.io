@@ -8,7 +8,7 @@ https://produce-enrolled-thomson-alice.trycloudflare.com/f14k/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.smartbox.com/media/es/landing-page/SBX_DAZN_LP_768x400.jpg?thumbor=768x400" group-title="Deporte" , DAZN
+#EXTINF:-1 tvg-logo="" group-title="Deporte" , DAZN
 https://bg622.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8
 
 
