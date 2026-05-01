@@ -4,24 +4,6 @@
 https://produce-enrolled-thomson-alice.trycloudflare.com/f14k/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOUEek_AJ95Ihr3QJk3ryQ3EjTx3ILxQ_FbJZO3wzsRA&s=10" group-title="Deporte" , DAZN F1 
-https://produce-enrolled-thomson-alice.trycloudflare.com/f14k/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1720521601000&quality=70" group-title="Deporte" , DAZN 1
-https://produce-enrolled-thomson-alice.trycloudflare.com/dz1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLUz6lgD0VB2qqBSoK1SYZz9ysEAExN5fwY449KsEtx9PPBlEPEwZDmE&s=10" group-title="Deporte" , DAZN LA LIGA 
-https://produce-enrolled-thomson-alice.trycloudflare.com/dzla/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/F9Dm_xVW4AAP0BJ.jpg" group-title="Deporte" , MOVISTAR LA LIGA
-https://produce-enrolled-thomson-alice.trycloudflare.com/mla/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_Tl5xbVaiN1WMkK59whhqHyhDiV63swZU4Rrt9Dn2pJysUyfdM63uOs&s=10" group-title="Deporte" , MOVISTAR LA LIGA CAMPEONES
-https://produce-enrolled-thomson-alice.trycloudflare.com/mlac/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="runtime_tv" tvg-name="Run Time TV y Películas" tvg-logo="https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2022/08/31/630f4ce65bd9f.jpeg" group-title="Runtime",Run Time TV y Películas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 
