@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vortex Descargas</title>
+    <style>
+        /* Estilos generales y fondo negro */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Efecto de fondo animado */
+        .efecto-fondo {
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(40,40,40,1) 0%, rgba(0,0,0,1) 60%);
+            animation: rotarFondo 15s linear infinite;
+            z-index: -1;
+        }
+
+        @keyframes rotarFondo {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Estilo del título VORTEX */
+        h1 {
+            font-size: 5rem;
+            letter-spacing: 10px;
+            text-transform: uppercase;
+            margin-bottom: 50px;
+            text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 40px rgba(255, 255, 255, 0.5);
+            animation: latido 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes latido {
+            0% { transform: scale(1); text-shadow: 0 0 20px rgba(255, 255, 255, 0.8); }
+            100% { transform: scale(1.05); text-shadow: 0 0 30px rgba(255, 255, 255, 1), 0 0 50px rgba(255, 255, 255, 0.8); }
+        }
+
+        /* Contenedor de botones */
+        .botones {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+            z-index: 1;
+        }
+
+        /* Estilo base de los botones */
+        .btn {
+            text-decoration: none;
+            padding: 15px 40px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            border-radius: 50px;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Botón Rojo (PC) */
+        .btn-rojo {
+            background-color: #ff0000;
+            color: #ffffff;
+            border: 2px solid #ff0000;
+            box-shadow: 0 0 15px rgba(255, 0, 0, 0.5);
+        }
+
+        .btn-rojo:hover {
+            background-color: #000000;
+            color: #ff0000;
+            box-shadow: 0 0 30px rgba(255, 0, 0, 1);
+            transform: translateY(-5px);
+        }
+
+        /* Botón Android */
+        .btn-android {
+            background-color: #3ddc84; /* Color oficial de Android */
+            color: #000000;
+            border: 2px solid #3ddc84;
+            box-shadow: 0 0 15px rgba(61, 220, 132, 0.5);
+        }
+
+        .btn-android:hover {
+            background-color: #000000;
+            color: #3ddc84;
+            box-shadow: 0 0 30px rgba(61, 220, 132, 1);
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Animación de fondo -->
+    <div class="efecto-fondo"></div>
+
+    <!-- Título principal -->
+    <h1>Vortex</h1>
+
+    <!-- Botones de descarga -->
+    <div class="botones">
+        <!-- Enlace a Mediafire para PC -->
+        <a href="https://www.mediafire.com/file/j3u9ynkmvnsxfz1/VORTEX+FOR+PC.rar/file" class="btn btn-rojo" target="_blank" rel="noopener noreferrer">Descargar para PC</a>
+        
+        <!-- Enlace a Google Play para Android -->
+        <a href="https://play.google.com/store/apps/details?id=box.plus3&hl=es" class="btn btn-android" target="_blank" rel="noopener noreferrer">Descargar para Android</a>
+    </div>
+
+</body>
+</html>
